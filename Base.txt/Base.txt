@@ -1,1 +1,1 @@
-url="http://46.249.32.120/1964Base.db/server1964.db"
+url="https://github.com/Napalm-spec/Thanos-Team/blob/master/server1964.db"
