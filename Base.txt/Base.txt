@@ -1,1 +1,1 @@
-url="https://thanos.xp3.biz/server1964.db"
+url="http://46.249.32.120/1964Base.db/server1964.db"
