@@ -1,1 +1,1 @@
-url="http://46.249.32.120/1964Base.db/server1964.db"
+url="http://85.208.48.74/Base.db/server1964.db"
