@@ -19,12 +19,28 @@
 
 
 <channel>
-<name>[B][COLOR lime]●::[/COLOR] [COLOR white] FILMES 2021 | [COLOR red]7PLUS[/COLOR][/B]</name>
+<name>[B][COLOR red]●::[/COLOR] [COLOR white] LANÇAMENTOS 2022 | [COLOR red]7PLUS[/COLOR][/B]</name>
 <thumbnail>https://cld.pt/dl/thumb/1aba38c9-e087-429d-88f0-37bf7f5a9658/JOKER10.jpg?size=xl&crop=false&format=jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Filmes-21/2021</externallink>
 <fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
 <info>[B][COLOR lime]● [/COLOR][COLOR crimson]Produção de um filme[/COLOR][COLOR lime] ●[/COLOR][/B]
-[COLOR lime]■[/COLOR][COLOR gold] A elaboração de um filme é algo duradouro e pode-se dar por etapas.
+[COLOR red]■[/COLOR][COLOR white] A elaboração de um filme é algo duradouro e pode-se dar por etapas.
+Algumas produções têm muita visibilidade, englobando muitos custos (o filme mais caro produzido teve um custo de cerca de 700 milhões de dólares) e sendo formadas pelas altas empresas de Hollywood, já outras são menores, contando com a menor participação de pessoas em cada equipe.
+A produção de um filme pode ser dividida em três fases: a pré-produção, a produção e a pós-produção.[/COLOR]
+
+</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+  
+  
+<channel>
+<name>[B][COLOR red]●::[/COLOR] [COLOR white] FILMES 2021 | [COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://cld.pt/dl/thumb/1aba38c9-e087-429d-88f0-37bf7f5a9658/JOKER10.jpg?size=xl&crop=false&format=jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Filmes-21/2021</externallink>
+<fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
+<info>[B][COLOR lime]● [/COLOR][COLOR crimson]Produção de um filme[/COLOR][COLOR lime] ●[/COLOR][/B]
+[COLOR red]■[/COLOR][COLOR white] A elaboração de um filme é algo duradouro e pode-se dar por etapas.
 Algumas produções têm muita visibilidade, englobando muitos custos (o filme mais caro produzido teve um custo de cerca de 700 milhões de dólares) e sendo formadas pelas altas empresas de Hollywood, já outras são menores, contando com a menor participação de pessoas em cada equipe.
 A produção de um filme pode ser dividida em três fases: a pré-produção, a produção e a pós-produção.[/COLOR]
 
@@ -35,12 +51,12 @@ A produção de um filme pode ser dividida em três fases: a pré-produção, a 
 
 
 <channel>
-<name>[B][COLOR lime]●::[/COLOR] [COLOR white] FILMES | [COLOR red]7PLUS[/COLOR][/B]</name>
+<name>[B][COLOR red]●::[/COLOR] [COLOR white] FILMES | [COLOR red]7PLUS[/COLOR][/B]</name>
 <thumbnail>https://cld.pt/dl/thumb/1aba38c9-e087-429d-88f0-37bf7f5a9658/JOKER10.jpg?size=xl&crop=false&format=jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Filmes/2020</externallink>
 <fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
 <info>[B][B][COLOR lime]● [/COLOR][COLOR crimson]Produção de um filme[/COLOR][COLOR lime] ●[/COLOR][/B]
-[COLOR lime]■[/COLOR][COLOR gold] A elaboração de um filme é algo duradouro e pode-se dar por etapas.
+[COLOR red]■[/COLOR][COLOR white] A elaboração de um filme é algo duradouro e pode-se dar por etapas.
 Algumas produções têm muita visibilidade, englobando muitos custos (o filme mais caro produzido teve um custo de cerca de 700 milhões de dólares) e sendo formadas pelas altas empresas de Hollywood, já outras são menores, contando com a menor participação de pessoas em cada equipe.
 A produção de um filme pode ser dividida em três fases: a pré-produção, a produção e a pós-produção.[/COLOR]
 
@@ -60,8 +76,8 @@ A produção de um filme pode ser dividida em três fases: a pré-produção, a 
 <externallink>https://raw.githubusercontent.com/Napalm-spec/Play-Zone/master/Filmes-Marvel-DC/Filmes-Marvel-DC</externallink>
 <fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
 <info>[B][B][COLOR lime]● [/COLOR][COLOR crimson]Marvel Comics/DC Comics[/COLOR][COLOR lime] ●[/COLOR][/B]
-[COLOR lime]■[/COLOR][COLOR gold] A marca Marvel começou em 1961, ano em que a empresa lançou Quarteto Fantástico e outros títulos de super-heróis.[/COLOR]
-[COLOR lime]■[/COLOR][COLOR gold] A DC Comics é uma editora norte-americana subsidiária da companhia WarnerMedia situada em Burbank, Califórnia, especializada em histórias em quadrinhos e mídias relacionadas, 
+[COLOR red]■[/COLOR][COLOR white] A marca Marvel começou em 1961, ano em que a empresa lançou Quarteto Fantástico e outros títulos de super-heróis.[/COLOR]
+[COLOR red]■[/COLOR][COLOR white] A DC Comics é uma editora norte-americana subsidiária da companhia WarnerMedia situada em Burbank, Califórnia, especializada em histórias em quadrinhos e mídias relacionadas, 
 sendo considerada uma das maiores companhias ligadas a este ramo no mundo.[/COLOR]
 
 </info>
@@ -72,12 +88,12 @@ sendo considerada uma das maiores companhias ligadas a este ramo no mundo.[/COLO
 
 
 <channel>
-<name>[B][COLOR lime]●::[/COLOR] [COLOR white] SERIES | [COLOR red]7PLUS[/COLOR][/B]</name>
+<name>[B][COLOR red]●::[/COLOR] [COLOR white] SERIES | [COLOR red]7PLUS[/COLOR][/B]</name>
 <thumbnail>https://cld.pt/dl/thumb/85428e64-7542-4423-b964-3b9ad5cd67ed/JOKER11.jpg?size=xl&crop=false&format=jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/Play-Zone/master/Series/Categorias</externallink>
 <fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
 <info>[B][B][COLOR lime]● [/COLOR][COLOR crimson]Série de televisão[/COLOR][COLOR lime] ●[/COLOR][/B]
-[COLOR lime]■[/COLOR][COLOR gold] Série de televisão, série televisiva, série de TV ou telessérie[1][2] é um tipo de programa televisivo ou programa online com um número pré-definido de capítulos por temporada, chamados episódios.[/COLOR]
+[COLOR red]■[/COLOR][COLOR gold] Série de televisão, série televisiva, série de TV ou telessérie[1][2] é um tipo de programa televisivo ou programa online com um número pré-definido de capítulos por temporada, chamados episódios.[/COLOR]
 
 
 </info>
@@ -88,12 +104,12 @@ sendo considerada uma das maiores companhias ligadas a este ramo no mundo.[/COLO
 
 
 <channel>
-<name>[B][COLOR lime]●::[/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]7PLUS[/COLOR][/B]</name>
+<name>[B][COLOR red]●::[/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]7PLUS[/COLOR][/B]</name>
 <thumbnail>https://cld.pt/dl/thumb/9a08586b-6e22-4edb-b0b9-814cb0517546/JOKER22.jpg?size=xl&crop=false&format=jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/Play-Zone/master/Animacao/Animacao</externallink>
 <fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
 <info>[B][B][COLOR lime]● [/COLOR][COLOR crimson]Produção de um Animação[/COLOR][COLOR lime] ●[/COLOR][/B]
-[COLOR lime]■[/COLOR][COLOR gold] O primeiro desenho animado em um projetor de filmes moderno foi Fantasmagorie pelo diretor francês Émile Courtet (também chamado de Émile Cohl), projetado pela primeira vez em 17 de agosto de 1908, no 'Théâtre du Gymnase', em Paris. Courtet foi para Fort Lee, próximo da cidade de Nova York em 1912, onde trabalhou para o estúdio francês Éclair e espalhou sua técnica pelos Estados Unidos. [/COLOR]
+[COLOR red]■[/COLOR][COLOR gold] O primeiro desenho animado em um projetor de filmes moderno foi Fantasmagorie pelo diretor francês Émile Courtet (também chamado de Émile Cohl), projetado pela primeira vez em 17 de agosto de 1908, no 'Théâtre du Gymnase', em Paris. Courtet foi para Fort Lee, próximo da cidade de Nova York em 1912, onde trabalhou para o estúdio francês Éclair e espalhou sua técnica pelos Estados Unidos. [/COLOR]
 
 
 
