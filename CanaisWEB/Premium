@@ -5,4 +5,5 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=NOME&amp;iconImage=IMAGEM&amp;url=
+#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 FHD *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RTP_HD_2016_%28Reduced_Version%29.svg/1024px-RTP_HD_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",RTP 1 FHD *
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=7PLUS RTP 1 FHD;&amp;buffer=60000;url=http://powert4all.xyz:8080/live/FaBio3Sofia/XvEA2ApNVM/10763.m3u8
