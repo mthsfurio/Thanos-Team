@@ -64,3 +64,5 @@ http://45.224.115.214:80/damaris/123456/205
 http://45.224.115.214:80/damaris/123456/208
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
 http://45.224.115.214:80/damaris/123456/127
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+http://45.224.115.214:80/damaris/123456/191
