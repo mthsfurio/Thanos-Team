@@ -95,57 +95,57 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http
 #EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://distv.net/icons/tvverdevale.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV VERDE VALE
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/293.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO BRASILIA
-http://45.224.115.214:80/damaris/123456/3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO FLORIANOPOLIS
-http://45.224.115.214:80/damaris/123456/5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO MINAS
-http://45.224.115.214:80/damaris/123456/6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO NATAL
-http://45.224.115.214:80/damaris/123456/7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://distv.net/icons/globonews.png" group-title="REPORTAGEM",GLOBO NEWS
-http://45.224.115.214:80/damaris/123456/232
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/232.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZÔNICA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO REDE AMAZÔNICA
-http://45.224.115.214:80/damaris/123456/11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
-http://45.224.115.214:80/damaris/123456/13
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO GRANDE DO SUL
-http://45.224.115.214:80/damaris/123456/12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RPC CURITIBA
-http://45.224.115.214:80/damaris/123456/14
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO SP
-http://45.224.115.214:80/damaris/123456/15
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV ANHANGUERA GOIANIA
-http://45.224.115.214:80/damaris/123456/16
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV BAHIA
-http://45.224.115.214:80/damaris/123456/17
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV LIBERAL BELEM
-http://45.224.115.214:80/damaris/123456/18
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/18.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV MIRANTE
-http://45.224.115.214:80/damaris/123456/19
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INTERTV CABUGI(GLOBO)" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS NATAL",INTERTV CABUGI(GLOBO)
-http://45.224.115.214:80/damaris/123456/295
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/295.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BAHIA 
-http://45.224.115.214:80/damaris/123456/23
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BRASILIA 
-http://45.224.115.214:80/damaris/123456/25
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/25.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD GOIAS 
-http://45.224.115.214:80/damaris/123456/26
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/26.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MANAUS
-http://45.224.115.214:80/damaris/123456/22
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MG" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MG
-http://45.224.115.214:80/damaris/123456/32
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/32.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MINAS 
-http://45.224.115.214:80/damaris/123456/27
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS " tvg-logo="http://distv.net/icons/recordnews.png" group-title="REPORTAGEM",RECORD NEWS 
-http://45.224.115.214:80/damaris/123456/28
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/28.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD PARA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD PARA 
-http://45.224.115.214:80/damaris/123456/30
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/30.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD RIO 
-http://45.224.115.214:80/damaris/123456/31
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/31.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RECORD SP " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD SP 
-http://45.224.115.214:80/damaris/123456/33
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/33.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SBT RN" tvg-logo="http://distv.net/icons/sbt.png" group-title=" CANAIS LOCAIS NATAL",SBT RN
-http://45.224.115.214:80/damaris/123456/296
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/296.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
-http://45.224.115.214:80/damaris/123456/225
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/225.m3u8
 
