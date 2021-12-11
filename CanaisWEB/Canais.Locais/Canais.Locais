@@ -146,3 +146,6 @@ http://45.224.115.214:80/damaris/123456/31
 http://45.224.115.214:80/damaris/123456/33
 #EXTINF:-1 tvg-id="" tvg-name="SBT RN" tvg-logo="http://distv.net/icons/sbt.png" group-title=" CANAIS LOCAIS NATAL",SBT RN
 http://45.224.115.214:80/damaris/123456/296
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
+http://45.224.115.214:80/damaris/123456/225
+
