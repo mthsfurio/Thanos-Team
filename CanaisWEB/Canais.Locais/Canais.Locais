@@ -94,3 +94,12 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/306.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://distv.net/icons/tvverdevale.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV VERDE VALE
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/293.m3u8
+
+
+
+
+
+
+
+
+
