@@ -1,54 +1,54 @@
 #EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
-http://45.224.115.214:80/damaris/123456/224
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/224
 #EXTINF:-1 tvg-id="" tvg-name="CANAL 21" tvg-logo="http://distv.net/icons/canal21.png" group-title="CANAIS LOCAIS",CANAL 21
-http://45.224.115.214:80/damaris/123456/265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/265
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COMUNITARIO" tvg-logo="http://distv.net/icons/Canal%20ComunitaRIO.png" group-title="CANAIS LOCAIS",CANAL COMUNITARIO
-http://45.224.115.214:80/damaris/123456/267
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/267
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://distv.net/icons/canaldoboi.png" group-title="CANAIS LOCAIS",CANAL DO BOI
-http://45.224.115.214:80/damaris/123456/266
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/266
 #EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",CANÇÃO NOVA
-http://45.224.115.214:80/damaris/123456/65
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/65
 #EXTINF:-1 tvg-id="" tvg-name="EDUCAÇÃO" tvg-logo="http://distv.net/icons/EDUCA%c3%87%c3%83O.png" group-title="CANAIS LOCAIS",EDUCAÇÃO
-http://45.224.115.214:80/damaris/123456/285
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/285
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="http://distv.net/icons/EURO%20NEWS.png" group-title="CANAIS LOCAIS",EURO NEWS
-http://45.224.115.214:80/damaris/123456/270
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/270
 #EXTINF:-1 tvg-id="" tvg-name="FASHION" tvg-logo="http://distv.net/icons/fashiontv.png" group-title="CANAIS LOCAIS",FASHION
-http://45.224.115.214:80/damaris/123456/82
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/82
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO
-http://45.224.115.214:80/damaris/123456/231
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/231
 #EXTINF:-1 tvg-id="" tvg-name="NBR TV" tvg-logo="http://distv.net/icons/nbr.png" group-title="CANAIS LOCAIS",NBR TV
-http://45.224.115.214:80/damaris/123456/271
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/271
 #EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="http://distv.net/icons/playtv.png" group-title="CANAIS LOCAIS",PLAY TV
-http://45.224.115.214:80/damaris/123456/217
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/217
 #EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://distv.net/icons/polishop.png" group-title="CANAIS LOCAIS",POLISHOP
-http://45.224.115.214:80/damaris/123456/272
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/272
 #EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://distv.net/icons/redegenesis.png" group-title="CANAIS LOCAIS",REDE GENESIS
-http://45.224.115.214:80/damaris/123456/273
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/273
 #EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://distv.net/icons/redegospel.png" group-title="CANAIS LOCAIS",REDE GOSPEL
-http://45.224.115.214:80/damaris/123456/274
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/274
 #EXTINF:-1 tvg-id="" tvg-name="REDE MINAS" tvg-logo="http://distv.net/icons/Rede%20Minas.png" group-title="CANAIS LOCAIS",REDE MINAS
-http://45.224.115.214:80/damaris/123456/275
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/275
 #EXTINF:-1 tvg-id="" tvg-name="REDE SECULO 21" tvg-logo="http://distv.net/icons/seculo21.png" group-title="CANAIS LOCAIS",REDE SECULO 21
-http://45.224.115.214:80/damaris/123456/276
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/276
 #EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="http://distv.net/icons/redesuper.png" group-title="CANAIS LOCAIS",REDE SUPER
-http://45.224.115.214:80/damaris/123456/277
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/277
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REDE TV
-http://45.224.115.214:80/damaris/123456/69
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/69
 #EXTINF:-1 tvg-id="" tvg-name="RIT TV" tvg-logo="http://distv.net/icons/rittv.png" group-title="CANAIS LOCAIS",RIT TV
-http://45.224.115.214:80/damaris/123456/70
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/70
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
-http://45.224.115.214:80/damaris/123456/238
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/238
 #EXTINF:-1 tvg-id="" tvg-name="TBC" tvg-logo="http://distv.net/icons/TBC.png" group-title="CANAIS LOCAIS",TBC
-http://45.224.115.214:80/damaris/123456/278
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/278
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="CANAIS LOCAIS",TV BRASIL 2
-http://45.224.115.214:80/damaris/123456/279
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/279
 #EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA DIGITAL" tvg-logo="http://distv.net/icons/TV%20ESCOLA%20DIGITAL.png" group-title="CANAIS LOCAIS",TV ESCOLA DIGITAL
-http://45.224.115.214:80/damaris/123456/280
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/280
 #EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="http://distv.net/icons/tvevangelizar.png" group-title="CANAIS LOCAIS",TV EVANGELIZAR
-http://45.224.115.214:80/damaris/123456/91
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/91
 #EXTINF:-1 tvg-id="" tvg-name="TV HORIZONTE" tvg-logo="http://distv.net/icons/TV-HORIZONTE.png" group-title="CANAIS LOCAIS",TV HORIZONTE
-http://45.224.115.214:80/damaris/123456/281
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/281
 #EXTINF:-1 tvg-id="" tvg-name="TV RIOSUL" tvg-logo="http://distv.net/icons/tvriosul.png" group-title="CANAIS LOCAIS",TV RIOSUL
-http://45.224.115.214:80/damaris/123456/283
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/283
 #EXTINF:-1 tvg-id="" tvg-name="TV UNIAO" tvg-logo="http://distv.net/icons/redeuniao.png" group-title="CANAIS LOCAIS",TV UNIAO
-http://45.224.115.214:80/damaris/123456/92
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=DWIGHT FARROKH LISTAS GRATIS&amp;url=http://45.224.115.214:80/damaris/123456/92
