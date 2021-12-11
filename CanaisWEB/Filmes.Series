@@ -62,3 +62,5 @@ http://45.224.115.214:80/damaris/123456/202
 http://45.224.115.214:80/damaris/123456/205
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
 http://45.224.115.214:80/damaris/123456/208
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
+http://45.224.115.214:80/damaris/123456/127
