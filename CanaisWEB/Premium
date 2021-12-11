@@ -4,3 +4,1370 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BR: A FAZENDA 130000" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2021/09/09/c6dbf923d1_afazendalogo1-1.jpg" group-title="BRASIL",BR: 00A FAZ 103
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: A FAZENDA CAM 1" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2021/09/09/c6dbf923d1_afazendalogo1-1.jpg" group-title="BRASIL",BR: A FAZENDA CAM 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: A FAZENDA CAM 2" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2021/09/09/c6dbf923d1_afazendalogo1-1.jpg" group-title="BRASIL",BR: A FAZENDA CAM 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR:A FAZENDA CAM 3" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2021/09/09/c6dbf923d1_afazendalogo1-1.jpg" group-title="BRASIL",BR:A FAZENDA CAM 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: A FAZENDA CAM 4" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2021/09/09/c6dbf923d1_afazendalogo1-1.jpg" group-title="BRASIL",BR: A FAZENDA CAM 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: A FAZENDA CAM 5" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2021/09/09/c6dbf923d1_afazendalogo1-1.jpg" group-title="BRASIL",BR: A FAZENDA CAM 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: A FAZENDA CAM 6" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2021/09/09/c6dbf923d1_afazendalogo1-1.jpg" group-title="BRASIL",BR: A FAZENDA CAM 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: A FAZENDA CAM 7" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2021/09/09/c6dbf923d1_afazendalogo1-1.jpg" group-title="BRASIL",BR: A FAZENDA CAM 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR:A FAZENDA CAM 8" tvg-logo="https://imagens.ne10.uol.com.br/img/imagens/2021/09/09/c6dbf923d1_afazendalogo1-1.jpg" group-title="BRASIL",BR:A FAZENDA CAM 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡REDE RECORDﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡REDE RECORDﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD 4K" tvg-logo="" group-title="BRASIL",BR: RECORD 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP | FHD" tvg-logo="" group-title="BRASIL",BR: RECORD SP | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV SP FHD" tvg-logo="" group-title="BRASIL",BR: RECORD TV SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33172
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV SP HD" tvg-logo="" group-title="BRASIL",BR: RECORD TV SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33171
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV SP SD" tvg-logo="" group-title="BRASIL",BR: RECORD TV SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33170
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV INTERIOR SP FHD" tvg-logo="" group-title="BRASIL",BR: RECORD TV INTERIOR SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33169
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV INTERIOR SP HD" tvg-logo="" group-title="BRASIL",BR: RECORD TV INTERIOR SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33168
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV INTERIOR SP SD" tvg-logo="" group-title="BRASIL",BR: RECORD TV INTERIOR SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33167
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV RJ FHD" tvg-logo="" group-title="BRASIL",BR: RECORD TV RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33166
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV RJ HD" tvg-logo="" group-title="BRASIL",BR: RECORD TV RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33165
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV RJ SD" tvg-logo="" group-title="BRASIL",BR: RECORD TV RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33164
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV INTERIOR RJ FHD" tvg-logo="" group-title="BRASIL",BR: RECORD TV INTERIOR RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33163
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV INTERIOR RJ HD" tvg-logo="" group-title="BRASIL",BR: RECORD TV INTERIOR RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33162
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV INTERIOR RJ SD" tvg-logo="" group-title="BRASIL",BR: RECORD TV INTERIOR RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33161
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV RS FHD" tvg-logo="" group-title="BRASIL",BR: RECORD TV RS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33160
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV RS HD" tvg-logo="" group-title="BRASIL",BR: RECORD TV RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33159
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV RS SD" tvg-logo="" group-title="BRASIL",BR: RECORD TV RS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33158
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV BELEM FHD" tvg-logo="" group-title="BRASIL",BR: RECORD TV BELEM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33157
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV BELEM HD" tvg-logo="" group-title="BRASIL",BR: RECORD TV BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33156
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV BELEM SD" tvg-logo="" group-title="BRASIL",BR: RECORD TV BELEM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33155
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV CIDADE  HD" tvg-logo="" group-title="BRASIL",BR: RECORD TV CIDADE  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33154
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV CIDADE  SD" tvg-logo="" group-title="BRASIL",BR: RECORD TV CIDADE  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33153
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV CIDADE FHD" tvg-logo="" group-title="BRASIL",BR: RECORD TV CIDADE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33152
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV GO FHD" tvg-logo="" group-title="BRASIL",BR: RECORD TV GO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33151
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV GO HD" tvg-logo="" group-title="BRASIL",BR: RECORD TV GO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33150
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV GO SD" tvg-logo="" group-title="BRASIL",BR: RECORD TV GO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33149
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV MANAUS HD" tvg-logo="" group-title="BRASIL",BR: RECORD TV MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33148
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD TV MANAUS SD" tvg-logo="" group-title="BRASIL",BR: RECORD TV MANAUS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33147
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD BRASILIA | SD" tvg-logo="" group-title="BRASIL",BR: RECORD BRASILIA | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33146
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD CAMPINAS | SD" tvg-logo="" group-title="BRASIL",BR: RECORD CAMPINAS | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33145
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD GOIAS | SD" tvg-logo="" group-title="BRASIL",BR: RECORD GOIAS | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33144
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD ITAPOAN | SD" tvg-logo="" group-title="BRASIL",BR: RECORD ITAPOAN | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33143
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD MG | SD" tvg-logo="" group-title="BRASIL",BR: RECORD MG | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33142
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NORDESTE | SD" tvg-logo="" group-title="BRASIL",BR: RECORD NORDESTE | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33141
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RJ | SD" tvg-logo="" group-title="BRASIL",BR: RECORD RJ | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33140
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡REDE GLOBOﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡REDE GLOBOﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33139
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO 4K" tvg-logo="" group-title="BRASIL",BR: GLOBO 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33138
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NACIONAL FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO NACIONAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33137
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NACIONAL HD" tvg-logo="" group-title="BRASIL",BR: GLOBO NACIONAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33136
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NACIONAL SD" tvg-logo="" group-title="BRASIL",BR: GLOBO NACIONAL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33135
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO BRASILIA FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO BRASILIA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33134
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO BRASILIA HD" tvg-logo="" group-title="BRASIL",BR: GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33133
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO BRASILIA SD" tvg-logo="" group-title="BRASIL",BR: GLOBO BRASILIA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33132
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RJ FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33131
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RJ HD" tvg-logo="" group-title="BRASIL",BR: GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33130
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RJ SD" tvg-logo="" group-title="BRASIL",BR: GLOBO RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33129
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33128
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP HD" tvg-logo="" group-title="BRASIL",BR: GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33127
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO SP SD" tvg-logo="" group-title="BRASIL",BR: GLOBO SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33126
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV BAHIA FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO TV BAHIA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33125
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV BAHIA HD" tvg-logo="" group-title="BRASIL",BR: GLOBO TV BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33124
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV BAHIA SD" tvg-logo="" group-title="BRASIL",BR: GLOBO TV BAHIA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33123
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO MINAS FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33122
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO MINAS HD" tvg-logo="" group-title="BRASIL",BR: GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33121
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO MINAS SD" tvg-logo="" group-title="BRASIL",BR: GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33120
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV RIBEIRÃO PRETO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33119
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV RIBEIRÃO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33118
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV RIBEIRÃO PRETO SD" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV RIBEIRÃO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33117
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV SUL DE MINAS FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV SUL DE MINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33116
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV SUL DE MINAS HD" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33115
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV SUL DE MINAS SD" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV SUL DE MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33114
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV CAMPINAS FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV CAMPINAS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33113
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV CAMPINAS HD" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33112
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO EPTV CAMPINAS SD" tvg-logo="" group-title="BRASIL",BR: GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33111
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NORDESTE FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO NORDESTE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33110
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NORDESTE HD" tvg-logo="" group-title="BRASIL",BR: GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33109
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NORDESTE SD" tvg-logo="" group-title="BRASIL",BR: GLOBO NORDESTE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33108
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NSC TV FLORIANOPOLIS FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO NSC TV FLORIANOPOLIS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33107
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="" group-title="BRASIL",BR: GLOBO NSC TV FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33106
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NSC TV FLORIANOPOLIS SD" tvg-logo="" group-title="BRASIL",BR: GLOBO NSC TV FLORIANOPOLIS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33105
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RBS TV PORTO ALEGRE FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO RBS TV PORTO ALEGRE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33104
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RBS TV PORTO ALEGRE HD" tvg-logo="" group-title="BRASIL",BR: GLOBO RBS TV PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33103
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RBS TV PORTO ALEGRE SD" tvg-logo="" group-title="BRASIL",BR: GLOBO RBS TV PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33102
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV RIO SUL FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO TV RIO SUL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33101
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV RIO SUL HD" tvg-logo="" group-title="BRASIL",BR: GLOBO TV RIO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33100
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV RIO SUL SD" tvg-logo="" group-title="BRASIL",BR: GLOBO TV RIO SUL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33099
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RPC TV CURITIBA FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO RPC TV CURITIBA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33098
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RPC TV CURITIBA HD" tvg-logo="" group-title="BRASIL",BR: GLOBO RPC TV CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33097
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO RPC TV CURITIBA SD" tvg-logo="" group-title="BRASIL",BR: GLOBO RPC TV CURITIBA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33096
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV SERGIPE FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO TV SERGIPE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33095
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV SERGIPE HD" tvg-logo="" group-title="BRASIL",BR: GLOBO TV SERGIPE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33094
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO TV SERGIPE SD" tvg-logo="" group-title="BRASIL",BR: GLOBO TV SERGIPE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33093
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO PORTUGAL" tvg-logo="" group-title="BRASIL",BR: GLOBO PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33092
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡SBTﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡SBTﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33091
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT 4K" tvg-logo="" group-title="BRASIL",BR: SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33090
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RJ FHD" tvg-logo="" group-title="BRASIL",BR: SBT RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33089
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RJ HD" tvg-logo="" group-title="BRASIL",BR: SBT RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33088
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT RJ SD" tvg-logo="" group-title="BRASIL",BR: SBT RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33087
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP FHD" tvg-logo="" group-title="BRASIL",BR: SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33086
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP HD" tvg-logo="" group-title="BRASIL",BR: SBT SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33085
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT SP SD" tvg-logo="" group-title="BRASIL",BR: SBT SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33084
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT PR FHD" tvg-logo="" group-title="BRASIL",BR: SBT PR FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33083
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT PR HD" tvg-logo="" group-title="BRASIL",BR: SBT PR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33082
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT PR SD" tvg-logo="" group-title="BRASIL",BR: SBT PR SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33081
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT TV JANGADEIRO FHD" tvg-logo="" group-title="BRASIL",BR: SBT TV JANGADEIRO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33080
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT TV JANGADEIRO HD" tvg-logo="" group-title="BRASIL",BR: SBT TV JANGADEIRO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33079
+#EXTINF:-1 tvg-id="" tvg-name="BR: SBT TV JANGADEIRO SD" tvg-logo="" group-title="BRASIL",BR: SBT TV JANGADEIRO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33078
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡BANDﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡BANDﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33077
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND 4K" tvg-logo="" group-title="BRASIL",BR: BAND 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33076
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND" tvg-logo="" group-title="BRASIL",BR: BAND
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33075
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SP FHD" tvg-logo="" group-title="BRASIL",BR: BAND SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33074
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SP HD" tvg-logo="" group-title="BRASIL",BR: BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33073
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SP SD" tvg-logo="" group-title="BRASIL",BR: BAND SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33072
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band RJ" tvg-logo="" group-title="BRASIL",BR: Band RJ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33071
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND CAMPINAS" tvg-logo="" group-title="BRASIL",BR: BAND CAMPINAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33070
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND RECIFE FHD" tvg-logo="" group-title="BRASIL",BR: BAND RECIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33069
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND MARINGA FHD" tvg-logo="" group-title="BRASIL",BR: BAND MARINGA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33068
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND MARINGA HD" tvg-logo="" group-title="BRASIL",BR: BAND MARINGA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33067
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND MARINGA SD" tvg-logo="" group-title="BRASIL",BR: BAND MARINGA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33066
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡JORNALISMOﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡JORNALISMOﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33065
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="" group-title="BRASIL",BR: RECORD NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33064
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS SD" tvg-logo="" group-title="BRASIL",BR: RECORD NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33063
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS FHD" tvg-logo="" group-title="BRASIL",BR: GLOBO NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33062
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS SD" tvg-logo="" group-title="BRASIL",BR: GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33061
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS" tvg-logo="" group-title="BRASIL",BR: GLOBO NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33060
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS SD" tvg-logo="" group-title="BRASIL",BR: BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33059
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND NEWS" tvg-logo="" group-title="BRASIL",BR: BAND NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33058
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN BRASIL FHD" tvg-logo="" group-title="BRASIL",BR: CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33057
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN BRASIL SD" tvg-logo="" group-title="BRASIL",BR: CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33056
+#EXTINF:-1 tvg-id="" tvg-name="BR: CNN BRASIL" tvg-logo="" group-title="BRASIL",BR: CNN BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33055
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡CANAIS DIVERSOSﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡CANAIS DIVERSOSﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33054
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV FHD" tvg-logo="" group-title="BRASIL",BR: REDE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33053
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV SD" tvg-logo="" group-title="BRASIL",BR: REDE TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33052
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE VIDA" tvg-logo="" group-title="BRASIL",BR: REDE VIDA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33051
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE AMAZONICA MANAUS" tvg-logo="" group-title="BRASIL",BR: REDE AMAZONICA MANAUS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33050
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE BRASIL" tvg-logo="" group-title="BRASIL",BR: REDE BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33049
+#EXTINF:-1 tvg-id="" tvg-name="BR: REDE TV" tvg-logo="" group-title="BRASIL",BR: REDE TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33048
+#EXTINF:-1 tvg-id="" tvg-name="BR: FUTURA | FHD" tvg-logo="" group-title="BRASIL",BR: FUTURA | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33047
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIS FHD" tvg-logo="" group-title="BRASIL",BR: BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33046
+#EXTINF:-1 tvg-id="" tvg-name="BR: BIS SD" tvg-logo="" group-title="BRASIL",BR: BIS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33045
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BRASIL FHD" tvg-logo="" group-title="BRASIL",BR: TV BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33044
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV BRASIL SD" tvg-logo="" group-title="BRASIL",BR: TV BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33043
+#EXTINF:-1 tvg-id="" tvg-name="BR: CANAL BRASIL" tvg-logo="" group-title="BRASIL",BR: CANAL BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33042
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT FHD" tvg-logo="" group-title="BRASIL",BR: GNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33041
+#EXTINF:-1 tvg-id="" tvg-name="BR: GNT" tvg-logo="" group-title="BRASIL",BR: GNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33040
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL FHD" tvg-logo="" group-title="BRASIL",BR: COMEDY CENTRAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33039
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMEDY CENTRAL SD" tvg-logo="" group-title="BRASIL",BR: COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33038
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOOD NETWORK FHD" tvg-logo="" group-title="BRASIL",BR: FOOD NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33037
+#EXTINF:-1 tvg-id="" tvg-name="BR: LIFETIME FHD" tvg-logo="" group-title="BRASIL",BR: LIFETIME FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33036
+#EXTINF:-1 tvg-id="" tvg-name="BR: LIFETIME SD" tvg-logo="" group-title="BRASIL",BR: LIFETIME SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33035
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTISHOW FHD" tvg-logo="" group-title="BRASIL",BR: MULTISHOW FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33034
+#EXTINF:-1 tvg-id="" tvg-name="BR: MULTISHOW SD" tvg-logo="" group-title="BRASIL",BR: MULTISHOW SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33033
+#EXTINF:-1 tvg-id="" tvg-name="BR: MUSIC BOX BRASIL" tvg-logo="" group-title="BRASIL",BR: MUSIC BOX BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33032
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV FHD" tvg-logo="" group-title="BRASIL",BR: MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33031
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV SD" tvg-logo="" group-title="BRASIL",BR: MTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33030
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1 SD" tvg-logo="" group-title="BRASIL",BR: VH1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33029
+#EXTINF:-1 tvg-id="" tvg-name="BR: VH1" tvg-logo="" group-title="BRASIL",BR: VH1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33028
+#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE HD" tvg-logo="" group-title="BRASIL",BR: ARTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33027
+#EXTINF:-1 tvg-id="" tvg-name="BR: E! FHD" tvg-logo="" group-title="BRASIL",BR: E! FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33026
+#EXTINF:-1 tvg-id="" tvg-name="BR: E! HD" tvg-logo="" group-title="BRASIL",BR: E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33025
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV DIARIO FHD" tvg-logo="" group-title="BRASIL",BR: TV DIARIO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33024
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Diario SD" tvg-logo="" group-title="BRASIL",BR: TV Diario SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33023
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV GAZETA FHD" tvg-logo="" group-title="BRASIL",BR: TV GAZETA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33022
+#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA FHD" tvg-logo="" group-title="BRASIL",BR: VIVA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33021
+#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA HD" tvg-logo="" group-title="BRASIL",BR: VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33020
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAIS NA TELA FHD" tvg-logo="" group-title="BRASIL",BR: MAIS NA TELA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33019
+#EXTINF:-1 tvg-id="" tvg-name="BR: MAIS NA TELA HD" tvg-logo="" group-title="BRASIL",BR: MAIS NA TELA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33018
+#EXTINF:-1 tvg-id="" tvg-name="BR: FISH TV FHD" tvg-logo="" group-title="BRASIL",BR: FISH TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33017
+#EXTINF:-1 tvg-id="" tvg-name="BR: FISH TV HD" tvg-logo="" group-title="BRASIL",BR: FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33016
+#EXTINF:-1 tvg-id="" tvg-name="BR: NOVO TEMPO HD" tvg-logo="" group-title="BRASIL",BR: NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33015
+#EXTINF:-1 tvg-id="" tvg-name="BR: NOVO TEMPO SD" tvg-logo="" group-title="BRASIL",BR: NOVO TEMPO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33014
+#EXTINF:-1 tvg-id="" tvg-name="BR: EVANGELIZAR SD" tvg-logo="" group-title="BRASIL",BR: EVANGELIZAR SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33013
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡CANAIS ESPORTEﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡CANAIS ESPORTEﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33012
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS FHD" tvg-logo="" group-title="BRASIL",BR: BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33011
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS SD" tvg-logo="" group-title="BRASIL",BR: BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33010
+#EXTINF:-1 tvg-id="" tvg-name="BR: BAND SPORTS" tvg-logo="" group-title="BRASIL",BR: BAND SPORTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33009
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 4K" tvg-logo="" group-title="BRASIL",BR: SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33008
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV FHD" tvg-logo="" group-title="BRASIL",BR: SPORTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33007
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV SD" tvg-logo="" group-title="BRASIL",BR: SPORTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33006
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="" group-title="BRASIL",BR: SPORTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33005
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV2 FHD" tvg-logo="" group-title="BRASIL",BR: SPORTV2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33004
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 SD" tvg-logo="" group-title="BRASIL",BR: SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33003
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="" group-title="BRASIL",BR: SPORTV 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33002
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV3 FHD" tvg-logo="" group-title="BRASIL",BR: SPORTV3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33001
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 SD" tvg-logo="" group-title="BRASIL",BR: SPORTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/33000
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="" group-title="BRASIL",BR: SPORTV 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32999
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES 4K" tvg-logo="" group-title="BRASIL",BR: PREMIERE CLUBES 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32998
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES FHD" tvg-logo="" group-title="BRASIL",BR: PREMIERE CLUBES FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32997
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES SD" tvg-logo="" group-title="BRASIL",BR: PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32996
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES" tvg-logo="" group-title="BRASIL",BR: PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32995
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2 FHD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32994
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2 SD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32993
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2" tvg-logo="" group-title="BRASIL",BR: PREMIERE 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32992
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3 FHD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32991
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3 SD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32990
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3" tvg-logo="" group-title="BRASIL",BR: PREMIERE 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32989
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4 FHD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32988
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4 SD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32987
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4" tvg-logo="" group-title="BRASIL",BR: PREMIERE 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32986
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5 FHD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32985
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5 SD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32984
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5" tvg-logo="" group-title="BRASIL",BR: PREMIERE 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32983
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6 FHD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32982
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6 SD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32981
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6" tvg-logo="" group-title="BRASIL",BR: PREMIERE 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32980
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 7 FHD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32979
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 7 SD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32978
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 7" tvg-logo="" group-title="BRASIL",BR: PREMIERE 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32977
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 8 SD" tvg-logo="" group-title="BRASIL",BR: PREMIERE 8 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32976
+#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 8" tvg-logo="" group-title="BRASIL",BR: PREMIERE 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32975
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 4K" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32974
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS FHD" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32973
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS SD" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32972
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32971
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 4K" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32970
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 FHD" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32969
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 SD" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32968
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="" group-title="BRASIL",BR: FOX SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32967
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 4K" tvg-logo="" group-title="BRASIL",BR: ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32966
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN FHD" tvg-logo="" group-title="BRASIL",BR: ESPN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32965
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN SD" tvg-logo="" group-title="BRASIL",BR: ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32964
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="" group-title="BRASIL",BR: ESPN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32963
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 FHD" tvg-logo="" group-title="BRASIL",BR: ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32962
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="" group-title="BRASIL",BR: ESPN 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32961
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN BRASIL FHD" tvg-logo="" group-title="BRASIL",BR: ESPN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32960
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN BRASIL SD" tvg-logo="" group-title="BRASIL",BR: ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32959
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN BRASIL" tvg-logo="" group-title="BRASIL",BR: ESPN BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32958
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN EXTRA SD" tvg-logo="" group-title="BRASIL",BR: ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32957
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN BRASIL | FHD" tvg-logo="" group-title="BRASIL",BR: DAZN BRASIL | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32956
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN" tvg-logo="" group-title="BRASIL",BR: DAZN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32955
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 1" tvg-logo="" group-title="BRASIL",BR: DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32954
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 2" tvg-logo="" group-title="BRASIL",BR: DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32953
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 02 HD" tvg-logo="" group-title="BRASIL",BR: DAZN 02 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32952
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 03 HD" tvg-logo="" group-title="BRASIL",BR: DAZN 03 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32951
+#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 04 HD" tvg-logo="" group-title="BRASIL",BR: DAZN 04 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32950
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 1 4K" tvg-logo="" group-title="BRASIL",BR: CONMEBOL 1 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32949
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 1 HD" tvg-logo="" group-title="BRASIL",BR: CONMEBOL 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32948
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 1" tvg-logo="" group-title="BRASIL",BR: CONMEBOL 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32947
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 2 HD" tvg-logo="" group-title="BRASIL",BR: CONMEBOL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32946
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 2" tvg-logo="" group-title="BRASIL",BR: CONMEBOL 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32945
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 3 HD" tvg-logo="" group-title="BRASIL",BR: CONMEBOL 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32944
+#EXTINF:-1 tvg-id="" tvg-name="BR: CONMEBOL 3" tvg-logo="" group-title="BRASIL",BR: CONMEBOL 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32943
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO MAX CHAMPIONS LEAGUE 1" tvg-logo="" group-title="BRASIL",BR: HBO MAX CHAMPIONS LEAGUE 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32942
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO MAX CHAMPIONS LEAGUE 2" tvg-logo="" group-title="BRASIL",BR: HBO MAX CHAMPIONS LEAGUE 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32941
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO MAX CHAMPIONS LEAGUE 3" tvg-logo="" group-title="BRASIL",BR: HBO MAX CHAMPIONS LEAGUE 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32940
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO MAX CHAMPIONS LEAGUE 4" tvg-logo="" group-title="BRASIL",BR: HBO MAX CHAMPIONS LEAGUE 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32939
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO MAX CHAMPIONS LEAGUE 5" tvg-logo="" group-title="BRASIL",BR: HBO MAX CHAMPIONS LEAGUE 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32938
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SPORTS FHD" tvg-logo="" group-title="BRASIL",BR: TNT SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32937
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESTÁDIO TNT SPORTS 1 SD" tvg-logo="" group-title="BRASIL",BR: ESTÁDIO TNT SPORTS 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32936
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESTÁDIO TNT SPORTS 2 SD" tvg-logo="" group-title="BRASIL",BR: ESTÁDIO TNT SPORTS 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32935
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESTÁDIO TNT SPORTS 3 SD" tvg-logo="" group-title="BRASIL",BR: ESTÁDIO TNT SPORTS 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32934
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE 4K" tvg-logo="" group-title="BRASIL",BR: COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32933
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE FHD" tvg-logo="" group-title="BRASIL",BR: COMBATE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32932
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE SD" tvg-logo="" group-title="BRASIL",BR: COMBATE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32931
+#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE" tvg-logo="" group-title="BRASIL",BR: COMBATE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32930
+#EXTINF:-1 tvg-id="" tvg-name="BR: OFF FHD" tvg-logo="" group-title="BRASIL",BR: OFF FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32929
+#EXTINF:-1 tvg-id="" tvg-name="BR: OFF HD" tvg-logo="" group-title="BRASIL",BR: OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32928
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡CANAIS DE DOCUMENTARIOSﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡CANAIS DE DOCUMENTARIOSﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32927
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET FHD" tvg-logo="" group-title="BRASIL",BR: ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32926
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET SD" tvg-logo="" group-title="BRASIL",BR: ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32925
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY CHANNEL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32924
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL SD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32923
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HOME & HEALTH FHD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY HOME & HEALTH FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32922
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY HOME & HEALTH SD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32921
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE FHD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY SCIENCE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32920
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY SCIENCE SD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32919
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATER FHD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY THEATER FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32918
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATER SD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32917
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TURBO FHD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY TURBO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32916
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TURBO SD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32915
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TLC FHD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32914
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TLC SD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY TLC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32913
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY WORLD FHD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY WORLD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32912
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY ID - INVESTIGAÇÃO | FHD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY ID - INVESTIGAÇÃO | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32911
+#EXTINF:-1 tvg-id="" tvg-name="BR: ID - INVESTIGAÇÃO DISCOVERY | SD" tvg-logo="" group-title="BRASIL",BR: ID - INVESTIGAÇÃO DISCOVERY | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32910
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO SIGNATURE | FHD" tvg-logo="" group-title="BRASIL",BR: HBO SIGNATURE | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32909
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO SIGNATURE | SD" tvg-logo="" group-title="BRASIL",BR: HBO SIGNATURE | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32908
+#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY CHANNEL | FHD" tvg-logo="" group-title="BRASIL",BR: HISTORY CHANNEL | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32907
+#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY CHANNEL | SD" tvg-logo="" group-title="BRASIL",BR: HISTORY CHANNEL | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32906
+#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY2 | FHD" tvg-logo="" group-title="BRASIL",BR: HISTORY2 | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32905
+#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY2 | SD" tvg-logo="" group-title="BRASIL",BR: HISTORY2 | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32904
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO WILD | FHD" tvg-logo="" group-title="BRASIL",BR: NATGEO WILD | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32903
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO WILD | SD" tvg-logo="" group-title="BRASIL",BR: NATGEO WILD | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32902
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATIONAL GEOGRAPHIC | FHD" tvg-logo="" group-title="BRASIL",BR: NATIONAL GEOGRAPHIC | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32901
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATIONAL GEOGRAPHIC | SD" tvg-logo="" group-title="BRASIL",BR: NATIONAL GEOGRAPHIC | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32900
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡CANAIS FILMES & SERIESﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡CANAIS FILMES & SERIESﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32899
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO | FHD" tvg-logo="" group-title="BRASIL",BR: HBO | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32898
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO | SD" tvg-logo="" group-title="BRASIL",BR: HBO | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32897
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO2 | FHD" tvg-logo="" group-title="BRASIL",BR: HBO2 | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32896
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 | SD" tvg-logo="" group-title="BRASIL",BR: HBO 2 | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32895
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO MUNDI | FHD" tvg-logo="" group-title="BRASIL",BR: HBO MUNDI | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32894
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO MUNDI | SD" tvg-logo="" group-title="BRASIL",BR: HBO MUNDI | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32893
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO+ | FHD" tvg-logo="" group-title="BRASIL",BR: HBO+ | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32892
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO+ | SD" tvg-logo="" group-title="BRASIL",BR: HBO+ | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32891
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO POP | FHD" tvg-logo="" group-title="BRASIL",BR: HBO POP | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32890
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO POP | SD" tvg-logo="" group-title="BRASIL",BR: HBO POP | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32889
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY FHD" tvg-logo="" group-title="BRASIL",BR: HBO FAMILY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32888
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY | SD" tvg-logo="" group-title="BRASIL",BR: HBO FAMILY | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32887
+#EXTINF:-1 tvg-id="" tvg-name="BR: HBO Xtreme | SD" tvg-logo="" group-title="BRASIL",BR: HBO Xtreme | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32886
+#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL | FHD" tvg-logo="" group-title="BRASIL",BR: STUDIO UNIVERSAL | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32885
+#EXTINF:-1 tvg-id="" tvg-name="BR: STUDIO UNIVERSAL | SD" tvg-logo="" group-title="BRASIL",BR: STUDIO UNIVERSAL | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32884
+#EXTINF:-1 tvg-id="" tvg-name="BR: MEGAPIX | FHD" tvg-logo="" group-title="BRASIL",BR: MEGAPIX | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32883
+#EXTINF:-1 tvg-id="" tvg-name="BR: MEGAPIX | SD" tvg-logo="" group-title="BRASIL",BR: MEGAPIX | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32882
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE | FHD" tvg-logo="" group-title="BRASIL",BR: SPACE | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32881
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE | SD" tvg-logo="" group-title="BRASIL",BR: SPACE | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32880
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY | FHD" tvg-logo="" group-title="BRASIL",BR: SYFY | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32879
+#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY | SD" tvg-logo="" group-title="BRASIL",BR: SYFY | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32878
+#EXTINF:-1 tvg-id="" tvg-name="BR: TBS" tvg-logo="" group-title="BRASIL",BR: TBS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32877
+#EXTINF:-1 tvg-id="" tvg-name="BR: TCM" tvg-logo="" group-title="BRASIL",BR: TCM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32876
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT CHANNEL | FHD" tvg-logo="" group-title="BRASIL",BR: PARAMOUNT CHANNEL | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32875
+#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT CHANNEL | SD" tvg-logo="" group-title="BRASIL",BR: PARAMOUNT CHANNEL | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32874
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER | FHD" tvg-logo="" group-title="BRASIL",BR: WARNER | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32873
+#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER | SD" tvg-logo="" group-title="BRASIL",BR: WARNER | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32872
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E | FHD" tvg-logo="" group-title="BRASIL",BR: A&E | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32871
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E | SD" tvg-logo="" group-title="BRASIL",BR: A&E | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32870
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC | FHD" tvg-logo="" group-title="BRASIL",BR: AMC | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32869
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC | SD" tvg-logo="" group-title="BRASIL",BR: AMC | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32868
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN | FHD" tvg-logo="" group-title="BRASIL",BR: AXN | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32867
+#EXTINF:-1 tvg-id="" tvg-name="BR: AXN | SD" tvg-logo="" group-title="BRASIL",BR: AXN | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32866
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX | FHD" tvg-logo="" group-title="BRASIL",BR: CINEMAX | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32865
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX | SD" tvg-logo="" group-title="BRASIL",BR: CINEMAX | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32864
+#EXTINF:-1 tvg-id="" tvg-name="BR: SONY | FHD" tvg-logo="" group-title="BRASIL",BR: SONY | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32863
+#EXTINF:-1 tvg-id="" tvg-name="BR: SONY | SD" tvg-logo="" group-title="BRASIL",BR: SONY | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32862
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX | FHD" tvg-logo="" group-title="BRASIL",BR: FX | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32861
+#EXTINF:-1 tvg-id="" tvg-name="BR: FX | SD" tvg-logo="" group-title="BRASIL",BR: FX | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32860
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT | FHD" tvg-logo="" group-title="BRASIL",BR: TNT | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32859
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT | SD" tvg-logo="" group-title="BRASIL",BR: TNT | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32858
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES | FHD" tvg-logo="" group-title="BRASIL",BR: TNT SERIES | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32857
+#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES | SD" tvg-logo="" group-title="BRASIL",BR: TNT SERIES | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32856
+#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL CHANNEL | FHD" tvg-logo="" group-title="BRASIL",BR: UNIVERSAL CHANNEL | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32855
+#EXTINF:-1 tvg-id="" tvg-name="BR: UNIVERSAL CHANNEL | SD" tvg-logo="" group-title="BRASIL",BR: UNIVERSAL CHANNEL | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32854
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE ACTION | FHD" tvg-logo="" group-title="BRASIL",BR: TELECINE ACTION | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32853
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE ACTION | SD" tvg-logo="" group-title="BRASIL",BR: TELECINE ACTION | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32852
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE CULT | FHD" tvg-logo="" group-title="BRASIL",BR: TELECINE CULT | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32851
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE CULT | SD" tvg-logo="" group-title="BRASIL",BR: TELECINE CULT | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32850
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE FUN | FHD" tvg-logo="" group-title="BRASIL",BR: TELECINE FUN | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32849
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE FUN | SD" tvg-logo="" group-title="BRASIL",BR: TELECINE FUN | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32848
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PIPOCA | FHD" tvg-logo="" group-title="BRASIL",BR: TELECINE PIPOCA | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32847
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PIPOCA | SD" tvg-logo="" group-title="BRASIL",BR: TELECINE PIPOCA | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32846
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUM | FHD" tvg-logo="" group-title="BRASIL",BR: TELECINE PREMIUM | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32845
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUM | SD" tvg-logo="" group-title="BRASIL",BR: TELECINE PREMIUM | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32844
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE TOUCH | FHD" tvg-logo="" group-title="BRASIL",BR: TELECINE TOUCH | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32843
+#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE TOUCH | SD" tvg-logo="" group-title="BRASIL",BR: TELECINE TOUCH | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32842
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR CHANNEL | FHD" tvg-logo="" group-title="BRASIL",BR: STAR CHANNEL | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32841
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR CHANNEL | SD" tvg-logo="" group-title="BRASIL",BR: STAR CHANNEL | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32840
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR LIFE | FHD" tvg-logo="" group-title="BRASIL",BR: STAR LIFE | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32839
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR LIFE | SD" tvg-logo="" group-title="BRASIL",BR: STAR LIFE | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32838
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR HITS 1 | FHD" tvg-logo="" group-title="BRASIL",BR: STAR HITS 1 | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32837
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR HITS 1 | SD" tvg-logo="" group-title="BRASIL",BR: STAR HITS 1 | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32836
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR HITS 2 | FHD" tvg-logo="" group-title="BRASIL",BR: STAR HITS 2 | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32835
+#EXTINF:-1 tvg-id="" tvg-name="BR: STAR HITS 2 | SD" tvg-logo="" group-title="BRASIL",BR: STAR HITS 2 | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32834
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 01" tvg-logo="" group-title="BRASIL",BR: CINE SKY 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32833
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 02" tvg-logo="" group-title="BRASIL",BR: CINE SKY 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32832
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 03" tvg-logo="" group-title="BRASIL",BR: CINE SKY 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32831
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 04" tvg-logo="" group-title="BRASIL",BR: CINE SKY 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32830
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 05" tvg-logo="" group-title="BRASIL",BR: CINE SKY 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32829
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 06" tvg-logo="" group-title="BRASIL",BR: CINE SKY 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32828
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 07" tvg-logo="" group-title="BRASIL",BR: CINE SKY 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32827
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 08" tvg-logo="" group-title="BRASIL",BR: CINE SKY 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32826
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 09" tvg-logo="" group-title="BRASIL",BR: CINE SKY 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32825
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 10" tvg-logo="" group-title="BRASIL",BR: CINE SKY 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32824
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY LIGA DA JUSTIÇA" tvg-logo="" group-title="BRASIL",BR: CINE SKY LIGA DA JUSTIÇA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32823
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡CANAIS INFANTILﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡CANAIS INFANTILﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32822
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY TV | FHD" tvg-logo="" group-title="BRASIL",BR: BABY TV | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32821
+#EXTINF:-1 tvg-id="" tvg-name="BR: BABY TV | SD" tvg-logo="" group-title="BRASIL",BR: BABY TV | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32820
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERANG | FHD" tvg-logo="" group-title="BRASIL",BR: BOOMERANG | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32819
+#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERANG | SD" tvg-logo="" group-title="BRASIL",BR: BOOMERANG | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32818
+#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON NETWORK | FHD" tvg-logo="" group-title="BRASIL",BR: CARTOON NETWORK | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32817
+#EXTINF:-1 tvg-id="" tvg-name="BR: CARTOON NETWORK | SD" tvg-logo="" group-title="BRASIL",BR: CARTOON NETWORK | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32816
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS | FHD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY KIDS | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32815
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS | SD" tvg-logo="" group-title="BRASIL",BR: DISCOVERY KIDS | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32814
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL | FHD" tvg-logo="" group-title="BRASIL",BR: DISNEY CHANNEL | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32813
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL | SD" tvg-logo="" group-title="BRASIL",BR: DISNEY CHANNEL | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32812
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY JR | FHD" tvg-logo="" group-title="BRASIL",BR: DISNEY JR | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32811
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY JR | SD" tvg-logo="" group-title="BRASIL",BR: DISNEY JR | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32810
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY XD | FHD" tvg-logo="" group-title="BRASIL",BR: DISNEY XD | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32809
+#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY XD | SD" tvg-logo="" group-title="BRASIL",BR: DISNEY XD | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32808
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB | FHD" tvg-logo="" group-title="BRASIL",BR: GLOOB | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32807
+#EXTINF:-1 tvg-id="" tvg-name="BR: GLOOB | SD" tvg-logo="" group-title="BRASIL",BR: GLOOB | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32806
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO KIDS | FHD" tvg-logo="" group-title="BRASIL",BR: NATGEO KIDS | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32805
+#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO KIDS | SD" tvg-logo="" group-title="BRASIL",BR: NATGEO KIDS | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32804
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICK JR | SD" tvg-logo="" group-title="BRASIL",BR: NICK JR | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32803
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICK JUNIOR" tvg-logo="" group-title="BRASIL",BR: NICK JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32802
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON | FHD" tvg-logo="" group-title="BRASIL",BR: NICKELODEON | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32801
+#EXTINF:-1 tvg-id="" tvg-name="BR: NICKELODEON | SD" tvg-logo="" group-title="BRASIL",BR: NICKELODEON | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32800
+#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST | FHD" tvg-logo="" group-title="BRASIL",BR: TOONCAST | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32799
+#EXTINF:-1 tvg-id="" tvg-name="BR: WOOHOO | FHD" tvg-logo="" group-title="BRASIL",BR: WOOHOO | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32798
+#EXTINF:-1 tvg-id="" tvg-name="BR: WOOHOO | SD" tvg-logo="" group-title="BRASIL",BR: WOOHOO | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32797
+#EXTINF:-1 tvg-id="" tvg-name="BR: ZOOMOO | FHD" tvg-logo="" group-title="BRASIL",BR: ZOOMOO | FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32796
+#EXTINF:-1 tvg-id="" tvg-name="BR: ZOOMOO | SD" tvg-logo="" group-title="BRASIL",BR: ZOOMOO | SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32795
+#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡CANAIS 24 HORASﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://www.mediafire.com/convkey/3ecd/1w4791jmo6dmtvzzg.jpg" group-title="BRASIL",☆彡☆ﾐ☆彡CANAIS 24 HORASﾐ☆ﾐ☆ﾐ☆
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32794
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MUNDO BITA" tvg-logo="" group-title="BRASIL",BR: 24H MUNDO BITA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32793
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BUBU E AS CORUJINHAS" tvg-logo="" group-title="BRASIL",BR: 24H BUBU E AS CORUJINHAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32792
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H O SHOW DO GARFIELD" tvg-logo="" group-title="BRASIL",BR: 24H O SHOW DO GARFIELD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32791
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DANIEL TIGRE" tvg-logo="" group-title="BRASIL",BR: 24H DANIEL TIGRE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32790
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H GALINHA PINTADINHA" tvg-logo="" group-title="BRASIL",BR: 24H GALINHA PINTADINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32789
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H POLLY POCKET" tvg-logo="" group-title="BRASIL",BR: 24H POLLY POCKET
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32788
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H LOUIE" tvg-logo="" group-title="BRASIL",BR: 24H LOUIE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32787
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SEE T01" tvg-logo="" group-title="BRASIL",BR: 24H SEE T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32786
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H JESUS UM REINO SEM FRONTEIRA" tvg-logo="" group-title="BRASIL",BR: 24H JESUS UM REINO SEM FRONTEIRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32785
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H AVATAR A LENDA DE KORA H265" tvg-logo="" group-title="BRASIL",BR: 24H AVATAR A LENDA DE KORA H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32784
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CANÇÕES DE NINAR" tvg-logo="" group-title="BRASIL",BR: 24H CANÇÕES DE NINAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32783
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H 9-1-1" tvg-logo="" group-title="BRASIL",BR: 24H 9-1-1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32782
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H GALINHA PINTADINHA MINI" tvg-logo="" group-title="BRASIL",BR: 24H GALINHA PINTADINHA MINI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32781
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE TRAPALHÕES" tvg-logo="" group-title="BRASIL",BR: CINE TRAPALHÕES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32780
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PEPE LEGAL" tvg-logo="" group-title="BRASIL",BR: 24H PEPE LEGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32779
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SONIC THE HEDGEHOG" tvg-logo="" group-title="BRASIL",BR: 24H SONIC THE HEDGEHOG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32778
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H ANIMANIACS" tvg-logo="" group-title="BRASIL",BR: 24H ANIMANIACS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32777
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H AS NOIVAS DE COPACABANA" tvg-logo="" group-title="BRASIL",BR: 24H AS NOIVAS DE COPACABANA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32776
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H A VIDA COMO ELA É" tvg-logo="" group-title="BRASIL",BR: 24H A VIDA COMO ELA É
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32775
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MALHAÇÃO 1999" tvg-logo="" group-title="BRASIL",BR: 24H MALHAÇÃO 1999
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32774
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H ZILLION" tvg-logo="" group-title="BRASIL",BR: 24H ZILLION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32773
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS SIMPSONS 2011-2020" tvg-logo="" group-title="BRASIL",BR: 24H OS SIMPSONS 2011-2020
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32772
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PEGADINHAS AMERICANAS 2" tvg-logo="" group-title="BRASIL",BR: 24H PEGADINHAS AMERICANAS 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32771
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H GRAN HOTEL" tvg-logo="" group-title="BRASIL",BR: 24H GRAN HOTEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32770
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CHERNOBYL" tvg-logo="" group-title="BRASIL",BR: 24H CHERNOBYL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32769
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H REALITY Z" tvg-logo="" group-title="BRASIL",BR: 24H REALITY Z
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32768
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H LARGADOS E PELADOS A TRIBO" tvg-logo="" group-title="BRASIL",BR: 24H LARGADOS E PELADOS A TRIBO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32767
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H LADY NIGHT" tvg-logo="" group-title="BRASIL",BR: 24H LADY NIGHT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32766
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS SNORKS" tvg-logo="" group-title="BRASIL",BR: 24H OS SNORKS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32765
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TOM & JERRY CLASSICO" tvg-logo="" group-title="BRASIL",BR: 24H TOM & JERRY CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32764
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SESSÃO DA TARDE" tvg-logo="" group-title="BRASIL",BR: CINE SESSÃO DA TARDE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32763
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BOB ESPONJA T01 A 04" tvg-logo="" group-title="BRASIL",BR: 24H BOB ESPONJA T01 A 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32762
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PATRULHA CANINA T01" tvg-logo="" group-title="BRASIL",BR: 24H PATRULHA CANINA T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32761
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PATRULHA CANINA T02" tvg-logo="" group-title="BRASIL",BR: 24H PATRULHA CANINA T02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32760
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PATRULHA CANINA T03" tvg-logo="" group-title="BRASIL",BR: 24H PATRULHA CANINA T03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32759
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PATRULHA CANINA T04" tvg-logo="" group-title="BRASIL",BR: 24H PATRULHA CANINA T04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32758
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CHANGEMAN" tvg-logo="" group-title="BRASIL",BR: 24H CHANGEMAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32757
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90" tvg-logo="" group-title="BRASIL",BR: 24H ESCOLINHA PROFESSOR RAIMUNDO ANOS 90
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32756
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS SIMPSON 2000/2010" tvg-logo="" group-title="BRASIL",BR: 24H OS SIMPSON 2000/2010
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32755
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CAVERNA DO DRAGÃO" tvg-logo="" group-title="BRASIL",BR: 24H CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32754
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H IRMÃO DO JOREL" tvg-logo="" group-title="BRASIL",BR: 24H IRMÃO DO JOREL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32753
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BLACK KAMEN RIDER" tvg-logo="" group-title="BRASIL",BR: 24H BLACK KAMEN RIDER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32752
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE MARVEL" tvg-logo="" group-title="BRASIL",BR: CINE MARVEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32751
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H IRMÃOS A OBRA" tvg-logo="" group-title="BRASIL",BR: 24H IRMÃOS A OBRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32750
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H HOUSE OF CARDS" tvg-logo="" group-title="BRASIL",BR: 24H HOUSE OF CARDS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32749
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS HERCULÓIDES" tvg-logo="" group-title="BRASIL",BR: 24H OS HERCULÓIDES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32748
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H GIGANTES DA INDUSTRIA" tvg-logo="" group-title="BRASIL",BR: 24H GIGANTES DA INDUSTRIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32747
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MARIA MAGDALENA" tvg-logo="" group-title="BRASIL",BR: 24H MARIA MAGDALENA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32746
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MARVEL DEMOLIDOR" tvg-logo="" group-title="BRASIL",BR: 24H MARVEL DEMOLIDOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32745
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS TRAPALHÕES" tvg-logo="" group-title="BRASIL",BR: 24H OS TRAPALHÕES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32744
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL CLASSICO" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32743
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H A TURMA DA PANTERA COR DE ROSA" tvg-logo="" group-title="BRASIL",BR: 24H A TURMA DA PANTERA COR DE ROSA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32742
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TURMA DO RONALDINHO GAUCHO" tvg-logo="" group-title="BRASIL",BR: 24H TURMA DO RONALDINHO GAUCHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32741
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H O PODEROSO MIGTHOR" tvg-logo="" group-title="BRASIL",BR: 24H O PODEROSO MIGTHOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32740
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H 3 PALAVRINHAS" tvg-logo="" group-title="BRASIL",BR: 24H 3 PALAVRINHAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32739
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H NARUTO" tvg-logo="" group-title="BRASIL",BR: 24H NARUTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32738
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS SMURFS" tvg-logo="" group-title="BRASIL",BR: 24H OS SMURFS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32737
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PERDIDO NAS ESTRELAS" tvg-logo="" group-title="BRASIL",BR: 24H PERDIDO NAS ESTRELAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32736
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS CAVALEIROS DO ZODIACO" tvg-logo="" group-title="BRASIL",BR: 24H OS CAVALEIROS DO ZODIACO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32735
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PLIC & PLOC" tvg-logo="" group-title="BRASIL",BR: 24H PLIC & PLOC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32734
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H ROBOCOP DESENHO" tvg-logo="" group-title="BRASIL",BR: 24H ROBOCOP DESENHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32733
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SCOOBY-DOO & SCOOBY-LOO" tvg-logo="" group-title="BRASIL",BR: 24H SCOOBY-DOO & SCOOBY-LOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32732
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SURFISTA PRATEADO" tvg-logo="" group-title="BRASIL",BR: 24H SURFISTA PRATEADO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32731
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SOUTH PARK" tvg-logo="" group-title="BRASIL",BR: 24H SOUTH PARK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32730
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SPARTACUS" tvg-logo="" group-title="BRASIL",BR: 24H SPARTACUS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32729
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TARZAN" tvg-logo="" group-title="BRASIL",BR: 24H TARZAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32728
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H LARGADOS E PELADOS" tvg-logo="" group-title="BRASIL",BR: 24H LARGADOS E PELADOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32727
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H ENGRAÇADINHA" tvg-logo="" group-title="BRASIL",BR: 24H ENGRAÇADINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32726
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TV COLOSSO" tvg-logo="" group-title="BRASIL",BR: 24H TV COLOSSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32725
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H V A BATALHA FINAL" tvg-logo="" group-title="BRASIL",BR: 24H V A BATALHA FINAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32724
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS GÁRGULAS" tvg-logo="" group-title="BRASIL",BR: 24H OS GÁRGULAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32723
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H AMERICAN HOUSEWIFE" tvg-logo="" group-title="BRASIL",BR: 24H AMERICAN HOUSEWIFE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32722
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BONES" tvg-logo="" group-title="BRASIL",BR: 24H BONES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32721
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H COMANDOS EM AÇÃO" tvg-logo="" group-title="BRASIL",BR: 24H COMANDOS EM AÇÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32720
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H FREAKAZOID" tvg-logo="" group-title="BRASIL",BR: 24H FREAKAZOID
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32719
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H JIBAN" tvg-logo="" group-title="BRASIL",BR: 24H JIBAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32718
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE 007" tvg-logo="" group-title="BRASIL",BR: CINE 007
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32717
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BYCROSSERS" tvg-logo="" group-title="BRASIL",BR: 24H BYCROSSERS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32716
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H HEROES" tvg-logo="" group-title="BRASIL",BR: 24H HEROES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32715
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H FUTURAMA" tvg-logo="" group-title="BRASIL",BR: 24H FUTURAMA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32714
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H A VACA E O FRANGO" tvg-logo="" group-title="BRASIL",BR: 24H A VACA E O FRANGO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32713
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CASTORES PIRADOS" tvg-logo="" group-title="BRASIL",BR: 24H CASTORES PIRADOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32712
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H EU SOU O MAXIMO" tvg-logo="" group-title="BRASIL",BR: 24H EU SOU O MAXIMO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32711
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H FAISCA & FUMAÇA" tvg-logo="" group-title="BRASIL",BR: 24H FAISCA & FUMAÇA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32710
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H GATO FELIX" tvg-logo="" group-title="BRASIL",BR: 24H GATO FELIX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32709
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H HE-MAN" tvg-logo="" group-title="BRASIL",BR: 24H HE-MAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32708
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BANANAS DE PIJAMAS DESENHO" tvg-logo="" group-title="BRASIL",BR: 24H BANANAS DE PIJAMAS DESENHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32707
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS CAÇA FANTASMA DESENHO" tvg-logo="" group-title="BRASIL",BR: 24H OS CAÇA FANTASMA DESENHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32706
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SHE-RA CLASSICA" tvg-logo="" group-title="BRASIL",BR: 24H SHE-RA CLASSICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32705
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PUNKY A LEVADA DA BRECA" tvg-logo="" group-title="BRASIL",BR: 24H PUNKY A LEVADA DA BRECA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32704
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGON BALL LONGAS" tvg-logo="" group-title="BRASIL",BR: 24H DRAGON BALL LONGAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32703
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H UM MALUCO NO PEDAÇO" tvg-logo="" group-title="BRASIL",BR: 24H UM MALUCO NO PEDAÇO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32702
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H XENA A PRINCESA GUERREIRA" tvg-logo="" group-title="BRASIL",BR: 24H XENA A PRINCESA GUERREIRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32701
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BOOBA" tvg-logo="" group-title="BRASIL",BR: 24H BOOBA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32700
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CARGA PESADA" tvg-logo="" group-title="BRASIL",BR: 24H CARGA PESADA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32699
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS URSINHOS CARINHOSOS" tvg-logo="" group-title="BRASIL",BR: 24H OS URSINHOS CARINHOSOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32698
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CAPITÃO CAVERNA" tvg-logo="" group-title="BRASIL",BR: 24H CAPITÃO CAVERNA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32697
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H O SÓCIO" tvg-logo="" group-title="BRASIL",BR: 24H O SÓCIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32696
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MARSHA E O URSO" tvg-logo="" group-title="BRASIL",BR: 24H MARSHA E O URSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32695
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TRÊS ESPIÃS DEMAIS" tvg-logo="" group-title="BRASIL",BR: 24H TRÊS ESPIÃS DEMAIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32694
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TAZ MANIA" tvg-logo="" group-title="BRASIL",BR: 24H TAZ MANIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32693
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04" tvg-logo="" group-title="BRASIL",BR: 24H OS JOVENS TITÃS EM AÇÃO T-01 Á 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32692
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS JOVENS TITÃS EM AÇÃO T05" tvg-logo="" group-title="BRASIL",BR: 24H OS JOVENS TITÃS EM AÇÃO T05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32691
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BOB CONSTRUTOR 1999" tvg-logo="" group-title="BRASIL",BR: 24H BOB CONSTRUTOR 1999
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32690
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H HILDA FURACÃO" tvg-logo="" group-title="BRASIL",BR: 24H HILDA FURACÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32689
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS RONI" tvg-logo="" group-title="BRASIL",BR: 24H OS RONI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32688
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CONTOS ASSUSTADORES DA MASHA" tvg-logo="" group-title="BRASIL",BR: 24H CONTOS ASSUSTADORES DA MASHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32687
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TV QUACK" tvg-logo="" group-title="BRASIL",BR: 24H TV QUACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32686
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TRANSFORMERS" tvg-logo="" group-title="BRASIL",BR: 24H TRANSFORMERS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32685
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TODO MUNDO ODEIA O CHRIS" tvg-logo="" group-title="BRASIL",BR: 24H TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32684
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CHAVES MULTISHOW" tvg-logo="" group-title="BRASIL",BR: 24H CHAVES MULTISHOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32683
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SUPERCAMPEÕES" tvg-logo="" group-title="BRASIL",BR: 24H SUPERCAMPEÕES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32682
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SUPERAMIGOS" tvg-logo="" group-title="BRASIL",BR: 24H SUPERAMIGOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32681
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H STREET FIGHTER" tvg-logo="" group-title="BRASIL",BR: 24H STREET FIGHTER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32680
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SITIO DO PICA PAU AMARELO" tvg-logo="" group-title="BRASIL",BR: 24H SITIO DO PICA PAU AMARELO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32679
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SHAZAAM" tvg-logo="" group-title="BRASIL",BR: 24H SHAZAAM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32678
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SAMURAI JACK" tvg-logo="" group-title="BRASIL",BR: 24H SAMURAI JACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32677
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H A VIDA MODERNA DE ROCKO" tvg-logo="" group-title="BRASIL",BR: 24H A VIDA MODERNA DE ROCKO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32676
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H REN & STIMPY" tvg-logo="" group-title="BRASIL",BR: 24H REN & STIMPY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32675
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H RAMBO DESENHO" tvg-logo="" group-title="BRASIL",BR: 24H RAMBO DESENHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32674
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H POWER RANGERS CLASSICO" tvg-logo="" group-title="BRASIL",BR: 24H POWER RANGERS CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32673
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H POLE POSITION" tvg-logo="" group-title="BRASIL",BR: 24H POLE POSITION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32672
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PINK E O CEREBRO" tvg-logo="" group-title="BRASIL",BR: 24H PINK E O CEREBRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32671
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PICA- PAU" tvg-logo="" group-title="BRASIL",BR: 24H PICA- PAU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32670
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H O PEQUENO SCOOBY-DOO" tvg-logo="" group-title="BRASIL",BR: 24H O PEQUENO SCOOBY-DOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32669
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PAPA LÉGUAS" tvg-logo="" group-title="BRASIL",BR: 24H PAPA LÉGUAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32668
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA" tvg-logo="" group-title="BRASIL",BR: 24H OS MISTÉRIOS DE PIU-PIU E FRAJOLA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32667
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H O PEQUENO URSO" tvg-logo="" group-title="BRASIL",BR: 24H O PEQUENO URSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32666
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H 44 GATOS" tvg-logo="" group-title="BRASIL",BR: 24H 44 GATOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32665
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MUMIAS VIVAS" tvg-logo="" group-title="BRASIL",BR: 24H MUMIAS VIVAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32664
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MISTER MAKER" tvg-logo="" group-title="BRASIL",BR: 24H MISTER MAKER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32663
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CHAVES TEMPORADA 01 E 02" tvg-logo="" group-title="BRASIL",BR: 24H CHAVES TEMPORADA 01 E 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32662
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CHAVES TEMPORADA 03 E 04" tvg-logo="" group-title="BRASIL",BR: 24H CHAVES TEMPORADA 03 E 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32661
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CHAVES TEMPORADA 05 E 06" tvg-logo="" group-title="BRASIL",BR: 24H CHAVES TEMPORADA 05 E 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32660
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CHAVES TEMPORADA 07" tvg-logo="" group-title="BRASIL",BR: 24H CHAVES TEMPORADA 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32659
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MORANGUINHO AVENTURAS EM TUTTI FRUTI" tvg-logo="" group-title="BRASIL",BR: 24H MORANGUINHO AVENTURAS EM TUTTI FRUTI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32658
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MICKEY CLASSICO" tvg-logo="" group-title="BRASIL",BR: 24H MICKEY CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32657
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H A TURMA DO ZÉ COLMÉIA" tvg-logo="" group-title="BRASIL",BR: 24H A TURMA DO ZÉ COLMÉIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32656
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H O MANDALORIANO T01" tvg-logo="" group-title="BRASIL",BR: 24H O MANDALORIANO T01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32655
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL SUPER H265" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL SUPER H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32654
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL Z SAGA SAYAJIN" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL Z SAGA SAYAJIN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32653
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL Z SAGA NAMEKUSEI" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL Z SAGA NAMEKUSEI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32652
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL Z SAGA FREEZA" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL Z SAGA FREEZA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32651
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL Z SAGA ANDROIDES" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL Z SAGA ANDROIDES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32650
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL Z SAGA CELL" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL Z SAGA CELL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32649
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL Z SAGA TORNEIO DO CELL" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL Z SAGA TORNEIO DO CELL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32648
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL Z SAGA SAYAMAN" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL Z SAGA SAYAMAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32647
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL Z SAGA BABIDI" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL Z SAGA BABIDI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32646
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAGONBALL Z SAGA MAJINBU" tvg-logo="" group-title="BRASIL",BR: 24H DRAGONBALL Z SAGA MAJINBU
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32645
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H A CASA DO MICKEY MOUSE" tvg-logo="" group-title="BRASIL",BR: 24H A CASA DO MICKEY MOUSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32644
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H A FAMILÍA HATHAWAYS" tvg-logo="" group-title="BRASIL",BR: 24H A FAMILÍA HATHAWAYS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32643
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MEU AMIGÃOZÃO" tvg-logo="" group-title="BRASIL",BR: 24H MEU AMIGÃOZÃO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32642
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H ANIMAZOO" tvg-logo="" group-title="BRASIL",BR: 24H ANIMAZOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32641
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BABY LOONEY TUNES" tvg-logo="" group-title="BRASIL",BR: 24H BABY LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32640
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS BACKYARDIGANS" tvg-logo="" group-title="BRASIL",BR: 24H OS BACKYARDIGANS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32639
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BATMAN E ROBIN CLASSICO" tvg-logo="" group-title="BRASIL",BR: 24H BATMAN E ROBIN CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32638
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SAKURA CARDCAPTORS" tvg-logo="" group-title="BRASIL",BR: 24H SAKURA CARDCAPTORS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32637
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BEN 10 OMNIVERSE" tvg-logo="" group-title="BRASIL",BR: 24H BEN 10 OMNIVERSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32636
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BEN 10" tvg-logo="" group-title="BRASIL",BR: 24H BEN 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32635
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SUPER CHOQUE" tvg-logo="" group-title="BRASIL",BR: 24H SUPER CHOQUE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32634
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BRAVESTAR" tvg-logo="" group-title="BRASIL",BR: 24H BRAVESTAR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32633
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H FRANKSTEIN JR E OS IMPOSSIVEÍS" tvg-logo="" group-title="BRASIL",BR: 24H FRANKSTEIN JR E OS IMPOSSIVEÍS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32632
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H XODÓ DA VOVÓ" tvg-logo="" group-title="BRASIL",BR: 24H XODÓ DA VOVÓ
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32631
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H WOLVERINE E OS X-MEN" tvg-logo="" group-title="BRASIL",BR: 24H WOLVERINE E OS X-MEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32630
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H ZORRO CLASSICO" tvg-logo="" group-title="BRASIL",BR: 24H ZORRO CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32629
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BOB ZOOM" tvg-logo="" group-title="BRASIL",BR: 24H BOB ZOOM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32628
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CAVALO DE FOGO" tvg-logo="" group-title="BRASIL",BR: 24H CAVALO DE FOGO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32627
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H TÁ CHOVENDO HAMBURGUER" tvg-logo="" group-title="BRASIL",BR: 24H TÁ CHOVENDO HAMBURGUER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32626
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CLARÊNCIO O OTIMISTA" tvg-logo="" group-title="BRASIL",BR: 24H CLARÊNCIO O OTIMISTA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32625
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CORAGEM O CÃO COVARDE" tvg-logo="" group-title="BRASIL",BR: 24H CORAGEM O CÃO COVARDE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32624
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CYBERCOPS" tvg-logo="" group-title="BRASIL",BR: 24H CYBERCOPS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32623
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DRAKE & JOSH" tvg-logo="" group-title="BRASIL",BR: 24H DRAKE & JOSH
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32622
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DE VOLTA PARA O FUTURO DESENHO" tvg-logo="" group-title="BRASIL",BR: 24H DE VOLTA PARA O FUTURO DESENHO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32621
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DESENCANTO" tvg-logo="" group-title="BRASIL",BR: 24H DESENCANTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32620
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H AS AVENTURAS DE TOM & JERRY" tvg-logo="" group-title="BRASIL",BR: 24H AS AVENTURAS DE TOM & JERRY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32619
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DESENHOS BIBLICOS" tvg-logo="" group-title="BRASIL",BR: 24H DESENHOS BIBLICOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32618
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MEGAMAN CLASSICO" tvg-logo="" group-title="BRASIL",BR: 24H MEGAMAN CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32617
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS 7A" tvg-logo="" group-title="BRASIL",BR: 24H OS 7A
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32616
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DIGIMON" tvg-logo="" group-title="BRASIL",BR: 24H DIGIMON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32615
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OQUE HÁ DE NOVO SCOOBY DOO?" tvg-logo="" group-title="BRASIL",BR: 24H OQUE HÁ DE NOVO SCOOBY DOO?
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32614
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H QUE LEGAL SCOOBY DOO" tvg-logo="" group-title="BRASIL",BR: 24H QUE LEGAL SCOOBY DOO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32613
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PATO DONALD" tvg-logo="" group-title="BRASIL",BR: 24H PATO DONALD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32612
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DOUG" tvg-logo="" group-title="BRASIL",BR: 24H DOUG
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32611
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SILVERHAWKS" tvg-logo="" group-title="BRASIL",BR: 24H SILVERHAWKS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32610
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SUPERNATURAL T01 A 05" tvg-logo="" group-title="BRASIL",BR: 24H SUPERNATURAL T01 A 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32609
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H LEGO UMA AVENTURA NA CIDADE" tvg-logo="" group-title="BRASIL",BR: 24H LEGO UMA AVENTURA NA CIDADE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32608
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BREAKING BAD" tvg-logo="" group-title="BRASIL",BR: 24H BREAKING BAD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32607
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H POLICIA 24 HORAS" tvg-logo="" group-title="BRASIL",BR: 24H POLICIA 24 HORAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32606
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DUCK DODGERS" tvg-logo="" group-title="BRASIL",BR: 24H DUCK DODGERS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32605
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DUCK TALES CLÁSSICO" tvg-logo="" group-title="BRASIL",BR: 24H DUCK TALES CLÁSSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32604
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H FÁBULAS DA DISNEY" tvg-logo="" group-title="BRASIL",BR: 24H FÁBULAS DA DISNEY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32603
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H VERDADES SECRETAS" tvg-logo="" group-title="BRASIL",BR: 24H VERDADES SECRETAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32602
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE FAROESTE" tvg-logo="" group-title="BRASIL",BR: CINE FAROESTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32601
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS FEITICEIROS DE WAVERLY PLACE" tvg-logo="" group-title="BRASIL",BR: 24H OS FEITICEIROS DE WAVERLY PLACE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32600
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H FORMIGA ATÔMICA" tvg-logo="" group-title="BRASIL",BR: 24H FORMIGA ATÔMICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32599
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H GALINHA BABY" tvg-logo="" group-title="BRASIL",BR: 24H GALINHA BABY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32598
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H GOOGLE FIVE" tvg-logo="" group-title="BRASIL",BR: 24H GOOGLE FIVE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32597
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H O SHOW DOS LOONEY TUNES" tvg-logo="" group-title="BRASIL",BR: 24H O SHOW DOS LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32596
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H O INCRÍVEL MUNDO DE GUMBALL" tvg-logo="" group-title="BRASIL",BR: 24H O INCRÍVEL MUNDO DE GUMBALL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32595
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H EMPIRE" tvg-logo="" group-title="BRASIL",BR: 24H EMPIRE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32594
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H iCARLY" tvg-logo="" group-title="BRASIL",BR: 24H iCARLY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32593
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H LION MAN" tvg-logo="" group-title="BRASIL",BR: 24H LION MAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32592
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H JAKE E OS PIRATAS" tvg-logo="" group-title="BRASIL",BR: 24H JAKE E OS PIRATAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32591
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS JETSONS" tvg-logo="" group-title="BRASIL",BR: 24H OS JETSONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32590
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H HULK CLÁSSICO" tvg-logo="" group-title="BRASIL",BR: 24H HULK CLÁSSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32589
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H JONNY QUEST" tvg-logo="" group-title="BRASIL",BR: 24H JONNY QUEST
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32588
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H KENAN E KEL" tvg-logo="" group-title="BRASIL",BR: 24H KENAN E KEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32587
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H LIE TO ME" tvg-logo="" group-title="BRASIL",BR: 24H LIE TO ME
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32586
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H  NIPTUCK ESTÉTICA" tvg-logo="" group-title="BRASIL",BR: 24H  NIPTUCK ESTÉTICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32585
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H X-MEN CLÁSSICO" tvg-logo="" group-title="BRASIL",BR: 24H X-MEN CLÁSSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32584
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SUPER-MÁQUINA" tvg-logo="" group-title="BRASIL",BR: 24H SUPER-MÁQUINA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32583
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OPERAÇÃO POLICIAL" tvg-logo="" group-title="BRASIL",BR: 24H OPERAÇÃO POLICIAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32582
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H FLY O PEQUENO GUERREIRO" tvg-logo="" group-title="BRASIL",BR: 24H FLY O PEQUENO GUERREIRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32581
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PICA-PAU CLÁSSICO" tvg-logo="" group-title="BRASIL",BR: 24H PICA-PAU CLÁSSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32580
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H EU A PATROA E AS CRIANÇAS" tvg-logo="" group-title="BRASIL",BR: 24H EU A PATROA E AS CRIANÇAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32579
+#EXTINF:-1 tvg-id="" tvg-name="BR: CINE DISNEY" tvg-logo="" group-title="BRASIL",BR: CINE DISNEY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32578
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H THE BIG BANG THEORY T01 Á T05" tvg-logo="" group-title="BRASIL",BR: 24H THE BIG BANG THEORY T01 Á T05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32577
+#EXTINF:-1 tvg-id="" tvg-name="BR: OS SIMPSONS 1989/1999" tvg-logo="" group-title="BRASIL",BR: OS SIMPSONS 1989/1999
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32576
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H JASPION" tvg-logo="" group-title="BRASIL",BR: 24H JASPION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32575
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SHAUN O CARNEIRO" tvg-logo="" group-title="BRASIL",BR: 24H SHAUN O CARNEIRO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32574
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OGGY E AS BARATAS TONTAS" tvg-logo="" group-title="BRASIL",BR: 24H OGGY E AS BARATAS TONTAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32573
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H LARANJA IRRITANTE" tvg-logo="" group-title="BRASIL",BR: 24H LARANJA IRRITANTE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32572
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DE FÉRIAS COM O EX BRASIL" tvg-logo="" group-title="BRASIL",BR: 24H DE FÉRIAS COM O EX BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32571
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DR.HOUSE" tvg-logo="" group-title="BRASIL",BR: 24H DR.HOUSE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32570
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DOIS HOMENS E MEIO T01 A 06" tvg-logo="" group-title="BRASIL",BR: 24H DOIS HOMENS E MEIO T01 A 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32569
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H HENRY DANGER" tvg-logo="" group-title="BRASIL",BR: 24H HENRY DANGER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32568
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DR.STONE (ANIME)" tvg-logo="" group-title="BRASIL",BR: 24H DR.STONE (ANIME)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32567
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H OS SIMPSONS T.31" tvg-logo="" group-title="BRASIL",BR: 24H OS SIMPSONS T.31
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32566
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H HORA DE AVENTURA" tvg-logo="" group-title="BRASIL",BR: 24H HORA DE AVENTURA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32565
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H GRAVITY FALLS" tvg-logo="" group-title="BRASIL",BR: 24H GRAVITY FALLS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32564
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H AS TARTARUGAS NINJAS CLASSICO" tvg-logo="" group-title="BRASIL",BR: 24H AS TARTARUGAS NINJAS CLASSICO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32563
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H POPEYE" tvg-logo="" group-title="BRASIL",BR: 24H POPEYE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32562
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H INUYASHA" tvg-logo="" group-title="BRASIL",BR: 24H INUYASHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32561
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DOIS HOMENS E MEIO T07 A 12" tvg-logo="" group-title="BRASIL",BR: 24H DOIS HOMENS E MEIO T07 A 12
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32560
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BOB ESPONJA T05 A 08" tvg-logo="" group-title="BRASIL",BR: 24H BOB ESPONJA T05 A 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32559
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H CAPITÃO PLANETA" tvg-logo="" group-title="BRASIL",BR: 24H CAPITÃO PLANETA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32558
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H SHAMAN KING (ANIME)" tvg-logo="" group-title="BRASIL",BR: 24H SHAMAN KING (ANIME)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32557
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MUCHA LUTA" tvg-logo="" group-title="BRASIL",BR: 24H MUCHA LUTA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32556
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H ALF O E.TEIMOSO" tvg-logo="" group-title="BRASIL",BR: 24H ALF O E.TEIMOSO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32555
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H HANNAH MONTANA" tvg-logo="" group-title="BRASIL",BR: 24H HANNAH MONTANA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32554
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MANNY MÃOS À OBRA" tvg-logo="" group-title="BRASIL",BR: 24H MANNY MÃOS À OBRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32553
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H VINGADORES OS SUPER HERÓIS MAIS PODEROSOS DA TERRA" tvg-logo="" group-title="BRASIL",BR: 24H VINGADORES OS SUPER HERÓIS MAIS PODEROSOS DA TERRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32552
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H STAR WARS GUERRA DOS CLONES T01 A 04" tvg-logo="" group-title="BRASIL",BR: 24H STAR WARS GUERRA DOS CLONES T01 A 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32551
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H STAR WARS GUERRA DOS CLONES T05 A 07" tvg-logo="" group-title="BRASIL",BR: 24H STAR WARS GUERRA DOS CLONES T05 A 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32550
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H VINGADORES UNIDOS" tvg-logo="" group-title="BRASIL",BR: 24H VINGADORES UNIDOS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32549
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H PATRULHA CANINA T05" tvg-logo="" group-title="BRASIL",BR: 24H PATRULHA CANINA T05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32548
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H DOUTORA BRINQUEDO" tvg-logo="" group-title="BRASIL",BR: 24H DOUTORA BRINQUEDO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32547
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H NARUTO SHIPPUDEN T01 A 05" tvg-logo="" group-title="BRASIL",BR: 24H NARUTO SHIPPUDEN T01 A 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32546
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H BORUTO NARUTO NEXT GENERATIONS" tvg-logo="" group-title="BRASIL",BR: 24H BORUTO NARUTO NEXT GENERATIONS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32545
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H  Blaze e os Monster Machines" tvg-logo="" group-title="BRASIL",BR: 24H  Blaze e os Monster Machines
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32544
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Bubble Guppies" tvg-logo="" group-title="BRASIL",BR: 24H Bubble Guppies
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32543
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Equipe Umizoomi" tvg-logo="" group-title="BRASIL",BR: 24H Equipe Umizoomi
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32542
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Dora Aventureira" tvg-logo="" group-title="BRASIL",BR: 24H Dora Aventureira
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32541
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Anos Incríveis" tvg-logo="" group-title="BRASIL",BR: 24H Anos Incríveis
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32540
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Batman A Série Animada" tvg-logo="" group-title="BRASIL",BR: 24H Batman A Série Animada
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32539
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Pesadelo Na Cozinha" tvg-logo="" group-title="BRASIL",BR: 24H Pesadelo Na Cozinha
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32538
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Bear Grylls A Prova de Tudo" tvg-logo="" group-title="BRASIL",BR: 24H Bear Grylls A Prova de Tudo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32537
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Desafio Sob Fogo America Latina" tvg-logo="" group-title="BRASIL",BR: 24H Desafio Sob Fogo America Latina
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32536
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Panico na Band 2014" tvg-logo="" group-title="BRASIL",BR: 24H Panico na Band 2014
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32535
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Panico na Band 2015" tvg-logo="" group-title="BRASIL",BR: 24H Panico na Band 2015
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32534
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Charlie Brown e Snoopy" tvg-logo="" group-title="BRASIL",BR: 24H Charlie Brown e Snoopy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32533
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H JORNADA NAS ESTRELAS" tvg-logo="" group-title="BRASIL",BR: 24H JORNADA NAS ESTRELAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32532
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Larva" tvg-logo="" group-title="BRASIL",BR: 24H Larva
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32531
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Familia Dinossauro" tvg-logo="" group-title="BRASIL",BR: 24H Familia Dinossauro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32530
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Bob Esponja Kamp koral" tvg-logo="" group-title="BRASIL",BR: 24H Bob Esponja Kamp koral
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32529
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Scooby Doo Longas" tvg-logo="" group-title="BRASIL",BR: 24H Scooby Doo Longas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32528
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Os Flintstones" tvg-logo="" group-title="BRASIL",BR: 24H Os Flintstones
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32527
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H APENAS UM SHOW" tvg-logo="" group-title="BRASIL",BR: 24H APENAS UM SHOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32526
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Machine Man" tvg-logo="" group-title="BRASIL",BR: 24H Machine Man
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32525
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Desafio em Dose Dupla" tvg-logo="" group-title="BRASIL",BR: 24H Desafio em Dose Dupla
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32524
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H VELOZES E FURIOSOS ESPIÕES DO ASFALTO" tvg-logo="" group-title="BRASIL",BR: 24H VELOZES E FURIOSOS ESPIÕES DO ASFALTO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32523
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H As Trapalhadas de FlapJack" tvg-logo="" group-title="BRASIL",BR: 24H As Trapalhadas de FlapJack
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32522
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Os Ursinhos Gummi" tvg-logo="" group-title="BRASIL",BR: 24H Os Ursinhos Gummi
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32521
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Mickey Donald e Pateta" tvg-logo="" group-title="BRASIL",BR: 24H Mickey Donald e Pateta
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32520
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H MAD" tvg-logo="" group-title="BRASIL",BR: 24H MAD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32519
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Invencível" tvg-logo="" group-title="BRASIL",BR: 24H Invencível
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32518
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Criminal Minds T06 a 10" tvg-logo="" group-title="BRASIL",BR: 24H Criminal Minds T06 a 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32517
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Criminal Minds S01 a S05" tvg-logo="" group-title="BRASIL",BR: 24H Criminal Minds S01 a S05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32516
+#EXTINF:-1 tvg-id="" tvg-name="BR: POWER COUPLE BRASIL" tvg-logo="" group-title="BRASIL",BR: POWER COUPLE BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32515
+#EXTINF:-1 tvg-id="" tvg-name="BR: My Time Movie Network" tvg-logo="" group-title="BRASIL",BR: My Time Movie Network
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32514
+#EXTINF:-1 tvg-id="" tvg-name="BR: Mestres do Universo" tvg-logo="" group-title="BRASIL",BR: Mestres do Universo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32513
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Mestre do Sabor" tvg-logo="" group-title="BRASIL",BR: 24H Mestre do Sabor
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32512
+#EXTINF:-1 tvg-id="" tvg-name="BR: Cine Sucessos" tvg-logo="" group-title="BRASIL",BR: Cine Sucessos
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32511
+#EXTINF:-1 tvg-id="" tvg-name="BR: Failarmy" tvg-logo="" group-title="BRASIL",BR: Failarmy
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32510
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tastemade Brasil" tvg-logo="" group-title="BRASIL",BR: Tastemade Brasil
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32509
+#EXTINF:-1 tvg-id="" tvg-name="BR: AnimeStation" tvg-logo="" group-title="BRASIL",BR: AnimeStation
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32508
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Super Dragonball Heroes" tvg-logo="" group-title="BRASIL",BR: 24H Super Dragonball Heroes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32507
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Os Simpsons 32° Temporada" tvg-logo="" group-title="BRASIL",BR: 24H Os Simpsons 32° Temporada
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32506
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Os Normais" tvg-logo="" group-title="BRASIL",BR: 24H Os Normais
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32505
+#EXTINF:-1 tvg-id="" tvg-name="BR: Panico Na Band 2016" tvg-logo="" group-title="BRASIL",BR: Panico Na Band 2016
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32504
+#EXTINF:-1 tvg-id="" tvg-name="BR: 24H Patrulha Canina T06" tvg-logo="" group-title="BRASIL",BR: 24H Patrulha Canina T06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32503
+#EXTINF:-1 tvg-id="" tvg-name="BR: Big Brother Portugal" tvg-logo="" group-title="BRASIL",BR: Big Brother Portugal
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/32502
+
