@@ -6,7 +6,7 @@
 
 <item>
 <title>[B][COLOR blue]A&E -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800328/755275/p1_ae</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/p1_ae.m3u8</link>
 <thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
 </item>
 
