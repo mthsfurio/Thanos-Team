@@ -1,562 +1,1275 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://i.imgur.com/zzI6yPG.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 FHD *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RTP_HD_2016_%28Reduced_Version%29.svg/1024px-RTP_HD_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",RTP 1 FHD *
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=LISTAS GRATIS&amp;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10763.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 HD ᴴᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RTP_HD_2016_%28Reduced_Version%29.svg/1024px-RTP_HD_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",RTP 1 HD ᴴᵉᵛᶜ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10762.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RTP_HD_2016_%28Reduced_Version%29.svg/1024px-RTP_HD_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",RTP 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10761.m3u8
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 Low" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/RTP_HD_2016_%28Reduced_Version%29.svg/1024px-RTP_HD_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",RTP 1 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10760.m3u8
-#EXTINF:-1 tvg-id="RTP2FULLHD" tvg-name="RTP 2 HD " tvg-logo="http://quinto-canal.com/wp-content/uploads/2016/03/rtp2-300x99.png" group-title="PORTUGAL",RTP 2 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10759.m3u8
-#EXTINF:-1 tvg-id="RTP2FULLHD" tvg-name="RTP 2" tvg-logo="http://quinto-canal.com/wp-content/uploads/2016/03/rtp2-300x99.png" group-title="PORTUGAL",RTP 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10758.m3u8
-#EXTINF:-1 tvg-id="SIC FULL HD" tvg-name="SIC FHD" tvg-logo="https://i.imgur.com/g0gk1Ju.png" group-title="PORTUGAL",SIC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10756.m3u8
-#EXTINF:-1 tvg-id="SIC FULL HD" tvg-name="SIC HD ᴴᵉᵛᶜ" tvg-logo="https://i.imgur.com/g0gk1Ju.png" group-title="PORTUGAL",SIC HD ᴴᵉᵛᶜ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10755.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://i.imgur.com/g0gk1Ju.png" group-title="PORTUGAL",SIC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10754.m3u8
-#EXTINF:-1 tvg-id="SIC" tvg-name="SIC Low" tvg-logo="https://i.imgur.com/g0gk1Ju.png" group-title="PORTUGAL",SIC Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10753.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/TVI_logo_2017.png" group-title="PORTUGAL",TVI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10752.m3u8
-#EXTINF:-1 tvg-id="TVI FHD" tvg-name="TVI HD ᴴᵉᵛᶜ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/TVI_logo_2017.png" group-title="PORTUGAL",TVI HD ᴴᵉᵛᶜ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10751.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/TVI_logo_2017.png" group-title="PORTUGAL",TVI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10750.m3u8
-#EXTINF:-1 tvg-id="TVI" tvg-name="TVI Low" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/TVI_logo_2017.png" group-title="PORTUGAL",TVI Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡NOTICIASﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://i.imgur.com/s9Dfwon.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡NOTICIASﾐ☆ﾐ☆ﾐ☆
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10748.m3u8
-#EXTINF:-1 tvg-id="SICNOTICIASHD" tvg-name="SIC NOTICIAS FHD" tvg-logo="https://i.imgur.com/dLAUNTO.png" group-title="PORTUGAL",SIC NOTICIAS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10747.m3u8
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias" tvg-logo="https://i.imgur.com/dLAUNTO.png" group-title="PORTUGAL",SIC Noticias
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10746.m3u8
-#EXTINF:-1 tvg-id="SICN" tvg-name="SIC NOTICIAS LOW" tvg-logo="https://i.imgur.com/dLAUNTO.png" group-title="PORTUGAL",SIC NOTICIAS LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10745.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV FHD " tvg-logo="https://portalnacional.com.pt/images/icons/tv/CMTVHD.png" group-title="PORTUGAL",CMTV FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10744.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CMTVHD.png" group-title="PORTUGAL",CMTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10743.m3u8
-#EXTINF:-1 tvg-id="CMTVLOW" tvg-name="CMTV Low" tvg-logo="https://portalnacional.com.pt/images/icons/tv/CMTVHD.png" group-title="PORTUGAL",CMTV Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10742.m3u8
-#EXTINF:-1 tvg-id="TVI24HD" tvg-name="CNN Portugal HD" tvg-logo="https://i.imgur.com/ZRP84DG.jpg" group-title="PORTUGAL",CNN Portugal HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10741.m3u8
-#EXTINF:-1 tvg-id="TVI24" tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/ZRP84DG.jpg" group-title="PORTUGAL",CNN Portugal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10740.m3u8
-#EXTINF:-1 tvg-id="TVI24" tvg-name="CNN Portugal LOW" tvg-logo="https://i.imgur.com/ZRP84DG.jpg" group-title="PORTUGAL",CNN Portugal LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10739.m3u8
-#EXTINF:-1 tvg-id="RTP 3 Full HD" tvg-name="RTP 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/2000px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",RTP 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10738.m3u8
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/2000px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",RTP 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10737.m3u8
-#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 LOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/RTP3_2016_%28Reduced_Version%29.svg/2000px-RTP3_2016_%28Reduced_Version%29.svg.png" group-title="PORTUGAL",RTP 3 LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10736.m3u8
-#EXTINF:-1 tvg-id="EURON" tvg-name="Euronews" tvg-logo="https://i.imgur.com/7M91NPo.png" group-title="PORTUGAL",Euronews
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10735.m3u8
-#EXTINF:-1 tvg-id="BLOOM" tvg-name="BLOOMBERG" tvg-logo="https://i.imgur.com/oNmwG4q.jpg" group-title="PORTUGAL",BLOOMBERG
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10734.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC EUROPE" tvg-logo="https://i.imgur.com/Siaq49x.png" group-title="PORTUGAL",CNBC EUROPE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10733.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.imgur.com/tMvG1DO.png" group-title="PORTUGAL",CNN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10732.m3u8
-#EXTINF:-1 tvg-id="FOX News" tvg-name="Fox News" tvg-logo="https://i.imgur.com/7E1w7hg.png" group-title="PORTUGAL",Fox News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10731.m3u8
-#EXTINF:-1 tvg-id="NHK WORLD TV" tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1200px-NHK_World-Japan_TV.svg.png" group-title="PORTUGAL",NHK World Japan
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡ENTRETENIMENTOﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://i.imgur.com/s9Dfwon.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡ENTRETENIMENTOﾐ☆ﾐ☆ﾐ☆
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10730.m3u8
-#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest?cb=20170221142745" group-title="PORTUGAL",TVI Reality FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10729.m3u8
-#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest?cb=20170221142745" group-title="PORTUGAL",TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10728.m3u8
-#EXTINF:-1 tvg-id="TVIREAL" tvg-name="TVI Reality Low" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest?cb=20170221142745" group-title="PORTUGAL",TVI Reality Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camera 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest?cb=20170221142745" group-title="PORTUGAL",TVI Reality Camera 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camera 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest?cb=20170221142745" group-title="PORTUGAL",TVI Reality Camera 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camera 3" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest?cb=20170221142745" group-title="PORTUGAL",TVI Reality Camera 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10724.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVI Reality Camera 4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest?cb=20170221142745" group-title="PORTUGAL",TVI Reality Camera 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10723.m3u8
-#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção FHD" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvificcao.png" group-title="PORTUGAL",TVI Ficção FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10722.m3u8
-#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvificcao.png" group-title="PORTUGAL",TVI Ficção
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10721.m3u8
-#EXTINF:-1 tvg-id="TVI Ficção" tvg-name="TVI Ficção LOW" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvificcao.png" group-title="PORTUGAL",TVI Ficção LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10720.m3u8
-#EXTINF:-1 tvg-id="SICCARASHD" tvg-name="Sic Caras FHD" tvg-logo="https://i.imgur.com/wJtLN6R.png" group-title="PORTUGAL",Sic Caras FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10719.m3u8
-#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras" tvg-logo="https://i.imgur.com/wJtLN6R.png" group-title="PORTUGAL",SIC Caras
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10718.m3u8
-#EXTINF:-1 tvg-id="SicMulherHDFHD" tvg-name="Sic Mulher FHD" tvg-logo="https://i.imgur.com/f48ua27.png" group-title="PORTUGAL",Sic Mulher FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10717.m3u8
-#EXTINF:-1 tvg-id="SICM" tvg-name="SIC Mulher" tvg-logo="https://i.imgur.com/f48ua27.png" group-title="PORTUGAL",SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10716.m3u8
-#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="Sic Radical FHD" tvg-logo="https://i.imgur.com/WvKAS6M.png" group-title="PORTUGAL",Sic Radical FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10715.m3u8
-#EXTINF:-1 tvg-id="SIC RADICAL HD" tvg-name="SIC Radical" tvg-logo="https://i.imgur.com/WvKAS6M.png" group-title="PORTUGAL",SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10714.m3u8
-#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 Kitchen FHD" tvg-logo="https://i.imgur.com/t8vP2eA.png" group-title="PORTUGAL",24 Kitchen FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10713.m3u8
-#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 Kitchen" tvg-logo="https://i.imgur.com/t8vP2eA.png" group-title="PORTUGAL",24 Kitchen
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10712.m3u8
-#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="Food Network FHD" tvg-logo="https://i.imgur.com/Y3PSuVk.png" group-title="PORTUGAL",Food Network FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10711.m3u8
-#EXTINF:-1 tvg-id="CanalQB" tvg-name="Canal Q" tvg-logo="https://i.imgur.com/5shxQeH.png" group-title="PORTUGAL",Canal Q
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10710.m3u8
-#EXTINF:-1 tvg-id="LOCALVISAOTVHD" tvg-name="Localvisao HD" tvg-logo="https://i.imgur.com/psLPWls.png" group-title="PORTUGAL",Localvisao HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10709.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos TV HD" tvg-logo="https://i.imgur.com/mG4yF6V.png" group-title="PORTUGAL",Kuriakos TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10708.m3u8
-#EXTINF:-1 tvg-id="E!ENTERTAINMENTHD" tvg-name="E! ENTERTAINMENT HD" tvg-logo="https://i.imgur.com/F2ojwrN.png" group-title="PORTUGAL",E! ENTERTAINMENT HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10706.m3u8
-#EXTINF:-1 tvg-id="EENTER" tvg-name="E! Entertainment" tvg-logo="https://i.imgur.com/F2ojwrN.png" group-title="PORTUGAL",E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10705.m3u8
-#EXTINF:-1 tvg-id="CBS Reality" tvg-name="CBS Reality" tvg-logo="https://i.imgur.com/H7JNoAG.png" group-title="PORTUGAL",CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10704.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://i.imgur.com/akBTpXW.png" group-title="PORTUGAL",TLC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TLC Low" tvg-logo="https://i.imgur.com/akBTpXW.png" group-title="PORTUGAL",TLC Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/11613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡DESPORTOﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://i.imgur.com/s9Dfwon.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡DESPORTOﾐ☆ﾐ☆ﾐ☆
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10702.m3u8
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="Canal 11 FHD" tvg-logo="https://i.imgur.com/k4kmVEJ.png" group-title="PORTUGAL",Canal 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10701.m3u8
-#EXTINF:-1 tvg-id="CANAL 11 HD" tvg-name="CANAL 11 HD ᴴᵉᵛᶜ" tvg-logo="https://i.imgur.com/k4kmVEJ.png" group-title="PORTUGAL",CANAL 11 HD ᴴᵉᵛᶜ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10700.m3u8
-#EXTINF:-1 tvg-id="CANAL 11" tvg-name="Canal 11 Low" tvg-logo="https://i.imgur.com/k4kmVEJ.png" group-title="PORTUGAL",Canal 11 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10699.m3u8
-#EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport TV+  HD" tvg-logo="https://i.imgur.com/8u1y4s4.png" group-title="PORTUGAL",Sport TV+  HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10698.m3u8
-#EXTINF:-1 tvg-id="SPORTV+HD" tvg-name="Sport TV+ " tvg-logo="https://i.imgur.com/8u1y4s4.png" group-title="PORTUGAL",Sport TV+ 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10697.m3u8
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SPORT TV 1 FHD" tvg-logo="https://i.imgur.com/ZhpZMUC.png" group-title="PORTUGAL",SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10696.m3u8
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="Sport TV 1 HD" tvg-logo="https://i.imgur.com/ZhpZMUC.png" group-title="PORTUGAL",Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10695.m3u8
-#EXTINF:-1 tvg-id="SPORTV1HD(LOWBITRATE)" tvg-name="Sport TV 1" tvg-logo="https://i.imgur.com/ZhpZMUC.png" group-title="PORTUGAL",Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10693.m3u8
-#EXTINF:-1 tvg-id="SPORTV 1 HD" tvg-name="SportTV 1 Low" tvg-logo="https://i.imgur.com/ZhpZMUC.png" group-title="PORTUGAL",SportTV 1 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10692.m3u8
-#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="SPORT TV 2 FHD " tvg-logo="https://i.imgur.com/VupAaV8.png" group-title="PORTUGAL",SPORT TV 2 FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10691.m3u8
-#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport TV 2 HD" tvg-logo="https://i.imgur.com/VupAaV8.png" group-title="PORTUGAL",Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10690.m3u8
-#EXTINF:-1 tvg-id="SPORTV2HD" tvg-name="Sport TV 2" tvg-logo="https://i.imgur.com/VupAaV8.png" group-title="PORTUGAL",Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10689.m3u8
-#EXTINF:-1 tvg-id="SPTV2" tvg-name="SportTV 2 Low" tvg-logo="https://i.imgur.com/VupAaV8.png" group-title="PORTUGAL",SportTV 2 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10688.m3u8
-#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="Sport TV 3 FHD" tvg-logo="https://i.imgur.com/O3RJ6YU.png" group-title="PORTUGAL",Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10687.m3u8
-#EXTINF:-1 tvg-id="SPORTV3HD" tvg-name="SPORT TV 3 HD " tvg-logo="https://i.imgur.com/O3RJ6YU.png" group-title="PORTUGAL",SPORT TV 3 HD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10686.m3u8
-#EXTINF:-1 tvg-id="SPTV3" tvg-name="Sport TV 3" tvg-logo="https://i.imgur.com/O3RJ6YU.png" group-title="PORTUGAL",Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10685.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 3 HD FULL HD" tvg-name="SportTV 3 Low" tvg-logo="https://i.imgur.com/O3RJ6YU.png" group-title="PORTUGAL",SportTV 3 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10684.m3u8
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="Sport TV 4 FHD" tvg-logo="https://i.imgur.com/cXo5359.png" group-title="PORTUGAL",Sport TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10683.m3u8
-#EXTINF:-1 tvg-id="SPTV4" tvg-name="Sport TV 4" tvg-logo="https://i.imgur.com/cXo5359.png" group-title="PORTUGAL",Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10682.m3u8
-#EXTINF:-1 tvg-id="SPORTV4HD" tvg-name="SportTV 4 Low" tvg-logo="https://i.imgur.com/cXo5359.png" group-title="PORTUGAL",SportTV 4 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10681.m3u8
-#EXTINF:-1 tvg-id="SPORTV5HD" tvg-name="Sport TV 5 FHD" tvg-logo="https://i.imgur.com/v2mHw0o.png" group-title="PORTUGAL",Sport TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10680.m3u8
-#EXTINF:-1 tvg-id="SPTV5" tvg-name="Sport TV 5" tvg-logo="https://i.imgur.com/v2mHw0o.png" group-title="PORTUGAL",Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10679.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 5 HD FULL HD" tvg-name="SportTV 5 Low" tvg-logo="https://i.imgur.com/v2mHw0o.png" group-title="PORTUGAL",SportTV 5 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10678.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6 FHD" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png" group-title="PORTUGAL",SPORT TV 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/30401.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-name="SPORT TV 6 HD ᴴᵉᵛᶜ" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png" group-title="PORTUGAL",SPORT TV 6 HD ᴴᵉᵛᶜ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/30402.m3u8
-#EXTINF:-1 tvg-id="SPORT TV 6 HD" tvg-name="SPORT TV 6 LOW" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png" group-title="PORTUGAL",SPORT TV 6 LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/30403.m3u8
-#EXTINF:-1 tvg-id="elevensports1FHD" tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10677.m3u8
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="ELEVEN SPORTS 1 HD ᴴᵉᵛᶜ" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD ᴴᵉᵛᶜ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10676.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10675.m3u8
-#EXTINF:-1 tvg-id="elevensports1HD" tvg-name="Eleven Sports 1 Low" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 1 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10674.m3u8
-#EXTINF:-1 tvg-id="elevensports2FHD" tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10673.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 HD" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10672.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10671.m3u8
-#EXTINF:-1 tvg-id="elevensports2HD" tvg-name="Eleven Sports 2 Low" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 2 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10670.m3u8
-#EXTINF:-1 tvg-id="elevensports3FHD" tvg-name="Eleven Sports 3 FHD" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10669.m3u8
-#EXTINF:-1 tvg-id="elevensports3FHD" tvg-name="Eleven Sports 3" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10668.m3u8
-#EXTINF:-1 tvg-id="elevensports3FHD" tvg-name="Eleven Sports 3 Low" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 3 Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10667.m3u8
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="Eleven Sports 4 FHD" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10666.m3u8
-#EXTINF:-1 tvg-id="elevensports4HD" tvg-name="Eleven Sports 4" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10665.m3u8
-#EXTINF:-1 tvg-id="elevensports5FHD" tvg-name="Eleven Sports 5 FHD" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10664.m3u8
-#EXTINF:-1 tvg-id="elevensports5HD" tvg-name="Eleven Sports 5" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10663.m3u8
-#EXTINF:-1 tvg-id="elevensports6HD" tvg-name="Eleven Sports 6 FHD" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10662.m3u8
-#EXTINF:-1 tvg-id="elevensports6FHD" tvg-name="Eleven Sports 6" tvg-logo="https://i.imgur.com/9mdKCFL.png" group-title="PORTUGAL",Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10661.m3u8
-#EXTINF:-1 tvg-id="BENFICATV1HD." tvg-name="Benfica TV FHD" tvg-logo="https://i.imgur.com/3NrBpTT.png" group-title="PORTUGAL",Benfica TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10660.m3u8
-#EXTINF:-1 tvg-id="BENFICATV1HD." tvg-name="Benfica TV HD ᴴᵉᵛᶜ" tvg-logo="https://i.imgur.com/3NrBpTT.png" group-title="PORTUGAL",Benfica TV HD ᴴᵉᵛᶜ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10659.m3u8
-#EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV" tvg-logo="https://i.imgur.com/3NrBpTT.png" group-title="PORTUGAL",Benfica TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10658.m3u8
-#EXTINF:-1 tvg-id="Benfica TV" tvg-name="Benfica TV Low" tvg-logo="https://i.imgur.com/3NrBpTT.png" group-title="PORTUGAL",Benfica TV Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10657.m3u8
-#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="Sporting TV FHD" tvg-logo="https://sportingtvonline.nos.pt/static/compiled/images/sportingtv.f6a35257.png" group-title="PORTUGAL",Sporting TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10656.m3u8
-#EXTINF:-1 tvg-id="SPORTINGHD" tvg-name="Sporting TV" tvg-logo="https://sportingtvonline.nos.pt/static/compiled/images/sportingtv.f6a35257.png" group-title="PORTUGAL",Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10655.m3u8
-#EXTINF:-1 tvg-id="PORTOCANALHD" tvg-name="Porto Canal FHD" tvg-logo="https://i.imgur.com/wtoBLwK.png" group-title="PORTUGAL",Porto Canal FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10654.m3u8
-#EXTINF:-1 tvg-id="PORTOCANALHD" tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/wtoBLwK.png" group-title="PORTUGAL",Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10653.m3u8
-#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A BOLA TV HD" tvg-logo="https://i.imgur.com/Bng3Zw5.png" group-title="PORTUGAL",A BOLA TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10651.m3u8
-#EXTINF:-1 tvg-id="A Bola TV" tvg-name="A BOLA TV" tvg-logo="https://i.imgur.com/Bng3Zw5.png" group-title="PORTUGAL",A BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10650.m3u8
-#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="https://i.imgur.com/CIrk3TY.png" group-title="PORTUGAL",PFC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10649.m3u8
-#EXTINF:-1 tvg-id="REALMADRIDTV" tvg-name="Real Madrid TV" tvg-logo="https://i.imgur.com/kOkY7Yy.png" group-title="PORTUGAL",Real Madrid TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10648.m3u8
-#EXTINF:-1 tvg-id="Barça TV" tvg-name="Barça TV" tvg-logo="https://i.imgur.com/6zgvHf3.png" group-title="PORTUGAL",Barça TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10647.m3u8
-#EXTINF:-1 tvg-id="Combate" tvg-name="COMBATE FHD" tvg-logo="https://i.imgur.com/Mo0dIY0.png" group-title="PORTUGAL",COMBATE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10646.m3u8
-#EXTINF:-1 tvg-id="FIGHTHD" tvg-name="Fight Network HD" tvg-logo="https://i.imgur.com/TUviTb4.png" group-title="PORTUGAL",Fight Network HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FightBox HD" tvg-logo="https://f0.pngfuel.com/png/441/186/television-channel-sawa-media-high-definition-television-docubox-hd-fight-png-clip-art-thumbnail.png" group-title="PORTUGAL",FightBox HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25142.m3u8
-#EXTINF:-1 tvg-id="bt.sport.box.office.wwe.gb" tvg-name="WWE FHD" tvg-logo="https://i.imgur.com/Ln2EVMr.png" group-title="PORTUGAL",WWE FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WRC" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/xj0p1n1534589660.png" group-title="PORTUGAL",WRC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/29251.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WRC MOMENTS HD" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/xj0p1n1534589660.png" group-title="PORTUGAL",WRC MOMENTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/29250.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://ugandamarathon.com/wp-content/uploads/2017/12/Red-Bull-TV-logo.png" group-title="PORTUGAL",Red Bull TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/29248.m3u8
-#EXTINF:-1 tvg-id="MOTORVISIONHD" tvg-name="Motorvision" tvg-logo="https://i.imgur.com/1C79xcq.png" group-title="PORTUGAL",Motorvision
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10639.m3u8
-#EXTINF:-1 tvg-id="FUEL TV HD" tvg-name="FUEL TV HD" tvg-logo="https://i.imgur.com/Y136Xrv.png" group-title="PORTUGAL",FUEL TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sport" tvg-logo="https://i.imgur.com/yIyRG4b.jpg" group-title="PORTUGAL",Extreme Sport
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/29247.m3u8
-#EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1 HD" tvg-logo="https://i.imgur.com/tiwDBDZ.png" group-title="PORTUGAL",Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10642.m3u8
-#EXTINF:-1 tvg-id="EUROS" tvg-name="Eurosport 1" tvg-logo="https://i.imgur.com/tiwDBDZ.png" group-title="PORTUGAL",Eurosport 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10641.m3u8
-#EXTINF:-1 tvg-id="EUROS2" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/75fqgjE.png" group-title="PORTUGAL",Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10640.m3u8
-#EXTINF:-1 tvg-id="SportTVNBAHD" tvg-name="SPORT TV NBA" tvg-logo="https://i.imgur.com/mEM6w6r.png" group-title="PORTUGAL",SPORT TV NBA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10638.m3u8
-#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://i.imgur.com/mEM6w6r.png" group-title="PORTUGAL",NBA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10637.m3u8
-#EXTINF:-1 tvg-id="Caça e Pesca" tvg-name="Caça e Pesca HD" tvg-logo="https://i.imgur.com/mUhJrpx.png" group-title="PORTUGAL",Caça e Pesca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10636.m3u8
-#EXTINF:-1 tvg-id="Caça Vision" tvg-name="Caçavision " tvg-logo="https://i.imgur.com/q2MI84Z.png" group-title="PORTUGAL",Caçavision 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10635.m3u8
-#EXTINF:-1 tvg-id="CMTV" tvg-name="CAMPO PEQUENO TV HD" tvg-logo="http://www.campopequeno.com/img/campopequenotv_logo.png" group-title="PORTUGAL",CAMPO PEQUENO TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25143.m3u8
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="TOROS TV FHD" tvg-logo="https://i.imgur.com/OHLLnMt.png" group-title="PORTUGAL",TOROS TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10634.m3u8
-#EXTINF:-1 tvg-id="Toros TV" tvg-name="TOROS TV" tvg-logo="https://i.imgur.com/OHLLnMt.png" group-title="PORTUGAL",TOROS TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTP ARENA HD" tvg-logo="https://i.imgur.com/yOe9KwQ.jpg" group-title="PORTUGAL",RTP ARENA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/29246.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SIC ADVANCE" tvg-logo="https://i.imgur.com/Zo5F1St.png" group-title="PORTUGAL",SIC ADVANCE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/29245.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gametoon HD" tvg-logo="http://x.mdcam.live:2082/images/eaefc07bddf5329213c5ea6d7d10b10f.png" group-title="PORTUGAL",Gametoon HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/29244.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GINX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/GINX_Esports_TV_Logo_flat.png/640px-GINX_Esports_TV_Logo_flat.png" group-title="PORTUGAL",GINX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/29243.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡INFANTILﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://i.imgur.com/s9Dfwon.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡INFANTILﾐ☆ﾐ☆ﾐ☆
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10631.m3u8
-#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="http://www.mediafire.com/convkey/4451/7zif23cr40oqwq8zg.jpg" group-title="PORTUGAL",SIC K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10630.m3u8
-#EXTINF:-1 tvg-id="PANDABIGGS" tvg-name="Panda Biggs" tvg-logo="http://www.mediafire.com/convkey/489d/y78yy1aghymkyb3zg.jpg" group-title="PORTUGAL",Panda Biggs
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10629.m3u8
-#EXTINF:-1 tvg-id="PANDA" tvg-name="Panda" tvg-logo="http://www.mediafire.com/convkey/4e7c/fbvvb2b02zuyb52zg.jpg" group-title="PORTUGAL",Panda
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10628.m3u8
-#EXTINF:-1 tvg-id="PANDA" tvg-name="PANDA LOW" tvg-logo="http://www.mediafire.com/convkey/4e7c/fbvvb2b02zuyb52zg.jpg" group-title="PORTUGAL",PANDA LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PANDA KIDS" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2021/05/image001-9-300x193.png" group-title="PORTUGAL",PANDA KIDS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/29242.m3u8
-#EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="http://www.vimn.com/press/sites/default/files/styles/background/public/1B_Nickelodeon_Logo_REV.png?itok=faCF7Skp" group-title="PORTUGAL",Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10626.m3u8
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="PORTUGAL",Nick Jr
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick +" tvg-logo="https://assets.ytv.com/wp-content/uploads/2019/11/27170340/YTV_Nick_Plus_Logo_2.png" group-title="PORTUGAL",Nick +
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25139.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://i.imgur.com/ZcHNv56.png" group-title="PORTUGAL",Boomerang
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25140.m3u8
-#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="http://www.mediafire.com/convkey/691d/tc1q4y1hahcxhjszg.jpg" group-title="PORTUGAL",Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10620.m3u8
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="http://www.mediafire.com/convkey/20af/28vkkvljhriir7qzg.jpg" group-title="PORTUGAL",Baby TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10619.m3u8
-#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="http://www.mediafire.com/convkey/6e79/i9ksbf8mx5jd3r2zg.jpg" group-title="PORTUGAL",JimJam
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10618.m3u8
-#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="http://www.mediafire.com/convkey/220f/db8shbw5fiy3lu8zg.jpg" group-title="PORTUGAL",Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10624.m3u8
-#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="http://www.mediafire.com/convkey/609b/k7b32000t3vc884zg.jpg" group-title="PORTUGAL",Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10623.m3u8
-#EXTINF:-1 tvg-id="DISNY" tvg-name="DISNEY CHANNEL LOW" tvg-logo="http://www.mediafire.com/convkey/609b/k7b32000t3vc884zg.jpg" group-title="PORTUGAL",DISNEY CHANNEL LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY +" tvg-logo="https://www.pngitem.com/pimgs/m/29-291927_disney-plus-logo-png-transparent-png.png" group-title="PORTUGAL",DISNEY +
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ MARVEL" tvg-logo="https://thegeekiary.com/wp-content/uploads/2016/03/disney-marvel-logo_featured_photo_gallery.jpg" group-title="PORTUGAL",DISNEY+ MARVEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ PIXAR" tvg-logo="https://www.pngitem.com/pimgs/m/306-3068241_disney-pixar-logo-png-transparent-png.png" group-title="PORTUGAL",DISNEY+ PIXAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ STAR" tvg-logo="https://disneyplusbrasil.com.br/wp-content/uploads/2020/12/38.png" group-title="PORTUGAL",DISNEY+ STAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/28065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+ STAR WARS" tvg-logo="https://smallimg.pngkey.com/png/small/375-3750892_the-force-awakens-logo-de-star-wars.png" group-title="PORTUGAL",DISNEY+ STAR WARS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LOLLY KIDS HD" tvg-logo="https://i.imgur.com/mZG6NDn.jpg" group-title="PORTUGAL",LOLLY KIDS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡CINEMAﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://i.imgur.com/s9Dfwon.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡CINEMAﾐ☆ﾐ☆ﾐ☆
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OPTO" tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2020/10/opto-sic.jpg" group-title="PORTUGAL",OPTO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVCINE + HD" tvg-logo="https://www.tvcine.pt/TVCine-PLUS-logo.png" group-title="PORTUGAL",TVCINE + HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25377.m3u8
-#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCINE TOP FHD" tvg-logo="https://i.imgur.com/mpl6ZFl.png" group-title="PORTUGAL",TVCINE TOP FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10616.m3u8
-#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCINE TOP" tvg-logo="https://i.imgur.com/mpl6ZFl.png" group-title="PORTUGAL",TVCINE TOP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10615.m3u8
-#EXTINF:-1 tvg-id="TVC1" tvg-name="TVCINE TOP Low" tvg-logo="https://i.imgur.com/mpl6ZFl.png" group-title="PORTUGAL",TVCINE TOP Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10614.m3u8
-#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCINE EDITION FHD" tvg-logo="https://i.imgur.com/qUnO6pR.png" group-title="PORTUGAL",TVCINE EDITION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10613.m3u8
-#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCINE EDITION" tvg-logo="https://i.imgur.com/qUnO6pR.png" group-title="PORTUGAL",TVCINE EDITION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10612.m3u8
-#EXTINF:-1 tvg-id="TVC2" tvg-name="TVCINE EDITION Low" tvg-logo="https://i.imgur.com/qUnO6pR.png" group-title="PORTUGAL",TVCINE EDITION Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10611.m3u8
-#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCINE EMOTION HD" tvg-logo="https://i.imgur.com/4zYVQPH.png" group-title="PORTUGAL",TVCINE EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10610.m3u8
-#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCINE EMOTION" tvg-logo="https://i.imgur.com/4zYVQPH.png" group-title="PORTUGAL",TVCINE EMOTION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10609.m3u8
-#EXTINF:-1 tvg-id="TVC3" tvg-name="TVCINE EMOTION Low" tvg-logo="https://i.imgur.com/4zYVQPH.png" group-title="PORTUGAL",TVCINE EMOTION Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10608.m3u8
-#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCINE ACTION FHD" tvg-logo="https://i.imgur.com/a7gpNFW.png" group-title="PORTUGAL",TVCINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10607.m3u8
-#EXTINF:-1 tvg-id="TVCINE 4 HD" tvg-name="TVCINE ACTION" tvg-logo="https://i.imgur.com/a7gpNFW.png" group-title="PORTUGAL",TVCINE ACTION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10606.m3u8
-#EXTINF:-1 tvg-id="TVC4" tvg-name="TVCINE ACTION Low" tvg-logo="https://i.imgur.com/a7gpNFW.png" group-title="PORTUGAL",TVCINE ACTION Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Portugal FHD" tvg-logo="http://www.mediafire.com/convkey/f3a3/ebb6t1478p4gs40zg.jpg" group-title="PORTUGAL",HBO Portugal FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NETFLIX" tvg-logo="https://i.imgur.com/BnS4Y46.jpg" group-title="PORTUGAL",NETFLIX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel Plus" tvg-logo="https://i.imgur.com/TQjMRJ1.png" group-title="PORTUGAL",Marvel Plus
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10602.m3u8
-#EXTINF:-1 tvg-id="NOSSTUDIOSHD" tvg-name="Nos Studios FHD" tvg-logo="https://i.imgur.com/arHxjUs.png" group-title="PORTUGAL",Nos Studios FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10601.m3u8
-#EXTINF:-1 tvg-id="NOSSTUDIOS" tvg-name="Nos Studios" tvg-logo="https://i.imgur.com/arHxjUs.png" group-title="PORTUGAL",Nos Studios
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10600.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood FHD" tvg-logo="http://www.mediafire.com/convkey/f79f/1d1woa9crrqzwadzg.jpg" group-title="PORTUGAL",Hollywood FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10598.m3u8
-#EXTINF:-1 tvg-id="HOLLY" tvg-name="Hollywood" tvg-logo="http://www.mediafire.com/convkey/f79f/1d1woa9crrqzwadzg.jpg" group-title="PORTUGAL",Hollywood
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10597.m3u8
-#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD LOW" tvg-logo="http://www.mediafire.com/convkey/f79f/1d1woa9crrqzwadzg.jpg" group-title="PORTUGAL",HOLLYWOOD LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10596.m3u8
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo FHD" tvg-logo="http://www.mediafire.com/convkey/ea9d/av4zpu9jec8u8dhzg.jpg" group-title="PORTUGAL",Cinemundo FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10595.m3u8
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo" tvg-logo="http://www.mediafire.com/convkey/ea9d/av4zpu9jec8u8dhzg.jpg" group-title="PORTUGAL",Cinemundo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10594.m3u8
-#EXTINF:-1 tvg-id="Cinemundo" tvg-name="Cinemundo LOW" tvg-logo="http://www.mediafire.com/convkey/ea9d/av4zpu9jec8u8dhzg.jpg" group-title="PORTUGAL",Cinemundo LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10593.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://www.mediafire.com/convkey/c4cb/j2nxw6apcc1u1i7zg.jpg" group-title="PORTUGAL",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10592.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://www.mediafire.com/convkey/c4cb/j2nxw6apcc1u1i7zg.jpg" group-title="PORTUGAL",AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10591.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN Low" tvg-logo="http://www.mediafire.com/convkey/c4cb/j2nxw6apcc1u1i7zg.jpg" group-title="PORTUGAL",AXN Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10590.m3u8
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White FHD" tvg-logo="http://www.mediafire.com/convkey/4aaa/27776sg5rcmbho4zg.jpg" group-title="PORTUGAL",AXN White FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10589.m3u8
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White" tvg-logo="http://www.mediafire.com/convkey/4aaa/27776sg5rcmbho4zg.jpg" group-title="PORTUGAL",AXN White
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10588.m3u8
-#EXTINF:-1 tvg-id="AXN White" tvg-name="AXN White Low" tvg-logo="http://www.mediafire.com/convkey/4aaa/27776sg5rcmbho4zg.jpg" group-title="PORTUGAL",AXN White Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10587.m3u8
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Movies FHD" tvg-logo="https://i.imgur.com/il4xqgx.jpg" group-title="PORTUGAL",AXN Movies FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10586.m3u8
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/il4xqgx.jpg" group-title="PORTUGAL",AXN Movies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10585.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="Fox FHD" tvg-logo="https://i.imgur.com/DHgUGH0.png" group-title="PORTUGAL",Fox FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10584.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="Fox" tvg-logo="https://i.imgur.com/DHgUGH0.png" group-title="PORTUGAL",Fox
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10583.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX LOW" tvg-logo="https://i.imgur.com/DHgUGH0.png" group-title="PORTUGAL",FOX LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10582.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES HD" tvg-logo="https://i.imgur.com/mPNmkER.png" group-title="PORTUGAL",FOX MOVIES HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10581.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="Fox Movies" tvg-logo="https://i.imgur.com/mPNmkER.png" group-title="PORTUGAL",Fox Movies
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10580.m3u8
-#EXTINF:-1 tvg-id="FOX MOVIES HD" tvg-name="FOX MOVIES LOW" tvg-logo="https://i.imgur.com/mPNmkER.png" group-title="PORTUGAL",FOX MOVIES LOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10579.m3u8
-#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="FOX Comedy HD" tvg-logo="https://i.imgur.com/1yQV4ms.png" group-title="PORTUGAL",FOX Comedy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10578.m3u8
-#EXTINF:-1 tvg-id="FOX COMEDY HD" tvg-name="Fox Comedy" tvg-logo="https://i.imgur.com/1yQV4ms.png" group-title="PORTUGAL",Fox Comedy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10577.m3u8
-#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="FOX Crime FHD" tvg-logo="https://i.imgur.com/Obeda9p.png" group-title="PORTUGAL",FOX Crime FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10576.m3u8
-#EXTINF:-1 tvg-id="FOXCRIME" tvg-name="Fox Crime" tvg-logo="https://i.imgur.com/Obeda9p.png" group-title="PORTUGAL",Fox Crime
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10575.m3u8
-#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="FOX Life FHD" tvg-logo="http://www.mediafire.com/convkey/8bc7/5y5xfxy42ue2k5lzg.jpg" group-title="PORTUGAL",FOX Life FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10574.m3u8
-#EXTINF:-1 tvg-id="FOXLIFE" tvg-name="Fox Life" tvg-logo="http://www.mediafire.com/convkey/8bc7/5y5xfxy42ue2k5lzg.jpg" group-title="PORTUGAL",Fox Life
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10573.m3u8
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/vxRjsOl.png" group-title="PORTUGAL",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10572.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://i.imgur.com/vxRjsOl.png" group-title="PORTUGAL",AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10571.m3u8
-#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SyFy HD" tvg-logo="https://i.imgur.com/98GIkLl.png" group-title="PORTUGAL",SyFy HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10569.m3u8
-#EXTINF:-1 tvg-id="SyFy Full HD" tvg-name="SyFy" tvg-logo="https://i.imgur.com/98GIkLl.png" group-title="PORTUGAL",SyFy
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡CULTURAﾐ☆彡☆ﾐ☆" tvg-logo="https://i.imgur.com/s9Dfwon.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡CULTURAﾐ☆彡☆ﾐ☆
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10567.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel FHD" tvg-logo="https://i.imgur.com/BoSblPW.png" group-title="PORTUGAL",Discovery Channel FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10566.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/BoSblPW.png" group-title="PORTUGAL",Discovery Channel
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10565.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID INVESTIGATION DISCOVERY FHD" tvg-logo="https://i.imgur.com/fRKzgzB.png" group-title="PORTUGAL",ID INVESTIGATION DISCOVERY FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10564.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="ID INVESTIGATION DISCOVERY" tvg-logo="https://i.imgur.com/fRKzgzB.png" group-title="PORTUGAL",ID INVESTIGATION DISCOVERY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10563.m3u8
-#EXTINF:-1 tvg-id="Crime Investigation HD" tvg-name="Crime Investigation" tvg-logo="https://i.imgur.com/2jkB9MK.png" group-title="PORTUGAL",Crime Investigation
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10562.m3u8
-#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographic FHD" tvg-logo="https://i.imgur.com/pWMATHw.png" group-title="PORTUGAL",National Geographic FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10561.m3u8
-#EXTINF:-1 tvg-id="NGC" tvg-name="National Geographic" tvg-logo="https://i.imgur.com/pWMATHw.png" group-title="PORTUGAL",National Geographic
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10560.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="National Geographic Wild FHD" tvg-logo="https://i.imgur.com/XpT8mxG.png" group-title="PORTUGAL",National Geographic Wild FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10559.m3u8
-#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="National Geographic Wild" tvg-logo="https://i.imgur.com/XpT8mxG.png" group-title="PORTUGAL",National Geographic Wild
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10558.m3u8
-#EXTINF:-1 tvg-id="Casa e Cozinha FHD" tvg-name="Casa & Cozinha FHD" tvg-logo="https://i.imgur.com/tvW0ftl.png" group-title="PORTUGAL",Casa & Cozinha FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10557.m3u8
-#EXTINF:-1 tvg-id="Canal História" tvg-name="HistoriaHD" tvg-logo="https://i.imgur.com/JGwg1VE.png" group-title="PORTUGAL",HistoriaHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10555.m3u8
-#EXTINF:-1 tvg-id="ODIS" tvg-name="Odisseia HD" tvg-logo="https://i.imgur.com/O11hOjx.png" group-title="PORTUGAL",Odisseia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10554.m3u8
-#EXTINF:-1 tvg-id="TRAVELCHANNELHD" tvg-name="Travel Channel HD" tvg-logo="https://i.imgur.com/7XYDbRN.png" group-title="PORTUGAL",Travel Channel HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10553.m3u8
-#EXTINF:-1 tvg-id="BLAZEHD" tvg-name="Blaze FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1200px-Blaze_-_2016_logo.svg.png" group-title="PORTUGAL",Blaze FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10552.m3u8
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="Blaze" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1200px-Blaze_-_2016_logo.svg.png" group-title="PORTUGAL",Blaze
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="♬彡♬ﾐ♬彡MUSICAﾐ♬彡♬ﾐ♬" tvg-logo="https://i.imgur.com/s9Dfwon.png" group-title="PORTUGAL",♬彡♬ﾐ♬彡MUSICAﾐ♬彡♬ﾐ♬
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10550.m3u8
-#EXTINF:-1 tvg-id="Afro Music" tvg-name="Afro Music" tvg-logo="http://www.mediafire.com/convkey/efdc/ncn85660kkbqkx9zg.jpg" group-title="PORTUGAL",Afro Music
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALMA LUSA" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-alma-lusa.png" group-title="PORTUGAL",ALMA LUSA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25380.m3u8
-#EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="Trace Urban TV" tvg-logo="https://i.imgur.com/Zi4W6m4.png" group-title="PORTUGAL",Trace Urban TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10547.m3u8
-#EXTINF:-1 tvg-id="TRACE TOCA HD" tvg-name="Trace Toca" tvg-logo="https://i.imgur.com/brNiWoS.png" group-title="PORTUGAL",Trace Toca
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trace Brazuca HD" tvg-logo="https://i.imgur.com/MYKRLDi.png" group-title="PORTUGAL",Trace Brazuca HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10545.m3u8
-#EXTINF:-1 tvg-id="MCM" tvg-name="MCM Top" tvg-logo="http://www.mediafire.com/convkey/e34f/pfhbpw3jace1ig2zg.jpg" group-title="PORTUGAL",MCM Top
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10543.m3u8
-#EXTINF:-1 tvg-id="MCMPOP" tvg-name="MCM Pop" tvg-logo="http://www.mediafire.com/convkey/b397/xb00f416s8lca89zg.jpg" group-title="PORTUGAL",MCM Pop
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10542.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV PORTUGAL HD" tvg-logo="https://i.imgur.com/f8oUxmb.png" group-title="PORTUGAL",MTV PORTUGAL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10541.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://i.imgur.com/xf0XHEK.png" group-title="PORTUGAL",VH1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10540.m3u8
-#EXTINF:-1 tvg-id="MEZZO" tvg-name="Mezzo" tvg-logo="http://www.mediafire.com/convkey/539a/4sy29lvg431b3v2zg.jpg" group-title="PORTUGAL",Mezzo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Rap" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Rap
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37478.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: HIT LIST" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: HIT LIST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37477.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Hip-Hop RnB" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Hip-Hop RnB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC Todays Country" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC Todays Country
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37475.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Rap 2K" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Rap 2K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37474.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: RɛB/Soul" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: RɛB/Soul
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Dance EDM" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Dance EDM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37472.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Musica Urbana" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Musica Urbana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37471.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Indie" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Indie
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Kidz Only" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Kidz Only
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37469.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Mexicana" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Mexicana
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37468.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Pop ɛ Country" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Pop ɛ Country
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37467.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Pop Hits" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Pop Hits
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37466.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Tropicales" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Tropicales
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MC: Y2K" tvg-logo="https://i.imgur.com/VCP6QXE.jpg" group-title="PORTUGAL",MC: Y2K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/37464.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡INTERNACIONAISﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://i.imgur.com/s9Dfwon.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡INTERNACIONAISﾐ☆ﾐ☆ﾐ☆
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10538.m3u8
-#EXTINF:-1 tvg-id="RTP Internacional" tvg-name="RTP Internacional" tvg-logo="https://i.imgur.com/tXnmt1t.png" group-title="PORTUGAL",RTP Internacional
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10537.m3u8
-#EXTINF:-1 tvg-id="RTPACO" tvg-name="RTP Acores" tvg-logo="http://www.mediafire.com/convkey/e4b1/67t9xd5a355dzcazg.jpg" group-title="PORTUGAL",RTP Acores
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10536.m3u8
-#EXTINF:-1 tvg-id="RTPMAD" tvg-name="RTP Madeira" tvg-logo="http://www.mediafire.com/convkey/83c8/trgbd1s1i5ijkb3zg.jpg" group-title="PORTUGAL",RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10535.m3u8
-#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP Africa" tvg-logo="http://www.mediafire.com/convkey/59ae/03bs5bf1xshabjczg.jpg" group-title="PORTUGAL",RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10534.m3u8
-#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="http://www.mediafire.com/convkey/0639/5dn8tw40b5koa6gzg.jpg" group-title="PORTUGAL",RTP Memoria
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10533.m3u8
-#EXTINF:-1 tvg-id="ZAPVIVAHD" tvg-name="ZAP VIVA HD" tvg-logo="http://www.mediafire.com/convkey/554a/wgz1hmhzvcgik1gzg.jpg" group-title="PORTUGAL",ZAP VIVA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Zimbo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/IMG_20200507_232856_108.jpg" group-title="PORTUGAL",TV Zimbo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25141.m3u8
-#EXTINF:-1 tvg-id="TPA" tvg-name="TPA Angola" tvg-logo="http://www.semba-c.com/site/uploads/images/20151123143736_0.PNG" group-title="PORTUGAL",TPA Angola
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10531.m3u8
-#EXTINF:-1 tvg-id="TCVINT" tvg-name="TCV (Cabo Verde)" tvg-logo="https://4.bp.blogspot.com/-PVTUAuA8zY0/UYV9xmXC9WI/AAAAAAAAEEY/imbfKwlzi1Y/s1600/TCV+Internacional+logo+1.png" group-title="PORTUGAL",TCV (Cabo Verde)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVM Moçambique" tvg-logo="http://www.mediafire.com/convkey/3026/kjzc2undds4b9h7zg.jpg" group-title="PORTUGAL",TVM Moçambique
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10529.m3u8
-#EXTINF:-1 tvg-id="TV GLOBO HD" tvg-name="TV Globo HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/a7/Globo-tv-internacional.png/revision/latest?cb=20140519132625" group-title="PORTUGAL",TV Globo HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10528.m3u8
-#EXTINF:-1 tvg-id="TV Globo Portugal" tvg-name="TV Globo" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/a7/Globo-tv-internacional.png/revision/latest?cb=20140519132625" group-title="PORTUGAL",TV Globo
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10527.m3u8
-#EXTINF:-1 tvg-id="TV GLOBO HD" tvg-name="TV Globo Low" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/a7/Globo-tv-internacional.png/revision/latest?cb=20140519132625" group-title="PORTUGAL",TV Globo Low
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10526.m3u8
-#EXTINF:-1 tvg-id="GLOBONOWHD" tvg-name="TV Globo Now HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/a/a7/Globo-tv-internacional.png/revision/latest?cb=20140519132625" group-title="PORTUGAL",TV Globo Now HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10524.m3u8
-#EXTINF:-1 tvg-id="TV RECORD HD" tvg-name="TV Record FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/aa/Rede_Record_logo_2012.png" group-title="PORTUGAL",TV Record FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10522.m3u8
-#EXTINF:-1 tvg-id="TVR" tvg-name="TV Record" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/aa/Rede_Record_logo_2012.png" group-title="PORTUGAL",TV Record
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10521.m3u8
-#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV Galicia HD" tvg-logo="https://i.imgur.com/BnevaX3.jpg" group-title="PORTUGAL",TV Galicia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cubavision" tvg-logo="https://i.imgur.com/ykErMkJ.png" group-title="PORTUGAL",Cubavision
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/25231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTL Luxembourg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Logo_RTL_Luxembourg.png" group-title="PORTUGAL",RTL Luxembourg HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10519.m3u8
-#EXTINF:-1 tvg-id="SANTUARIO FATIMA" tvg-name="Santuario de Fatima" tvg-logo="http://www.mediafire.com/convkey/d297/0w9wupghmscp0otzg.jpg" group-title="PORTUGAL",Santuario de Fatima
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10518.m3u8
-#EXTINF:-1 tvg-id="CANCAONOVA" tvg-name="Canção Nova HD" tvg-logo="http://www.mediafire.com/convkey/487e/byvh9dv78ogo832zg.jpg" group-title="PORTUGAL",Canção Nova HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=SUPER;url=http://powert4all.xyz:8080/live/Solangesilveira/LhpE9QnPNn/10517.m3u8
+<item>
+<title>[B][COLOR blue]☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]A&E -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800328/755275/p1_ae</link>
+<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]A&E + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800328/755275/p3_ae_265</link>
+<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ANIMAL PLANET -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_ZJTh6oMdeOURwWyiA9cHgYQk_720p</link>
+<thumbnail>https://cld.pt/dl/download/6ef04df0-4e3f-43f0-9200-d45a7b52a55d/Animal-Planet.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ANIMAL PLANET + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_ZJTh6oMdeOk_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/6ef04df0-4e3f-43f0-9200-d45a7b52a55d/Animal-Planet.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ANIMAL PLANET + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_ZJTh6oMdeOk_1080p</link>
+<thumbnail>https://cld.pt/dl/download/6ef04df0-4e3f-43f0-9200-d45a7b52a55d/Animal-Planet.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]AMC -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_xRBGDPf12puWsC8kV6FAETN_720p</link>
+<thumbnail>https://cld.pt/dl/download/78d661a0-2bcc-4a7a-8a8e-b1f43d7c3ba0/AMC.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ARTE 1  -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_ozc7SQ9BcRT2MOBhxmpk_720p</link>
+<thumbnail>https://cld.pt/dl/download/72d7421a-81fd-48ef-886d-e0a6e82a1f25/Arte-1.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]AXN -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_OHAJwrM6poGAZu6Uj_720p</link>
+<thumbnail>https://cld.pt/dl/download/11862157-8f23-43c8-9c79-89297325766b/AXN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]AXN + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_OHAJwrM6poGAZu6Uj_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/11862157-8f23-43c8-9c79-89297325766b/AXN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]AXN + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_OHAJwrM6poGAZu6Uj_1080p</link>
+<thumbnail>https://cld.pt/dl/download/11862157-8f23-43c8-9c79-89297325766b/AXN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BAND HDTV -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_720p</link>
+<thumbnail>https://cld.pt/dl/download/a1be7ff9-205e-4533-a26a-5a8edc393d47/band%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BAND HDTV + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/a1be7ff9-205e-4533-a26a-5a8edc393d47/band%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BAND HDTV + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_3zFNpotNh0Q0iR_1080p</link>
+<thumbnail>https://cld.pt/dl/download/a1be7ff9-205e-4533-a26a-5a8edc393d47/band%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BAND NEWS + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/e77e62c3-4ae8-46d6-b7ab-294c26e10139/Band-News.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BAND NEWS + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p</link>
+<thumbnail>https://cld.pt/dl/download/e77e62c3-4ae8-46d6-b7ab-294c26e10139/Band-News.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BAND NEWS -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_720p</link>
+<thumbnail>https://cld.pt/dl/download/e77e62c3-4ae8-46d6-b7ab-294c26e10139/Band-News.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BOOMERANG -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p2_bloom_264</link>
+<thumbnail>https://cld.pt/dl/download/5aecfb67-fe22-45bb-83d9-9e17d5fbbca5/Boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BOOMERANG + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_0LsT3zQewCyqpN6kUJEaSZg1_720p</link>
+<thumbnail>https://cld.pt/dl/download/5aecfb67-fe22-45bb-83d9-9e17d5fbbca5/Boomerang.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CINEMAX -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p</link>
+<thumbnail>https://cld.pt/dl/download/88d294e3-5a6d-49b5-8099-24bc6dc99502/Cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CINEMAX + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/88d294e3-5a6d-49b5-8099-24bc6dc99502/Cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CINEMAX + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_2bJRKdayBWQpTsZ8gPwq6iX0_1080p</link>
+<thumbnail>https://cld.pt/dl/download/88d294e3-5a6d-49b5-8099-24bc6dc99502/Cinemax.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CN CARTOON -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p</link>
+<thumbnail>https://cld.pt/dl/download/81771f6d-91b3-4791-ae14-e9090bfc8891/Cartoon-Network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CN CARTOON + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_JlYXCiFjTPSy5oakKZdEVxBz_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/81771f6d-91b3-4791-ae14-e9090bfc8891/Cartoon-Network.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BRASIL -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_1KBrVeObLx7wqyN8g_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/6c4ea6e0-4e52-4e54-bb73-30fea4f42c69/canalbrasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BRASIL + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_1KBrVeObLx7wqyN8g_1080p</link>
+<thumbnail>https://cld.pt/dl/download/6c4ea6e0-4e52-4e54-bb73-30fea4f42c69/canalbrasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]COMBATE -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_720p</link>
+<thumbnail>https://cld.pt/dl/download/c70620fc-b16f-4072-b128-0dfe4ac4c939/Combate.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]COMBATE + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/c70620fc-b16f-4072-b128-0dfe4ac4c939/Combate.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]COMBATE + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_kxiCuVcr9XvcEbXgX_1080p</link>
+<thumbnail>https://cld.pt/dl/download/c70620fc-b16f-4072-b128-0dfe4ac4c939/Combate.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DAZN -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p2_dazn_264</link>
+<thumbnail>https://cld.pt/dl/download/7777aa7a-c948-498b-9658-e0c69bd74f5a/DAZN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DAZN + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p2_dazn2hd</link>
+<thumbnail>https://cld.pt/dl/download/7777aa7a-c948-498b-9658-e0c69bd74f5a/DAZN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DAZN + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p3_dazn3hd</link>
+<thumbnail>https://cld.pt/dl/download/7777aa7a-c948-498b-9658-e0c69bd74f5a/DAZN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_E3D2EB66-67DF-49EC-8eea_720p</link>
+<thumbnail>https://cld.pt/dl/download/9b1b6c95-71e8-49ab-9b7e-b23b77073e50/Discovery-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_E3D2EB66-67DF-49EC-8eea_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/9b1b6c95-71e8-49ab-9b7e-b23b77073e50/Discovery-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_E3D2EB66-67DF-49EC-8eea_1080p</link>
+<thumbnail>https://cld.pt/dl/download/9b1b6c95-71e8-49ab-9b7e-b23b77073e50/Discovery-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY H&H -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_6Ij7gxZOdZwDVlMjlbHc5_720p</link>
+<thumbnail>https://cld.pt/dl/download/d22b924d-ffa8-4bc2-abda-a6645469e07f/Discovery-HeH.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY H&H + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_6Ij7gxZOdZwDVlMjlbHc5_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/d22b924d-ffa8-4bc2-abda-a6645469e07f/Discovery-HeH.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY H&H + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p</link>
+<thumbnail>https://cld.pt/dl/download/d22b924d-ffa8-4bc2-abda-a6645469e07f/Discovery-HeH.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY KIDS -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_afy44nd1fdEvCQ38kIuM_720p</link>
+<thumbnail>https://cld.pt/dl/download/15df1155-5405-4efc-a509-afa209315ceb/Discovery-Kids.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY KIDS + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_afy44nd1fdEvCQ38kIuMe_1080p</link>
+<thumbnail>https://cld.pt/dl/download/15df1155-5405-4efc-a509-afa209315ceb/Discovery-Kids.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY SCIENCE -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p</link>
+<thumbnail>https://cld.pt/dl/download/0f00b373-c7f6-44a3-b1e3-c7119b9c102a/Discovery-Science.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY SCIENCE + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/0f00b373-c7f6-44a3-b1e3-c7119b9c102a/Discovery-Science.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY THEATER -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_RJ5rBub9ANcgf0C_720p</link>
+<thumbnail>https://cld.pt/dl/download/1b65510f-cb8f-483a-9993-cb9f4d7ab330/Discovery-Theater.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY THEATER + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_RJ5rBub9ANcgf0C_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/1b65510f-cb8f-483a-9993-cb9f4d7ab330/Discovery-Theater.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY THEATER + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_RJ5rBub9ANcgf0C_1080p</link>
+<thumbnail>https://cld.pt/dl/download/1b65510f-cb8f-483a-9993-cb9f4d7ab330/Discovery-Theater.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY TURBO -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_NpfZjjxzoFwepkuEspTet_720p</link>
+<thumbnail>https://cld.pt/dl/download/c9181532-4522-4c2e-911c-bafc1fe76e22/Discovery-Turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY TURBO + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_NpfZjjxzoFwepkuEspTet_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/c9181532-4522-4c2e-911c-bafc1fe76e22/Discovery-Turbo.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY TURBO + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_NpfZjjxzoFwepkuEspTet_1080p</link>
+<thumbnail>https://cld.pt/dl/download/c9181532-4522-4c2e-911c-bafc1fe76e22/Discovery-Turbo.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]DISCOVERY WORLD -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p</link>
+<thumbnail>https://cld.pt/dl/download/b2fc8bdb-ef50-4a84-b280-9d3e97fbdeaa/Discovery-World.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]H2 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_pyQI062qY3Xe7xTcBLrol9Vk_720p</link>
+<thumbnail>https://cld.pt/dl/download/094af53a-7581-4a0d-bada-a435b4ee6a9d/H2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]H2 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_pyQI062qY3Xe7xTc_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/094af53a-7581-4a0d-bada-a435b4ee6a9d/H2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]H2 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_Twn2W0CULpszhNfuo_1080p</link>
+<thumbnail>https://cld.pt/dl/download/094af53a-7581-4a0d-bada-a435b4ee6a9d/H2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HGTV -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p</link>
+<thumbnail>https://cld.pt/dl/download/a12dfa42-c202-4b27-9bb4-04b4c2cd35db/HGTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HISTORY -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p</link>
+<thumbnail>https://cld.pt/dl/download/3fe2a5ba-834b-4269-a885-f71a7530df6d/History-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HISTORY + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/3fe2a5ba-834b-4269-a885-f71a7530df6d/History-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HISTORY + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_zE8PUswR0aD8V7ays_1080p</link>
+<thumbnail>https://cld.pt/dl/download/3fe2a5ba-834b-4269-a885-f71a7530df6d/History-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISCOVERY ID -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_4NBa1dLVoRqQuEisXnlh5tge_720p</link>
+<thumbnail>https://cld.pt/dl/download/990979b4-3155-43f6-b6a1-bd155b93c82f/discoveryid.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NATGEO -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_EL3INMRQYpPjqHTGoiB5OhcX_720p</link>
+<thumbnail>https://cld.pt/dl/download/56ae852a-2440-4fee-983b-5184bae37078/National-Geographic.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NATGEO -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_EL3INMRQYpPjqHTGoiB5OhcX_1080p</link>
+<thumbnail>https://cld.pt/dl/download/56ae852a-2440-4fee-983b-5184bae37078/National-Geographic.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NATGEO KIDS -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_fMXbIFApR6rtPmZLyoeczTSn_720p</link>
+<thumbnail>https://cld.pt/dl/download/00f47485-3019-4ece-9a78-23509933ff5c/Nat-Geo-Kids.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NATGEO WILD + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_yrCKvYzTLXeQrNUrR_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/ec4cd0da-a2c1-4fa5-9984-a1df9cc49d42/Nat-Geo-Wild-.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NATGEO WILD + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_yrCKvYzTLXeQrNUrR_1080p</link>
+<thumbnail>https://cld.pt/dl/download/ec4cd0da-a2c1-4fa5-9984-a1df9cc49d42/Nat-Geo-Wild-.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PARAMOUNT -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_gfhwmlxs0RuYqQ2vJScU6B4t_720p</link>
+<thumbnail>https://cld.pt/dl/download/f1294d72-48d4-47b0-a018-9d249e8e2605/Paramount.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PARAMOUNT + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_AMfMEhzFmeZeeA3il_720p</link>
+<thumbnail>https://cld.pt/dl/download/f1294d72-48d4-47b0-a018-9d249e8e2605/Paramount.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PARAMOUNT + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_gfhwmlxs0RuYqQ2vJScU6B4t_1080p</link>
+<thumbnail>https://cld.pt/dl/download/f1294d72-48d4-47b0-a018-9d249e8e2605/Paramount.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NATGEO WILD-[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_fMXbIFApR6rtPmZLyoeczTSn_720p</link>
+<thumbnail>https://cld.pt/dl/download/ec4cd0da-a2c1-4fa5-9984-a1df9cc49d42/Nat-Geo-Wild-.png</thumbnail>
+</item>
+Wild
+
+<item>
+<title>[B][COLOR blue]GLOBO BAHIA -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_G8b2xaTYqU1IEKt1If_720p</link>
+<thumbnail>https://cld.pt/dl/download/578f586f-e8f2-44c9-84e4-366de84a96d9/Rede-Globo-Bahia.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO BRASILIA -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_TdLfRGtPojhFlAgJbHSCXQ9x_720p</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO MINAS -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_QHE98mt5NTgql3Lvozaj2FiG_720p</link>
+<thumbnail>https://cld.pt/dl/download/005b640d-ecad-477f-96ae-13042b02eafb/globominas.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO MINAS + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_SH5nRm6xPFBDAHxEv8_720p</link>
+<thumbnail>https://cld.pt/dl/download/005b640d-ecad-477f-96ae-13042b02eafb/globominas.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO MINAS + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_SH5nRm6xPFBDAHxEv8_1080p</link>
+<thumbnail>https://cld.pt/dl/download/005b640d-ecad-477f-96ae-13042b02eafb/globominas.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO NATAL -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_GsLsaBgOaNfAsTdGL_720p</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO NEWS -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p3_TkpBaA2SR5zzC0o</link>
+<thumbnail>https://cld.pt/dl/download/ffbc03db-3096-42ae-8396-8d3c075d7919/GLOBO-NEWS.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO NEWS + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p2_JLtVbmIgNqEC</link>
+<thumbnail>https://cld.pt/dl/download/ffbc03db-3096-42ae-8396-8d3c075d7919/GLOBO-NEWS.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO NEWS + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_1R7hfaksLPjw6EHrN8XGvFSo_1080p</link>
+<thumbnail>https://cld.pt/dl/download/ffbc03db-3096-42ae-8396-8d3c075d7919/GLOBO-NEWS.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESPN BRASIL -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_ScQBL06LuJftF_720p</link>
+<thumbnail>https://cld.pt/dl/download/295a9945-1142-4472-8315-3a47c7562502/ESPN-Brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESPN BRASIL + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_ScQBL06LuJftF_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/295a9945-1142-4472-8315-3a47c7562502/ESPN-Brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESPN BRASIL + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_ScQBL06LuJftF_1080p</link>
+<thumbnail>https://cld.pt/dl/download/295a9945-1142-4472-8315-3a47c7562502/ESPN-Brasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESPN EXTRA -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_ByxjeSWip68MPJsHRqZ2vku_720p</link>
+<thumbnail>https://cld.pt/dl/download/5a4f8e87-f256-44f5-88a5-02fcb7b83962/ESPN-Extra.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESPN -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_jK8qbRUeI8qNMLCC_720p</link>
+<thumbnail>https://cld.pt/dl/download/54ae2c12-17c0-4c92-99a5-afed4c9f1b9f/ESPN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESPN + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_jK8qbRUeI8qNMLCC_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/54ae2c12-17c0-4c92-99a5-afed4c9f1b9f/ESPN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESPN + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_ZLeLkHOSgiYq548T_1080p</link>
+<thumbnail>https://cld.pt/dl/download/54ae2c12-17c0-4c92-99a5-afed4c9f1b9f/ESPN.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FILM & ARTS  -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_Mc2C471tZ5w0PF_720p</link>
+<thumbnail>https://cld.pt/dl/download/bf71e857-9c6d-4f78-8f15-73b732cbdb4d/ilm%20%26%20Arts.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FISH TV -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_nfzRyjrsLhkUqFKAPieg4G1O_720p</link>
+<thumbnail>https://cld.pt/dl/download/43f08ca8-f2ab-405b-966c-ec5c25f3437f/Fish-TV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_zkn1fCBO864eFG2YAhcyvMSK_720p</link>
+<thumbnail>https://cld.pt/dl/download/3d8363ae-745a-4538-82bd-6340d21123b8/HBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_zkn1fCBO864eFG2YAhcyvMSK_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/3d8363ae-745a-4538-82bd-6340d21123b8/HBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_A5D79DC7E8E54A078_1080p</link>
+<thumbnail>https://cld.pt/dl/download/3d8363ae-745a-4538-82bd-6340d21123b8/HBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO 2 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_7BFi6mTXRtGkNHln4zqwL3yj_720p</link>
+<thumbnail>https://cld.pt/dl/download/38ed1929-773a-48e2-94a1-1f736adfb6b4/HBO-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO 2 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_7BFi6mTXRtGkNHln4zqwL3yj_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/38ed1929-773a-48e2-94a1-1f736adfb6b4/HBO-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO 2 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_yArOBHXOdkSTpJHqW_1080p</link>
+<thumbnail>https://cld.pt/dl/download/38ed1929-773a-48e2-94a1-1f736adfb6b4/HBO-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO FAMILY -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_12lcPN9AZmu4stMvYfbwLpEC_720p</link>
+<thumbnail>https://cld.pt/dl/download/51c50753-b2a7-42cf-a5ed-3a8754a70c47/HBO-family.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO FAMILY + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_12lcPN9AZmu4stMvYfbwLpEC_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/51c50753-b2a7-42cf-a5ed-3a8754a70c47/HBO-family.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO FAMILY + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_12lcPN9AZmu4stMvYfbwLpEC_1080p</link>
+<thumbnail>https://cld.pt/dl/download/51c50753-b2a7-42cf-a5ed-3a8754a70c47/HBO-family.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO MUNDI -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_5WH0Gjho4rRixEgqd6AytkQK_720p</link>
+<thumbnail>https://cld.pt/dl/download/6ef1ba95-806c-4b9d-b204-c311e1dbdb06/hbomundi.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO MUNDI + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_5WH0Gjho4rRixEgqd6AytkQK_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/6ef1ba95-806c-4b9d-b204-c311e1dbdb06/hbomundi.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO MUNDI + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_5WH0Gjho4rRixEgqd6AytkQK_1080p</link>
+<thumbnail>https://cld.pt/dl/download/6ef1ba95-806c-4b9d-b204-c311e1dbdb06/hbomundi.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO PLUS -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_e3NCvF9iM4mAJLqPnXcgDKOQ_720p</link>
+<thumbnail>https://cld.pt/dl/download/ec4ec500-f5e1-49f0-aceb-b7bed6a8f0c5/hboplus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO PLUS + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_e3NCvF9iM4mAJLqPnXcgDKOQ_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/ec4ec500-f5e1-49f0-aceb-b7bed6a8f0c5/hboplus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO PLUS + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_e3NCvF9iM4mAJLqPnXcgDKOQ_1080p</link>
+<thumbnail>https://cld.pt/dl/download/ec4ec500-f5e1-49f0-aceb-b7bed6a8f0c5/hboplus.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO POP -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_LQkKYu0HSy8qaItnDb4MEOxR_720p</link>
+<thumbnail>https://cld.pt/dl/download/b7fd603f-1475-4572-81f0-fe5dc3a57bfa/hbopop.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO POP + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_LQkKYu0HSy8qaItnDb4MEOxR_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/b7fd603f-1475-4572-81f0-fe5dc3a57bfa/hbopop.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO POP + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_LQkKYu0HSy8qaItnDb4MEOxR_1080p</link>
+<thumbnail>https://cld.pt/dl/download/b7fd603f-1475-4572-81f0-fe5dc3a57bfa/hbopop.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO SIGNATURE -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_OdPulekED31pKzSVvn5a6xcZ_720p</link>
+<thumbnail>https://cld.pt/dl/download/0fd5a1f0-6f1c-4ecf-98a2-6f4666aeee19/hbosignature.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO SIGNATURE + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_OdPulekED31pKzSVvn5a6xcZ_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/0fd5a1f0-6f1c-4ecf-98a2-6f4666aeee19/hbosignature.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO SIGNATURE + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_OdPulekED31pKzSVvn5a6xcZ_1080p</link>
+<thumbnail>https://cld.pt/dl/download/0fd5a1f0-6f1c-4ecf-98a2-6f4666aeee19/hbosignature.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO XTREME -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_QlfKVdFeENbB8wAhXUWnrTk_720p</link>
+<thumbnail>https://cld.pt/dl/download/507d89e3-fdcd-43ac-801c-468ab7dd22dd/hboextreme.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]HBO XTREME + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_QlfKVdFeENbB8wAhXUWnrTk_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/507d89e3-fdcd-43ac-801c-468ab7dd22dd/hboextreme.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]HBO XTREME + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_QlfKVdFeENbB8wAhXUWnrTkD_1080p</link>
+<thumbnail>https://cld.pt/dl/download/507d89e3-fdcd-43ac-801c-468ab7dd22dd/hboextreme.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISNEY -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p</link>
+<thumbnail>https://cld.pt/dl/download/af8bcdae-3e53-48b8-81da-20cca791fcb6/Disney-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISNEY + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/af8bcdae-3e53-48b8-81da-20cca791fcb6/Disney-Channel.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISNEY JUNIOR -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_AzuKGRLYDZE6CcOjHQPWdhsV_720p</link>
+<thumbnail>https://cld.pt/dl/download/93ffd76d-28b5-4466-a0f5-b9aae12b751b/Disney-JR.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DISNEY XD -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_2lt7haK8B0Gm3sDHTzW9eSdF_720p</link>
+<thumbnail>https://cld.pt/dl/download/f567638f-32b3-45bb-af26-dcca7c579ba5/Disney-XD.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DOG -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p1_eimaxx2_265</link>
+<thumbnail>https://cld.pt/dl/download/bb9fe0b8-0411-4b58-8a5c-927106ce2ea9/dogtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]DOG + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p1_eimaxx2_264</link>
+<thumbnail>https://cld.pt/dl/download/bb9fe0b8-0411-4b58-8a5c-927106ce2ea9/dogtv.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]COMEDY CENTRAL -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_XypHPFmzuIfLK41oZNncQelA_720p</link>
+<thumbnail>https://cld.pt/dl/download/ad0e8379-3fe1-4a57-9f4b-bd0906742421/Comedy-Central.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]COMEDY CENTRAL + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_XypHPFmzuIfLK41oZNncQelA_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/ad0e8379-3fe1-4a57-9f4b-bd0906742421/Comedy-Central.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]COMEDY CENTRAL + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_XypHPFmzuIfLK41oZNncQelA_1080p</link>
+<thumbnail>https://cld.pt/dl/download/ad0e8379-3fe1-4a57-9f4b-bd0906742421/Comedy-Central.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CONMEBOL TV 1 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_xrNh5O0VIHWdGhbT5J_720p</link>
+<thumbnail>https://cld.pt/dl/download/57e2d077-9155-4b86-a54f-f098ab1ea36c/CONMEBOLTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CONMEBOL TV 2 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_GY9pO8alp1jpZl8lcIcqH_720p</link>
+<thumbnail>https://cld.pt/dl/download/57e2d077-9155-4b86-a54f-f098ab1ea36c/CONMEBOLTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CONMEBOL TV 3 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_6ciY4GBUyDczLxioSo_720p</link>
+<thumbnail>https://cld.pt/dl/download/57e2d077-9155-4b86-a54f-f098ab1ea36c/CONMEBOLTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CONMEBOL TV 4 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_bLyQSHesKIXQoFVH_720p</link>
+<thumbnail>https://cld.pt/dl/download/57e2d077-9155-4b86-a54f-f098ab1ea36c/CONMEBOLTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CONMEBOL LIBERTADORES -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_knQ99fvOCwkMKny_720p</link>
+<thumbnail>https://cld.pt/dl/download/966ac349-0c7b-4975-804a-3a11b370417e/CopaLibertadoreswatch.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]CURTA -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_XgNO9IDpXPmONVqRSDd5_720p</link>
+<thumbnail>https://cld.pt/dl/download/497a8358-e82e-4361-bb04-588fdc323db0/curta%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]COPA DO NORDESTE -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_smjB4uUu991glkE5sH_720p</link>
+<thumbnail>https://cld.pt/dl/download/8cb42903-9e93-44a4-981b-f94cdcdbfb76/Copa.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]E! -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_MLyp2YcnBaoNT1DdC3FOsiHE_720p</link>
+<thumbnail>https://cld.pt/dl/download/7737be9b-6a3a-4272-a307-a5ea282d6761/e.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]EPTV -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_FHv07WYXkqS7SXLh6C_720p</link>
+<thumbnail>https://cld.pt/dl/download/53c244ce-eab8-4111-9a03-13a085b65cc0/Globo-EPTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]EPTV 2 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_grEPhm077A5QLBzZ_720p</link>
+<thumbnail>https://cld.pt/dl/download/53c244ce-eab8-4111-9a03-13a085b65cc0/Globo-EPTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESTADIO TNT SPORTS 1 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_DNIF0PUhNW1g6rLkvJ_720p</link>
+<thumbnail>https://cld.pt/dl/download/89361f47-6a91-40d3-81d4-dcdb9aef1032/tveducacao%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESTADIO TNT SPORTS 2 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_FSUaOZHBv5V1uFsXmX_720p</link>
+<thumbnail>https://cld.pt/dl/download/89361f47-6a91-40d3-81d4-dcdb9aef1032/tveducacao%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESTADIO TNT SPORTS 3 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_fiGS04Kp4Ejt6Bq2Y_720p</link>
+<thumbnail>https://cld.pt/dl/download/89361f47-6a91-40d3-81d4-dcdb9aef1032/tveducacao%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESTADIO TNT SPORTS 4 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_rfHcDhnzwioSRNyb8p_720p</link>
+<thumbnail>https://cld.pt/dl/download/89361f47-6a91-40d3-81d4-dcdb9aef1032/tveducacao%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESTADIO TNT SPORTS 5 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_Bnug4mAhq3JRCEsY_720p</link>
+<thumbnail>https://cld.pt/dl/download/89361f47-6a91-40d3-81d4-dcdb9aef1032/tveducacao%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESTADIO TNT SPORTS 6 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_jpy3xfTUswF7B5jem_720p</link>
+<thumbnail>https://cld.pt/dl/download/89361f47-6a91-40d3-81d4-dcdb9aef1032/tveducacao%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]ESTADIO TNT SPORTS 7 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_KT5wshpEIPzYTojEjc7_720p</link>
+<thumbnail>https://cld.pt/dl/download/89361f47-6a91-40d3-81d4-dcdb9aef1032/tveducacao%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FGF TV -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_saQa0JpPtH9pZCjv_720p</link>
+<thumbnail>https://cld.pt/dl/download/4f7b9bad-480c-4d20-9e9c-fb8214ace9a6/FGFTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FOX SPORTS -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_AkF7moyJqBpWr5L3ctZXu8D6_720p</link>
+<thumbnail>https://cld.pt/dl/download/c35cf818-7270-41c3-bf83-701758b165b0/Fox-Sports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FOX SPORTS + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_AkF7moyJqBpWr5L3ctZXu8D6_4M</link>
+<thumbnail>https://cld.pt/dl/download/c35cf818-7270-41c3-bf83-701758b165b0/Fox-Sports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FOX SPORTS 2  -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_5jJXtWhS6iP43DGF1porNTkZ_720p</link>
+<thumbnail>https://cld.pt/dl/download/f3106a14-75b0-46a3-a04d-8457de4ed768/Fox-Sports-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FOX SPORTS 2 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_5jJXtWhS6iP43DGF1porNTkZ_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/f3106a14-75b0-46a3-a04d-8457de4ed768/Fox-Sports-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FOX SPORTS 2 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_5jJXtWhS6iP43DGF1porNTkZ_4M</link>
+<thumbnail>https://cld.pt/dl/download/f3106a14-75b0-46a3-a04d-8457de4ed768/Fox-Sports-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FOX FOX SPORTS PREMIUM -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_knOhhfNdF9kfR0_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/26ce7c83-0c06-4cfa-aa3d-fa122ecee96a/Jasmim-TV%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FUTURA -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_m9QFijWCzoVs4P20h8e5nJuc_720p</link>
+<thumbnail>https://cld.pt/dl/download/80945dc1-9eda-440c-a4a1-0451ae6ade58/FUTURA.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FX -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p</link>
+<thumbnail>https://meocloud.pt/link/471ccac9-02be-48fc-a05f-6fef28b3c4ea/FX.png/</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]FX + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_iXSj9zHqmOdwcYFuCLTb0MNK_720p_2M</link>
+<thumbnail>https://meocloud.pt/link/471ccac9-02be-48fc-a05f-6fef28b3c4ea/FX.png/</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GAZETA -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_kfSX64Fvn1EIg85ms9OitVY2_720p</link>
+<thumbnail>https://cld.pt/dl/download/c1e7d6a3-82ec-4e7c-988e-93bd5ba87896/GAZETA.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO NORDESTE -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p1_dXr7MDxd0aqy</link>
+<thumbnail>https://cld.pt/dl/download/e338e09c-6b09-44d3-a750-bfb5b95751c1/Globo-Nordeste.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO PR -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p2_EJgdlPLZH89MVH1B</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO RECIFE -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_DlRn7901d45Sc3mhwNEFAXpH_720p</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO RJ -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_kzeKgKsjyTCBUMl4_720p</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO RJ + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_kzeKgKsjyTCBUMl4_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO RJ + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_kzeKgKsjyTCBUMl4_1080p</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO RS -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p1_moxeZCA4slSsPDI</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO SOROCATA -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_W80mrx0Olfggd0ainlJ_720p</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO SP -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO SP + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOBO SP + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_bz2lc7s8PV3avHAgjnFxpM0w_4M</link>
+<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOOB -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_NviBsuOXDRg5eThwb46oHUdJ_720p</link>
+<thumbnail>https://cld.pt/dl/download/4a5c29b4-3407-4caa-8fdf-dbdaa32d266b/Gloob.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOOB + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_NviBsuOXDRg5eThwb46oHUdJ_720p</link>
+<thumbnail>https://cld.pt/dl/download/4a5c29b4-3407-4caa-8fdf-dbdaa32d266b/Gloob.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GLOOBINHO -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_Id083Vtv4joDS5CBRwbAQmO2_720p</link>
+<thumbnail>https://cld.pt/dl/download/e1a347a8-da2c-4b97-bbc4-47c11882e680/Gloobinho.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GNT -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_sz5R7Z8PDOtEIxlNHhQa3FrB_720p</link>
+<thumbnail>https://cld.pt/dl/download/6dc50428-12ea-45ea-a8a3-b11c5db4465a/GNT.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GNT + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_sz5R7Z8PDOtEIxlNHhQa3FrB_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/6dc50428-12ea-45ea-a8a3-b11c5db4465a/GNT.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]GNT + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_rtAxUDgeU6PymlSVe_1080p</link>
+<thumbnail>https://cld.pt/dl/download/6dc50428-12ea-45ea-a8a3-b11c5db4465a/GNT.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]LIFE TIME -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_hrRidPDANy3S52Ljmwtx978F_720p</link>
+<thumbnail>https://cld.pt/dl/download/fe799ff9-f9b7-4b05-a422-1f529b0dde04/Jasmim1-TV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MAX -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_bgpis6tD7Hl40AP_720p</link>
+<thumbnail>https://cld.pt/dl/download/a360eedb-ccb4-4419-8415-58b165857a88/max.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MEGA -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_VwtsdwOiAcPsvY0VoEa_720p</link>
+<thumbnail>https://cld.pt/dl/download/6ee5effc-89e6-4e23-8250-84c5493b8014/MEGA.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MEGA + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_VwtsdwOiAcPsvY0VoEa_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/6ee5effc-89e6-4e23-8250-84c5493b8014/MEGA.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MEGAPIX -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p</link>
+<thumbnail>https://cld.pt/dl/download/eb6d0282-5ee0-434f-adf0-5cf07e1c61d4/Megapix.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MEGAPIX + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/eb6d0282-5ee0-434f-adf0-5cf07e1c61d4/Megapix.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MEGAPIX + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_1080p</link>
+<thumbnail>https://cld.pt/dl/download/eb6d0282-5ee0-434f-adf0-5cf07e1c61d4/Megapix.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MTV -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p</link>
+<thumbnail>https://cld.pt/dl/download/6cf8f8dd-5d45-4a38-a597-90574f8e788c/MTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MTV live -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_dfEeZjblbyTWgEZydjYv_720p</link>
+<thumbnail>https://cld.pt/dl/download/6cf8f8dd-5d45-4a38-a597-90574f8e788c/MTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MULTISHOW -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p</link>
+<thumbnail>https://cld.pt/dl/download/91e336e1-f662-4114-b668-700edbee9fb1/MultiShow.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MULTISHOW + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/91e336e1-f662-4114-b668-700edbee9fb1/MultiShow.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]MULTISHOW + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_xBEDmuNinjXaf4ZHcGkRsr7h_1080p</link>
+<thumbnail>https://cld.pt/dl/download/91e336e1-f662-4114-b668-700edbee9fb1/MultiShow.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 2 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_UJlOHOurcXIINOMI8C_720p</link>
+<thumbnail>https://cld.pt/dl/download/7e078bd8-22f9-48d9-b400-68441e751362/Premiere-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 2 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_UJlOHOurcXIINOMI8C_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/7e078bd8-22f9-48d9-b400-68441e751362/Premiere-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 2 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_YfRcG1NojqwhvD7_1080p</link>
+<thumbnail>https://cld.pt/dl/download/7e078bd8-22f9-48d9-b400-68441e751362/Premiere-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 3 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_QVjAjs05rLeRcJaYwWpr6k_720p</link>
+<thumbnail>https://cld.pt/dl/download/704b916c-59ec-4ae9-a0aa-82a6386159eb/Premiere-3.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 3 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_QVjAjs05rLeRcJaYwWpr6k_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/704b916c-59ec-4ae9-a0aa-82a6386159eb/Premiere-3.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 3 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_QVjAjs05rLeRcJaYwWpr6k_1080p</link>
+<thumbnail>https://cld.pt/dl/download/704b916c-59ec-4ae9-a0aa-82a6386159eb/Premiere-3.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 4 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_T1kER2k4toPH_720p</link>
+<thumbnail>https://cld.pt/dl/download/8a83ebdf-f5d7-467e-96b1-caa74221eefd/premeire4.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 4 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_T1kER2k4toPH_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/8a83ebdf-f5d7-467e-96b1-caa74221eefd/premeire4.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 4 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_T1kER2k4toPH_1080p</link>
+<thumbnail>https://cld.pt/dl/download/8a83ebdf-f5d7-467e-96b1-caa74221eefd/premeire4.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 5 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_J2m8CmTHvNkE_720p</link>
+<thumbnail>https://cld.pt/dl/download/3e06827d-40ae-4ad6-8392-2052060ae3fe/premeire5.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 5 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_J2m8CmTHvNkE_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/3e06827d-40ae-4ad6-8392-2052060ae3fe/premeire5.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 5 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_J2m8CmTHvNkE_1080p_4M</link>
+<thumbnail>https://cld.pt/dl/download/3e06827d-40ae-4ad6-8392-2052060ae3fe/premeire5.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 6 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_Z60O0vqPgGWm5AZ_720p</link>
+<thumbnail>https://cld.pt/dl/download/0771a1fc-6bfa-4a3b-83c6-c7fb31f2bfc6/Premiere-6.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 6 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_Z60O0vqPgGWm5AZ_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/0771a1fc-6bfa-4a3b-83c6-c7fb31f2bfc6/Premiere-6.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 6 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_Z60O0vqPgGWm5AZ_1080p_4M</link>
+<thumbnail>https://cld.pt/dl/download/0771a1fc-6bfa-4a3b-83c6-c7fb31f2bfc6/Premiere-6.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 7 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_UjpdfkIRnXrYxZ6oGgq8NPJl_720p</link>
+<thumbnail>https://cld.pt/dl/download/562ca8e6-97a2-4afc-b210-735fb6de8600/premiere7%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 7 +-[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m4_UjpdfkIRnXrYxZ6oGgq8NPJl_720p</link>
+<thumbnail>https://cld.pt/dl/download/562ca8e6-97a2-4afc-b210-735fb6de8600/premiere7%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 8 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_3cpyrTBAWZg8itHVel2FuNPM_720p</link>
+<thumbnail>https://cld.pt/dl/download/a30cc6c3-6c4d-4df3-b53a-266a61b52b79/PREMIERE8.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 8 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_3cpyrTBAWZg8itHVel2FuNPM_720p</link>
+<thumbnail>https://cld.pt/dl/download/a30cc6c3-6c4d-4df3-b53a-266a61b52b79/PREMIERE8.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 9 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_n8e877XHrnop5hV88v1u_720p</link>
+<thumbnail>https://cld.pt/dl/download/c8996499-4668-4e6f-9889-ff51f0e6d9a3/premeire9.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE 9 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m3_n8e877XHrnop5hV88v1u_720p</link>
+<thumbnail>https://cld.pt/dl/download/c8996499-4668-4e6f-9889-ff51f0e6d9a3/premeire9.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE CLUBES  -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p2_wAhvdtYSSpFDqL2XTgG1</link>
+<thumbnail>https://cld.pt/dl/download/41a25a01-99fd-49bd-bcad-e6ceaea3c28d/premiereclubes.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE CLUBES + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_xjR88zvaHgI1fyeQS_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/41a25a01-99fd-49bd-bcad-e6ceaea3c28d/premiereclubes.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PREMIERE CLUBES + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_xjR88zvaHgI1fyeQS_1080p</link>
+<thumbnail>https://cld.pt/dl/download/41a25a01-99fd-49bd-bcad-e6ceaea3c28d/premiereclubes.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PRIME BOX BRASIL -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_EzQIvhr4w2UUk5HoaRXy_720p</link>
+<thumbnail>https://cld.pt/dl/download/1044f53b-f85c-44b3-b247-6e950728ff85/PrimeBox-Brazil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]PRIME BOX BRASIL + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_EzQIvhr4w2UUk5HoaRXy_720p</link>
+<thumbnail>https://cld.pt/dl/download/1044f53b-f85c-44b3-b247-6e950728ff85/PrimeBox-Brazil.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]Sport TV -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p2_AD5dvVfj6egLHxBwARO</link>
+<thumbnail>https://cld.pt/dl/download/a9ff52c2-7a17-4362-a297-ba8189b608ea/SportTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]Sport TV + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/p3_jUB9PDqLPI4ma3xxj</link>
+<thumbnail>https://cld.pt/dl/download/a9ff52c2-7a17-4362-a297-ba8189b608ea/SportTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]Sport TV + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_welG1zUJ8o7XxE78c_1080p</link>
+<thumbnail>https://cld.pt/dl/download/a9ff52c2-7a17-4362-a297-ba8189b608ea/SportTV.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]Sport TV 2 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p</link>
+<thumbnail>https://cld.pt/dl/download/13850793-8770-43be-b6fa-b8f3f8158edb/SportTV-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]Sport TV 2 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/13850793-8770-43be-b6fa-b8f3f8158edb/SportTV-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]Sport TV 2 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p</link>
+<thumbnail>https://cld.pt/dl/download/13850793-8770-43be-b6fa-b8f3f8158edb/SportTV-2.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]Sport TV 3 -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p</link>
+<thumbnail>https://cld.pt/dl/download/7f1e7750-f48d-4a70-abf0-7fc3106c26c0/SPORTV-3.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]Sport TV 3 + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/7f1e7750-f48d-4a70-abf0-7fc3106c26c0/SPORTV-3.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]Sport TV 3 + + -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_vzd4MQvFCKUahymwGL_1080p</link>
+<thumbnail>https://cld.pt/dl/download/7f1e7750-f48d-4a70-abf0-7fc3106c26c0/SPORTV-3.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BAND Sports -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_720p</link>
+<thumbnail>https://cld.pt/dl/download/c3e0938b-91f7-4548-9e76-3557540a4a93/Band-Sports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BAND Sports +  -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_720p_2M</link>
+<thumbnail>https://cld.pt/dl/download/c3e0938b-91f7-4548-9e76-3557540a4a93/Band-Sports.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]BAND Sports + +  -[/COLOR][COLOR red] Play[/COLOR][COLOR white] Zone[/COLOR][/B]</title>
+<link>http://api.magiaiptv.com/live/800195/918609/m1_JCr0n6KJkWbSR5_1080p</link>
+<thumbnail>https://cld.pt/dl/download/c3e0938b-91f7-4548-9e76-3557540a4a93/Band-Sports.png</thumbnail>
+</item>
