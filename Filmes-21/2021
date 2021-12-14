@@ -145,17 +145,19 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[B][COLOR white] NOME [/COLOR][COLOR red]7PLUS[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=MAGNETLINK$nome=[COLOR lime] TORREST RESOLUÇÃO 4k Dublado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=MAGNETLINK$nome=[COLOR lime] TORREST RESOLUÇÃO 4k Dublado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
-<thumbnail>CAPA</thumbnail>
-<fanart>FUNDO</fanart>
-<info>[COLOR red]Sinopse:[/COLOR] [COLOR white]INFO[/COLOR]
+<title>[B][COLOR white] Deadlock (2021) [/COLOR][COLOR red]7PLUS[/COLOR][/B]</title>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:6731D5A22F4506AD6606E556FDBB2B1CBE6D1C81$nome=[COLOR lime] TORREST RESOLUÇÃO 1080p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
+<subtitle>http://redplay.in.net/SRT/Deadlock.2021.WEBRip.x264-ION10.srt</subtitle>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6731D5A22F4506AD6606E556FDBB2B1CBE6D1C81$nome=[COLOR lime] elementumRESOLUÇÃO 1080p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
+<subtitle>http://redplay.in.net/SRT/Deadlock.2021.WEBRip.x264-ION10.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/2qNAt8w6ba6XBnnuudMpyhziUhp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4wyNq6FOCSTY7PbFKUiyRBRzeIV.jpg</fanart>
+<info>[COLOR red]Sinopse:[/COLOR] [COLOR white]Bruce Willis estrela como Ron Whitlock, um criminoso procurado liderando uma equipe de mercenários em uma missão de vingança. Convencido de que o governo está trabalhando contra eles, o grupo impiedoso apreende brutalmente uma usina de energia e mantém todos como reféns.[/COLOR]
 
-[COLOR red]»»[/COLOR][COLOR white] Leg/Dub [/COLOR][COLOR red]««[/COLOR]
-[COLOR red]Género:[/COLOR][COLOR white] Ação / Drama / História[/COLOR]
+[COLOR red]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR red]««[/COLOR]
+[COLOR red]Género:[/COLOR][COLOR white] Ação, Thriller[/COLOR]
 [COLOR red]Ano:[/COLOR][COLOR white] (2021) [/COLOR]
-[COLOR red]Duração:[/COLOR][COLOR white] 2h 22m[/COLOR]
+[COLOR red]Duração:[/COLOR][COLOR white] 1h 36m[/COLOR]
 
 </info>
 </item>
