@@ -148,7 +148,9 @@
 
 <item>
 <title>[B][COLOR white] The Last Duel (2021) [/COLOR][COLOR red]7PLUS[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9742045F8AA54AB33D317A6D2583483EA7FC06B</link>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:E9742045F8AA54AB33D317A6D2583483EA7FC06B$nome=[COLOR lime] TORREST RESOLUÇÃO 1080p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
+<subtitle>http://redplay.in.net/SRT/The.Last.Duel.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.srt</subtitle>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9742045F8AA54AB33D317A6D2583483EA7FC06B$nome=[COLOR lime] ELEMENTUM RESOLUÇÃO 1080p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
 <subtitle>http://redplay.in.net/SRT/The.Last.Duel.2021.1080p.WEBRip.x264.AAC5.1-%5bYTS.MX%5d.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/mMr5sCLO2d0fwFZBQuiDT7UkVc7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/mFbS5TwN95BcSEfiztdchLgTQ0v.jpg</fanart>
@@ -186,7 +188,7 @@
 
 <item>
 <title>[B][COLOR white] Sweet Girl (2021) [/COLOR][COLOR red]7PLUS[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:h64ieiorv73xpyzwhm5zmt3bzjaqgn47$nome=[COLOR lime] TORREST RESOLUÇÃO 1080p Dublado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:7FEAE8BD992551D527C68686F423CC441169FA3C$nome=[COLOR lime] TORREST RESOLUÇÃO 1080p Dublado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
 <subtitle>http://redplay.in.net/SRT/Sweet.Girl.(2021).srt</subtitle>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FEAE8BD992551D527C68686F423CC441169FA3C$nome=[COLOR lime] TORREST RESOLUÇÃO 1080p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
 <subtitle>http://redplay.in.net/SRT/Sweet.Girl.(2021).srt</subtitle>
