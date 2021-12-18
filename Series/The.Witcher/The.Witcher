@@ -150,12 +150,9 @@
 
 <item>
 <title>[B][COLOR white] The Witcher (2021) [/COLOR][COLOR orange](Episódio 2)[/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:70411E5F8F017EC2AC75135E2B60EB8FEE7296CF$nome=[COLOR lime] TORREST RESOLUÇÃO 720p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
-<subtitle>http://redplay.in.net/SRT/SERIES/The.Witcher/S02/The.Witcher.S02E01.srt</subtitle>
+<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:9AFC05D8E38FC6AF766504A67DEB76CAC5FD229F$nome=[COLOR lime] TORREST RESOLUÇÃO 720p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
 <subtitle>http://redplay.in.net/SRT/SERIES/The.Witcher/S02/The.Witcher.S02E02..srt</subtitle>
-<subtitle>http://redplay.in.net/SRT/SERIES/The.Witcher/S02/The.Witcher.S02E03.srt</subtitle>
-<subtitle>http://redplay.in.net/SRT/SERIES/The.Witcher/S02/The.Witcher.S02E04.srt</subtitle>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70411E5F8F017EC2AC75135E2B60EB8FEE7296CF$nome=[COLOR lime] ELEMENTUM RESOLUÇÃO 720p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9AFC05D8E38FC6AF766504A67DEB76CAC5FD229F$nome=[COLOR lime] ELEMENTUM RESOLUÇÃO 720p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
 <subtitle>http://redplay.in.net/SRT/SERIES/The.Witcher/S02/The.Witcher.S02E02..srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/7vjaCdMw15FEbXyLQTVa04URsPm.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/s56eyXy8rADp5DpZknfe2HXq4u4.jpg</fanart>
