@@ -10,43 +10,43 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/p3_ae_265.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://cld.pt/dl/download/6ef04df0-4e3f-43f0-9200-d45a7b52a55d/Animal-Planet.png" group-title="CANAIS LOCAIS",ANIMAL PLANET
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m1_ZJTh6oMdeOURwWyiA9cHgYQk_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://cld.pt/dl/download/6ef04df0-4e3f-43f0-9200-d45a7b52a55d/Animal-Planet.png" group-title="CANAIS LOCAIS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m1_ZJTh6oMdeOk_720p_2M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m1_ZJTh6oMdeOk_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="https://cld.pt/dl/download/78d661a0-2bcc-4a7a-8a8e-b1f43d7c3ba0/AMC.png" group-title="CANAIS LOCAIS",AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_xRBGDPf12puWsC8kV6FAETN_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="https://cld.pt/dl/download/72d7421a-81fd-48ef-886d-e0a6e82a1f25/Arte-1.png" group-title="CANAIS LOCAIS",ARTE 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m1_ozc7SQ9BcRT2MOBhxmpk_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://cld.pt/dl/download/11862157-8f23-43c8-9c79-89297325766b/AXN.png" group-title="CANAIS LOCAIS",AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_OHAJwrM6poGAZu6Uj_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://cld.pt/dl/download/11862157-8f23-43c8-9c79-89297325766b/AXN.png" group-title="CANAIS LOCAIS",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_OHAJwrM6poGAZu6Uj_720p_2M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="https://cld.pt/dl/download/11862157-8f23-43c8-9c79-89297325766b/AXN.png" group-title="CANAIS LOCAIS",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_OHAJwrM6poGAZu6Uj_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND HDTV" tvg-logo="https://cld.pt/dl/download/a1be7ff9-205e-4533-a26a-5a8edc393d47/band%20%281%29.png" group-title="CANAIS LOCAIS",BAND HDTV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND HDTV HD" tvg-logo="https://cld.pt/dl/download/a1be7ff9-205e-4533-a26a-5a8edc393d47/band%20%281%29.png" group-title="CANAIS LOCAIS",BAND HDTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_720p_2M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND HDTV FHD" tvg-logo="https://cld.pt/dl/download/a1be7ff9-205e-4533-a26a-5a8edc393d47/band%20%281%29.png" group-title="CANAIS LOCAIS",BAND HDTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://cld.pt/dl/download/e77e62c3-4ae8-46d6-b7ab-294c26e10139/Band-News.png" group-title="CANAIS LOCAIS",BAND NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_wM1DcpyixXePdVU8F2ogE6KT_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD" tvg-logo="https://cld.pt/dl/download/e77e62c3-4ae8-46d6-b7ab-294c26e10139/Band-News.png" group-title="CANAIS LOCAIS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_wM1DcpyixXePdVU8F2ogE6KT_720p_2M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS FHD" tvg-logo="https://cld.pt/dl/download/e77e62c3-4ae8-46d6-b7ab-294c26e10139/Band-News.png" group-title="CANAIS LOCAIS",BAND NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://cld.pt/dl/download/5aecfb67-fe22-45bb-83d9-9e17d5fbbca5/Boomerang.png" group-title="CANAIS LOCAIS",BOOMERANG 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/p2_bloom_264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="https://cld.pt/dl/download/5aecfb67-fe22-45bb-83d9-9e17d5fbbca5/Boomerang.png" group-title="CANAIS LOCAIS",BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m4_0LsT3zQewCyqpN6kUJEaSZg1_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://cld.pt/dl/download/88d294e3-5a6d-49b5-8099-24bc6dc99502/Cinemax.png" group-title="CANAIS LOCAIS",CINEMAX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://cld.pt/dl/download/88d294e3-5a6d-49b5-8099-24bc6dc99502/Cinemax.png" group-title="CANAIS LOCAIS",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m2_2bJRKdayBWQpTsZ8gPwq6iX0_720p_2M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX FHD" tvg-logo="https://cld.pt/dl/download/88d294e3-5a6d-49b5-8099-24bc6dc99502/Cinemax.png" group-title="CANAIS LOCAIS",CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m2_2bJRKdayBWQpTsZ8gPwq6iX0_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://distv.net/icons/canaldoboi.png" group-title="CANAIS LOCAIS",CANAL DO BOI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",CANÇÃO NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/65.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EDUCAÇÃO" tvg-logo="http://distv.net/icons/EDUCA%c3%87%c3%83O.png" group-title="CANAIS LOCAIS",EDUCAÇÃO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/285.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="http://distv.net/icons/EURO%20NEWS.png" group-title="CANAIS LOCAIS",EURO NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FASHION" tvg-logo="http://distv.net/icons/fashiontv.png" group-title="CANAIS LOCAIS",FASHION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBR TV" tvg-logo="http://distv.net/icons/nbr.png" group-title="CANAIS LOCAIS",NBR TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PLAY TV" tvg-logo="http://distv.net/icons/playtv.png" group-title="CANAIS LOCAIS",PLAY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://distv.net/icons/polishop.png" group-title="CANAIS LOCAIS",POLISHOP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/272.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://distv.net/icons/redegenesis.png" group-title="CANAIS LOCAIS",REDE GENESIS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://distv.net/icons/redegospel.png" group-title="CANAIS LOCAIS",REDE GOSPEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS" tvg-logo="http://distv.net/icons/Rede%20Minas.png" group-title="CANAIS LOCAIS",REDE MINAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/275.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE SECULO 21" tvg-logo="http://distv.net/icons/seculo21.png" group-title="CANAIS LOCAIS",REDE SECULO 21
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="http://distv.net/icons/redesuper.png" group-title="CANAIS LOCAIS",REDE SUPER
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REDE TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/69.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RIT TV" tvg-logo="http://distv.net/icons/rittv.png" group-title="CANAIS LOCAIS",RIT TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/70.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TBC" tvg-logo="http://distv.net/icons/TBC.png" group-title="CANAIS LOCAIS",TBC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/278.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="CANAIS LOCAIS",TV BRASIL 2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/279.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA DIGITAL" tvg-logo="http://distv.net/icons/TV%20ESCOLA%20DIGITAL.png" group-title="CANAIS LOCAIS",TV ESCOLA DIGITAL
