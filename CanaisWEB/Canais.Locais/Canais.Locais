@@ -64,11 +64,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/p2_dazn2hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DAZN FHD" tvg-logo="https://cld.pt/dl/download/7777aa7a-c948-498b-9658-e0c69bd74f5a/DAZN.png" group-title="CANAIS LOCAIS PARAIBA",DAZN FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/p3_dazn3hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="http://distv.net/icons/tvcidade.png" group-title=" CANAIS LOCAIS CARIRI-CE",DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://cld.pt/dl/download/9b1b6c95-71e8-49ab-9b7e-b23b77073e50/Discovery-Channel.png" group-title=" CANAIS LOCAIS ",DISCOVERY CHANNEL
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_E3D2EB66-67DF-49EC-8eea_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="http://distv.net/icons/tvcorreio.png" group-title="CANAIS LOCAIS PARAIBA",DISCOVERY HD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://cld.pt/dl/download/9b1b6c95-71e8-49ab-9b7e-b23b77073e50/Discovery-Channel.png" group-title="CANAIS LOCAIS ",DISCOVERY CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_E3D2EB66-67DF-49EC-8eea_720p_2M.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FHD" tvg-logo="http://distv.net/icons/tvdiario.png" group-title=" CANAIS LOCAIS CARIRI-CE",DISCOVERY FHD
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://cld.pt/dl/download/9b1b6c95-71e8-49ab-9b7e-b23b77073e50/Discovery-Channel.png" group-title=" CANAIS LOCAIS ",DISCOVERY CHANNEL FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m3_E3D2EB66-67DF-49EC-8eea_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV GLOBO NE" tvg-logo="http://distv.net/icons/globonordeste.png" group-title=" CANAIS LOCAIS RECIFE",TV GLOBO NE
