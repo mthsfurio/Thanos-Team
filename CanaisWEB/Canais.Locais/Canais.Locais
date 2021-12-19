@@ -6,10 +6,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png" group-title="CANAIS LOCAIS",A&E
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/p1_ae.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 21" tvg-logo="http://distv.net/icons/canal21.png" group-title="CANAIS LOCAIS",CANAL 21
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COMUNITARIO" tvg-logo="http://distv.net/icons/Canal%20ComunitaRIO.png" group-title="CANAIS LOCAIS",CANAL COMUNITARIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png" group-title="CANAIS LOCAIS",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/p3_ae_265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://cld.pt/dl/download/6ef04df0-4e3f-43f0-9200-d45a7b52a55d/Animal-Planet.png" group-title="CANAIS LOCAIS",ANIMAL PLANET
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m1_ZJTh6oMdeOURwWyiA9cHgYQk_720p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://distv.net/icons/canaldoboi.png" group-title="CANAIS LOCAIS",CANAL DO BOI
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",CANÇÃO NOVA
