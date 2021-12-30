@@ -4,7 +4,7 @@
 <regex>
 <name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fboku-no-hero-academia%2Fepisodio%2F29947</page>
+<page>https://apiresolver.herokuapp.com/resolver?url=https://animesonline.club/anime/boku-no-hero-academia/episodio/29947</page>
 </regex>
 <thumbnail>https://www.themoviedb.org/t/p/original/ayCsvKt2MyYVWUJJsSJDVTlSTjY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg</fanart>
@@ -18,7 +18,7 @@
 <regex>
 <name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fboku-no-hero-academia%2Fepisodio%2F29946</page>
+<page>https://apiresolver.herokuapp.com/resolver?url=https://animesonline.club/anime/boku-no-hero-academia/episodio/29946</page>
 </regex>
 <thumbnail>https://www.themoviedb.org/t/p/original/ayCsvKt2MyYVWUJJsSJDVTlSTjY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg</fanart>
