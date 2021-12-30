@@ -1,18 +1,19 @@
 <item>
-<title>Test</title>
+<title>BOKU NO HERO ACADEMIA 2</title>
 <link>$doregex[resolver]</link>
 <regex>
 <name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2Fanimefire.net%2Fanimes%2Fgintama-the-semi-final%2F1</page>
+<page>https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fboku-no-hero-academia%2Fepisodio%2F29947</page>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
 
+
 <item>
-<title>Test</title>
+<title>BOKU NO HERO ACADEMIA 1</title>
 <link>$doregex[resolver]</link>
 <regex>
 <name>resolver</name>
@@ -24,18 +25,6 @@
 <info></info>
 </item>
 
-<item>
-<title>Test</title>
-<link>$doregex[resolver]</link>
-<regex>
-<name>resolver</name>
-<expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.herokuapp.com/resolver?url=http%3A%2F%2Fwww.tugakids.com%2Fo-dragao-dos-desejos%2F</page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
 
 
 <item>
