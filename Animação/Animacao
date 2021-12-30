@@ -1,14 +1,14 @@
 <item>
-<title>Boku no Hero Academia (2016)</title>
-<link>$doregex[resolver]</link>
+<title> Teste </title>
+<link> $ doregex [resolver] </link>
 <regex>
-<name>resolver</name>
-<expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.herokuapp.com/resolver?url=https://animesonline.club/anime/boku-no-hero-academia/episodio/29947</page>
+<name> resolvedor </name>
+<expres> "stream":. +? "(. *?)" </expres>
+<page> https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2FTESTE </page>
 </regex>
-<thumbnail>https://www.themoviedb.org/t/p/original/ayCsvKt2MyYVWUJJsSJDVTlSTjY.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg</fanart>
-<info>Por toda a sua vida, Izuku sonhou ser um herói — um objetivo ambicioso para qualquer um, mas especialmente desafiador para um garoto sem superpoderes. Isso mesmo: em um mundo onde 80% da população tem algum tipo de Dom especial, Izuku teve a má sorte de nascer completamente normal. Mas isso não vai impedi-lo de se matricular em uma das academias de herois mais prestigiosas do mundo.</info>
+<thumbnail> </thumbnail>
+<fanart> </fanart>
+<info> </info>
 </item>
 
 
