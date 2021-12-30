@@ -1,35 +1,4 @@
 <item>
-<title> Teste </title>
-<link> $ doregex [resolver] </link>
-<regex>
-<name> resolvedor </name>
-<expres> "stream":. +? "(. *?)" </expres>
-<page> https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2FTESTE </page>
-</regex>
-<thumbnail> </thumbnail>
-<fanart> </fanart>
-<info> </info>
-</item>
-
-
-<item>
-<title>Boku no Hero Academia (2016)</title>
-<link>$doregex[resolver]</link>
-<regex>
-<name>resolver</name>
-<expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.herokuapp.com/resolver?url=https://animesonline.club/anime/boku-no-hero-academia/episodio/29946</page>
-</regex>
-<thumbnail>https://www.themoviedb.org/t/p/original/ayCsvKt2MyYVWUJJsSJDVTlSTjY.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/3ILMlmC30QUnYkY3XEBOyJ82Dqu.jpg</fanart>
-<info>Por toda a sua vida, Izuku sonhou ser um herói — um objetivo ambicioso para qualquer um, mas especialmente desafiador para um garoto sem superpoderes. Isso mesmo: em um mundo onde 80% da população tem algum tipo de Dom especial, Izuku teve a má sorte de nascer completamente normal. Mas isso não vai impedi-lo de se matricular em uma das academias de herois mais prestigiosas do mundo.</info>
-</item>
-
-
-
-
-
-<item>
 <title>[B][COLOR white]  Monkey King Reborn (2021) [/COLOR][COLOR red]7PLUS[/COLOR][/B]</title>
 <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:DF2127A0878639D9AE5385AE45EDA32F4BCABCF9$nome=[COLOR lime] TORREST RESOLUÇÃO 1080p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
 <subtitle>http://redplay.in.net/SRT/Monkey.King.Reborn.2021.DUBBED.1080p.BluRay.H264.AAC-RARBG.srt</subtitle>
