@@ -4,7 +4,7 @@
 <regex>
 <name>resolver</name>
 <expres>"stream":.+?"(.*?)"</expres>
-<page>https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fboruto-naruto-next-generations%2Fepisodio%2F70292</page>
+<page>https://apiresolver.herokuapp.com/resolver?url=https://animefire.net/animes/platinum-end-dublado/1</page>
 </regex>
 <thumbnail></thumbnail>
 <fanart></fanart>
