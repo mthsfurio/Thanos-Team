@@ -1,4 +1,20 @@
 <item>
+<title>Test</title>
+<link>$doregex[resolver]</link>
+<regex>
+<name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.herokuapp.com/resolver?url=https%3A%2F%2Fanimesonline.club%2Fanime%2Fboruto-naruto-next-generations%2Fepisodio%2F70292</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+
+
+<item>
 <title>[B][COLOR white]  Monkey King Reborn (2021) [/COLOR][COLOR red]7PLUS[/COLOR][/B]</title>
 <link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:DF2127A0878639D9AE5385AE45EDA32F4BCABCF9$nome=[COLOR lime] TORREST RESOLUÇÃO 1080p Legendado[/COLOR] | [COLOR red]7Plus[/COLOR]</link>
 <subtitle>http://redplay.in.net/SRT/Monkey.King.Reborn.2021.DUBBED.1080p.BluRay.H264.AAC-RARBG.srt</subtitle>
