@@ -1,5 +1,5 @@
 <item>
-<title>Test</title>
+<title>Test1</title>
 <link>$doregex[resolver]</link>
 <regex>
 <name>resolver</name>
