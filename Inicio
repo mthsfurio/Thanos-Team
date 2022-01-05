@@ -48,9 +48,22 @@ A produção de um filme pode ser dividida em três fases: a pré-produção, a 
 </info>
 </channel>
 
-
-
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  
+<channel>
+<name>[B][COLOR red]●::[/COLOR] [COLOR white] FILMES MARVEL/DC | [COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://cld.pt/dl/download/e253d97a-1868-4145-9360-89ff91d2ae04/MARVERL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Marvel_DC/Marvel-DC</externallink>
+<fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
+<info>[B][COLOR lime]● [/COLOR][COLOR crimson]Marvel Comics/DC Comics[/COLOR][COLOR lime] ●[/COLOR][/B]
+[COLOR red]■[/COLOR][COLOR white] A marca Marvel começou em 1961, ano em que a empresa lançou Quarteto Fantástico e outros títulos de super-heróis.[/COLOR]
+[COLOR red]■[/COLOR][COLOR white] A DC Comics é uma editora norte-americana subsidiária da companhia WarnerMedia situada em Burbank, Califórnia, especializada em histórias em quadrinhos e mídias relacionadas, 
+sendo considerada uma das maiores companhias ligadas a este ramo no mundo.[/COLOR]
+
+</info>
+</channel>
+  
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channel>
 <name>[B][COLOR red]●::[/COLOR] [COLOR white] SERIES | [COLOR red]7PLUS[/COLOR][/B]</name>
