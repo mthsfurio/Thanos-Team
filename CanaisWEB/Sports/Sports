@@ -4,6 +4,7 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=F4MTESTER&amp;url=
 #EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="SPORTS",BAND SPORTS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/damaris/123456/119
 #EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="SPORTS",COMBATE
