@@ -4,21 +4,6 @@
 <channels>
 
 <channel>
-<name>[B][COLOR white] 2ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/7vjaCdMw15FEbXyLQTVa04URsPm.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/The.Witcher/The.WitcherS02</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/s56eyXy8rADp5DpZknfe2HXq4u4.jpg</fanart>
-<info>[COLOR red]Sinopse:[/COLOR] [COLOR white]O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.[/COLOR]
-[COLOR red]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR red]««[/COLOR]
-[COLOR red]Género:[/COLOR] Sci-Fi & Fantasy, Drama, Action & Adventure
-[COLOR red]Ano:[/COLOR] (2019/21) 
-[COLOR red]Duração:[/COLOR] 1h
-</info>
-</channel>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channel>
 <name>[B][COLOR white] 1ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/fZinOWIcs3UI8e0arnxRAdIy9x6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/The.Witcher/The.Witcher</externallink>
@@ -33,5 +18,17 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channel>
+<name>[B][COLOR white] 2ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/7vjaCdMw15FEbXyLQTVa04URsPm.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/The.Witcher/The.WitcherS02</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/s56eyXy8rADp5DpZknfe2HXq4u4.jpg</fanart>
+<info>[COLOR red]Sinopse:[/COLOR] [COLOR white]O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.[/COLOR]
+[COLOR red]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR red]««[/COLOR]
+[COLOR red]Género:[/COLOR] Sci-Fi & Fantasy, Drama, Action & Adventure
+[COLOR red]Ano:[/COLOR] (2019/21) 
+[COLOR red]Duração:[/COLOR] 1h
+</info>
+</channel>
 
 </channels>
