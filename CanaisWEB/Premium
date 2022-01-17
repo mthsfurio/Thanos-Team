@@ -19,9 +19,9 @@
 
 <item>
 <title>[B][COLOR blue]ANIMAL PLANET -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_ZJTh6oMdeOURwWyiA9cHgYQk_720p$nome=[B][COLOR lime] ANIMAL PLANET HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_ZJTh6oMdeOk_720p_2M$nome=[B][COLOR lime] ANIMAL PLANET HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_ZJTh6oMdeOk_1080p$nome=[B][COLOR lime] ANIMAL PLANET FHD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_ZJTh6oMdeOURwWyiA9cHgYQk_720p$nome=[B][COLOR lime] ANIMAL PLANET HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_ZJTh6oMdeOk_720p_2M$nome=[B][COLOR lime] ANIMAL PLANET HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_ZJTh6oMdeOk_1080p.m3u8$nome=[B][COLOR lime] ANIMAL PLANET FHD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/6ef04df0-4e3f-43f0-9200-d45a7b52a55d/Animal-Planet.png</thumbnail>
 </item>
 
