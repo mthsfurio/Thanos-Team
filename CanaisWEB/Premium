@@ -13,7 +13,7 @@
 
 <item>
 <title>[B][COLOR blue]A&E + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/p3_ae_265</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p3_ae_265</link>
 <thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
 </item>
 
@@ -27,7 +27,7 @@
 
 <item>
 <title>[B][COLOR blue]ANIMAL PLANET + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_ZJTh6oMdeOk_720p_2M</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_ZJTh6oMdeOk_720p_2M</link>
 <thumbnail>https://cld.pt/dl/download/6ef04df0-4e3f-43f0-9200-d45a7b52a55d/Animal-Planet.png</thumbnail>
 </item>
 
