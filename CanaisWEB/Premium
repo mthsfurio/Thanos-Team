@@ -6,8 +6,8 @@
 
 <item>
 <title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/p1_ae$nome=[B][COLOR lime] A&E[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>http://api.magiaiptv.com/live/800196/128093/p3_ae_265$nome=[B][COLOR lime] A&E +[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p1_ae$nome=[B][COLOR lime] A&E[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p3_ae_265$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
 </item>
 
