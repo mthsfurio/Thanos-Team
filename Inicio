@@ -6,6 +6,21 @@
 <channels>
   
 <channel>
+<name>[B][COLOR red]●::[/COLOR] [COLOR white] CANAIS TV | [COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://cld.pt/dl/download/a98101c0-e98e-46cc-a4d7-7cabebea86a1/FILMES22.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Categorias</externallink>
+<fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
+<info>[B][COLOR lime]● [/COLOR][COLOR crimson]Produção de um filme[/COLOR][COLOR lime] ●[/COLOR][/B]
+[COLOR red]■[/COLOR][COLOR white] A elaboração de um filme é algo duradouro e pode-se dar por etapas.
+Algumas produções têm muita visibilidade, englobando muitos custos (o filme mais caro produzido teve um custo de cerca de 700 milhões de dólares) e sendo formadas pelas altas empresas de Hollywood, já outras são menores, contando com a menor participação de pessoas em cada equipe.
+A produção de um filme pode ser dividida em três fases: a pré-produção, a produção e a pós-produção.[/COLOR]
+
+</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<  
+  
+<channel>
 <name>[B][COLOR red]●::[/COLOR] [COLOR white] FILMES 2022 | [COLOR red]7PLUS[/COLOR][/B]</name>
 <thumbnail>https://cld.pt/dl/download/a98101c0-e98e-46cc-a4d7-7cabebea86a1/FILMES22.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Lancamentos22/2022</externallink>
