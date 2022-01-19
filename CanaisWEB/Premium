@@ -5,7 +5,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]A&E + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p1_ae$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p3_ae_265$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
@@ -95,188 +95,110 @@
 
 <item>
 <title>[B][COLOR blue]COMBATE -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_720p$nome=[B][COLOR lime] COMBATE [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_720p_2M$nome=[B][COLOR lime] COMBATE HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_1080p$nome=[B][COLOR lime] COMBATE FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/c70620fc-b16f-4072-b128-0dfe4ac4c939/Combate.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]COMBATE + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/c70620fc-b16f-4072-b128-0dfe4ac4c939/Combate.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]COMBATE + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_kxiCuVcr9XvcEbXgX_1080p</link>
-<thumbnail>https://cld.pt/dl/download/c70620fc-b16f-4072-b128-0dfe4ac4c939/Combate.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]DAZN -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/p2_dazn_264</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p2_dazn_264$nome=[B][COLOR lime] DAZN [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p2_dazn2hd$nome=[B][COLOR lime] DAZN HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p3_dazn3hd$nome=[B][COLOR lime] DAZN FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/7777aa7a-c948-498b-9658-e0c69bd74f5a/DAZN.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]DAZN + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/p2_dazn2hd</link>
-<thumbnail>https://cld.pt/dl/download/7777aa7a-c948-498b-9658-e0c69bd74f5a/DAZN.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]DAZN + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/p3_dazn3hd</link>
-<thumbnail>https://cld.pt/dl/download/7777aa7a-c948-498b-9658-e0c69bd74f5a/DAZN.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]DISCOVERY -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_E3D2EB66-67DF-49EC-8eea_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_E3D2EB66-67DF-49EC-8eea_720p$nome=[B][COLOR lime] DISCOVERY [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_E3D2EB66-67DF-49EC-8eea_720p_2M$nome=[B][COLOR lime] DISCOVERY HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_E3D2EB66-67DF-49EC-8eea_1080p$nome=[B][COLOR lime] DISCOVERY FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/9b1b6c95-71e8-49ab-9b7e-b23b77073e50/Discovery-Channel.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]DISCOVERY + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_E3D2EB66-67DF-49EC-8eea_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/9b1b6c95-71e8-49ab-9b7e-b23b77073e50/Discovery-Channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]DISCOVERY + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_E3D2EB66-67DF-49EC-8eea_1080p</link>
-<thumbnail>https://cld.pt/dl/download/9b1b6c95-71e8-49ab-9b7e-b23b77073e50/Discovery-Channel.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]DISCOVERY H&H -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_6Ij7gxZOdZwDVlMjlbHc5_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_6Ij7gxZOdZwDVlMjlbHc5_720p$nome=[B][COLOR lime] DISCOVERY H&H [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_6Ij7gxZOdZwDVlMjlbHc5_720p_2M$nome=[B][COLOR lime] DISCOVERY H&H HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p$nome=[B][COLOR lime] DISCOVERY H&H FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/d22b924d-ffa8-4bc2-abda-a6645469e07f/Discovery-HeH.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]DISCOVERY H&H + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_6Ij7gxZOdZwDVlMjlbHc5_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/d22b924d-ffa8-4bc2-abda-a6645469e07f/Discovery-HeH.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]DISCOVERY H&H + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p</link>
-<thumbnail>https://cld.pt/dl/download/d22b924d-ffa8-4bc2-abda-a6645469e07f/Discovery-HeH.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]DISCOVERY KIDS -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_afy44nd1fdEvCQ38kIuM_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_afy44nd1fdEvCQ38kIuM_720p$nome=[B][COLOR lime] DISCOVERY KIDS [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_afy44nd1fdEvCQ38kIuMe_1080p$nome=[B][COLOR lime] DISCOVERY KIDS HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/15df1155-5405-4efc-a509-afa209315ceb/Discovery-Kids.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]DISCOVERY KIDS + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_afy44nd1fdEvCQ38kIuMe_1080p</link>
-<thumbnail>https://cld.pt/dl/download/15df1155-5405-4efc-a509-afa209315ceb/Discovery-Kids.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]DISCOVERY SCIENCE -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p$nome=[B][COLOR lime] DISCOVERY SCIENCE [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p_2M$nome=[B][COLOR lime] DISCOVERY SCIENCE HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/0f00b373-c7f6-44a3-b1e3-c7119b9c102a/Discovery-Science.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]DISCOVERY SCIENCE + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/0f00b373-c7f6-44a3-b1e3-c7119b9c102a/Discovery-Science.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]DISCOVERY THEATER -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_RJ5rBub9ANcgf0C_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_RJ5rBub9ANcgf0C_720p$nome=[B][COLOR lime] DISCOVERY THEATER [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_RJ5rBub9ANcgf0C_720p_2M$nome=[B][COLOR lime] DISCOVERY THEATER HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_RJ5rBub9ANcgf0C_1080p$nome=[B][COLOR lime] DISCOVERY THEATER FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/1b65510f-cb8f-483a-9993-cb9f4d7ab330/Discovery-Theater.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]DISCOVERY THEATER + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_RJ5rBub9ANcgf0C_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/1b65510f-cb8f-483a-9993-cb9f4d7ab330/Discovery-Theater.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]DISCOVERY THEATER + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_RJ5rBub9ANcgf0C_1080p</link>
-<thumbnail>https://cld.pt/dl/download/1b65510f-cb8f-483a-9993-cb9f4d7ab330/Discovery-Theater.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]DISCOVERY TURBO -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_NpfZjjxzoFwepkuEspTet_720p</link>
-<thumbnail>https://cld.pt/dl/download/c9181532-4522-4c2e-911c-bafc1fe76e22/Discovery-Turbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]DISCOVERY TURBO + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_NpfZjjxzoFwepkuEspTet_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/c9181532-4522-4c2e-911c-bafc1fe76e22/Discovery-Turbo.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]DISCOVERY TURBO + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_NpfZjjxzoFwepkuEspTet_1080p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_NpfZjjxzoFwepkuEspTet_720p$nome=[B][COLOR lime] DISCOVERY TURBO [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_NpfZjjxzoFwepkuEspTet_720p_2M$nome=[B][COLOR lime] DISCOVERY TURBO HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_NpfZjjxzoFwepkuEspTet_1080p$nome=[B][COLOR lime] DISCOVERY TURBO FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/c9181532-4522-4c2e-911c-bafc1fe76e22/Discovery-Turbo.png</thumbnail>
 </item>
 
 
 <item>
 <title>[B][COLOR blue]DISCOVERY WORLD -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p$nome=[B][COLOR lime] DISCOVERY WORLD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p$nome=[B][COLOR lime] DISCOVERY WORLD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/b2fc8bdb-ef50-4a84-b280-9d3e97fbdeaa/Discovery-World.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]H2 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_pyQI062qY3Xe7xTcBLrol9Vk_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_pyQI062qY3Xe7xTcBLrol9Vk_720p$nome=[B][COLOR lime] H2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_pyQI062qY3Xe7xTc_720p_2M$nome=[B][COLOR lime] H2 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_Twn2W0CULpszhNfuo_1080p$nome=[B][COLOR lime] H2 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/094af53a-7581-4a0d-bada-a435b4ee6a9d/H2.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]H2 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_pyQI062qY3Xe7xTc_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/094af53a-7581-4a0d-bada-a435b4ee6a9d/H2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]H2 + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_Twn2W0CULpszhNfuo_1080p</link>
-<thumbnail>https://cld.pt/dl/download/094af53a-7581-4a0d-bada-a435b4ee6a9d/H2.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]HGTV -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p$nome=[B][COLOR lime] HGTV [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p$nome=[B][COLOR lime] HGTV [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/a12dfa42-c202-4b27-9bb4-04b4c2cd35db/HGTV.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]HISTORY -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p$nome=[B][COLOR lime] HISTORY [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p_2M$nome=[B][COLOR lime] HISTORY HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_zE8PUswR0aD8V7ays_1080p$nome=[B][COLOR lime] HISTORY FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/3fe2a5ba-834b-4269-a885-f71a7530df6d/History-Channel.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]HISTORY + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/3fe2a5ba-834b-4269-a885-f71a7530df6d/History-Channel.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]HISTORY + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_zE8PUswR0aD8V7ays_1080p</link>
-<thumbnail>https://cld.pt/dl/download/3fe2a5ba-834b-4269-a885-f71a7530df6d/History-Channel.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]DISCOVERY ID -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_4NBa1dLVoRqQuEisXnlh5tge_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_4NBa1dLVoRqQuEisXnlh5tge_720p$nome=[B][COLOR lime] DISCOVERY ID [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_4NBa1dLVoRqQuEisXnlh5tge_720p$nome=[B][COLOR lime] DISCOVERY ID HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/990979b4-3155-43f6-b6a1-bd155b93c82f/discoveryid.png</thumbnail>
 </item>
 
