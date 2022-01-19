@@ -202,35 +202,30 @@
 <thumbnail>https://cld.pt/dl/download/990979b4-3155-43f6-b6a1-bd155b93c82f/discoveryid.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]NATGEO -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_EL3INMRQYpPjqHTGoiB5OhcX_720p</link>
-<thumbnail>https://cld.pt/dl/download/56ae852a-2440-4fee-983b-5184bae37078/National-Geographic.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]NATGEO -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_EL3INMRQYpPjqHTGoiB5OhcX_1080p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_EL3INMRQYpPjqHTGoiB5OhcX_720p$nome=[B][COLOR lime] NATGEO [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_EL3INMRQYpPjqHTGoiB5OhcX_1080p$nome=[B][COLOR lime] NATGEO HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/56ae852a-2440-4fee-983b-5184bae37078/National-Geographic.png</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR blue]NATGEO KIDS -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_fMXbIFApR6rtPmZLyoeczTSn_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_fMXbIFApR6rtPmZLyoeczTSn_720p$nome=[B][COLOR lime] NATGEO KIDS [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_fMXbIFApR6rtPmZLyoeczTSn_720p$nome=[B][COLOR lime] NATGEO KIDS HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/00f47485-3019-4ece-9a78-23509933ff5c/Nat-Geo-Kids.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]NATGEO WILD + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_yrCKvYzTLXeQrNUrR_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/ec4cd0da-a2c1-4fa5-9984-a1df9cc49d42/Nat-Geo-Wild-.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]NATGEO WILD + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_yrCKvYzTLXeQrNUrR_1080p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_yrCKvYzTLXeQrNUrR_720p_2M$nome=[B][COLOR lime] NATGEO WILD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_yrCKvYzTLXeQrNUrR_1080p$nome=[B][COLOR lime] NATGEO WILD HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/ec4cd0da-a2c1-4fa5-9984-a1df9cc49d42/Nat-Geo-Wild-.png</thumbnail>
 </item>
+
 
 <item>
 <title>[B][COLOR blue]PARAMOUNT -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
