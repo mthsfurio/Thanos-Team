@@ -847,103 +847,50 @@
 
 <item>
 <title>[B][COLOR blue]PREMIERE CLUBES  -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/p2_wAhvdtYSSpFDqL2XTgG1</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p2_wAhvdtYSSpFDqL2XTgG1$nome=[B][COLOR lime] PREMIERE CLUBES [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_xjR88zvaHgI1fyeQS_720p_2M$nome=[B][COLOR lime] PREMIERE CLUBES HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_xjR88zvaHgI1fyeQS_1080p$nome=[B][COLOR lime] PREMIERE CLUBES FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/41a25a01-99fd-49bd-bcad-e6ceaea3c28d/premiereclubes.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]PREMIERE CLUBES + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_xjR88zvaHgI1fyeQS_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/41a25a01-99fd-49bd-bcad-e6ceaea3c28d/premiereclubes.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]PREMIERE CLUBES + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_xjR88zvaHgI1fyeQS_1080p</link>
-<thumbnail>https://cld.pt/dl/download/41a25a01-99fd-49bd-bcad-e6ceaea3c28d/premiereclubes.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]PRIME BOX BRASIL -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_EzQIvhr4w2UUk5HoaRXy_720p</link>
-<thumbnail>https://cld.pt/dl/download/1044f53b-f85c-44b3-b247-6e950728ff85/PrimeBox-Brazil.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]PRIME BOX BRASIL + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_EzQIvhr4w2UUk5HoaRXy_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_EzQIvhr4w2UUk5HoaRXy_720p$nome=[B][COLOR lime] PRIME BOX BRASIL [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_EzQIvhr4w2UUk5HoaRXy_720p$nome=[B][COLOR lime] PRIME BOX BRASIL HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/1044f53b-f85c-44b3-b247-6e950728ff85/PrimeBox-Brazil.png</thumbnail>
 </item>
 
 
 <item>
 <title>[B][COLOR blue]Sport TV -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/p2_AD5dvVfj6egLHxBwARO</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p2_AD5dvVfj6egLHxBwARO$nome=[B][COLOR lime] Sport TV [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p3_jUB9PDqLPI4ma3xxj$nome=[B][COLOR lime] Sport TV HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_welG1zUJ8o7XxE78c_1080p$nome=[B][COLOR lime] Sport TV FHD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/a9ff52c2-7a17-4362-a297-ba8189b608ea/SportTV.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]Sport TV + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/p3_jUB9PDqLPI4ma3xxj</link>
-<thumbnail>https://cld.pt/dl/download/a9ff52c2-7a17-4362-a297-ba8189b608ea/SportTV.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]Sport TV + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_welG1zUJ8o7XxE78c_1080p</link>
-<thumbnail>https://cld.pt/dl/download/a9ff52c2-7a17-4362-a297-ba8189b608ea/SportTV.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]Sport TV 2 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p</link>
-<thumbnail>https://cld.pt/dl/download/13850793-8770-43be-b6fa-b8f3f8158edb/SportTV-2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]Sport TV 2 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/13850793-8770-43be-b6fa-b8f3f8158edb/SportTV-2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]Sport TV 2 + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p$nome=[B][COLOR lime] Sport TV 2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M$nome=[B][COLOR lime] Sport TV 2 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_ylU0WsVR9po4ChFn7J3vkMxb_1080p$nome=[B][COLOR lime] Sport TV 2 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/13850793-8770-43be-b6fa-b8f3f8158edb/SportTV-2.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]Sport TV 3 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p</link>
-<thumbnail>https://cld.pt/dl/download/7f1e7750-f48d-4a70-abf0-7fc3106c26c0/SPORTV-3.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]Sport TV 3 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/7f1e7750-f48d-4a70-abf0-7fc3106c26c0/SPORTV-3.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]Sport TV 3 + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_vzd4MQvFCKUahymwGL_1080p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p$nome=[B][COLOR lime] Sport TV 3 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M$nome=[B][COLOR lime] Sport TV 3 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_vzd4MQvFCKUahymwGL_1080p$nome=[B][COLOR lime] Sport TV 3 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/7f1e7750-f48d-4a70-abf0-7fc3106c26c0/SPORTV-3.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]BAND Sports -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_JCr0n6KJkWbSR5_720p</link>
-<thumbnail>https://cld.pt/dl/download/c3e0938b-91f7-4548-9e76-3557540a4a93/Band-Sports.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]BAND Sports +  -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_JCr0n6KJkWbSR5_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/c3e0938b-91f7-4548-9e76-3557540a4a93/Band-Sports.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]BAND Sports + +  -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_JCr0n6KJkWbSR5_1080p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_JCr0n6KJkWbSR5_720p$nome=[B][COLOR lime] BAND Sports [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_JCr0n6KJkWbSR5_720p_2M$nome=[B][COLOR lime] BAND Sports HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_JCr0n6KJkWbSR5_1080p$nome=[B][COLOR lime] BAND Sports FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/c3e0938b-91f7-4548-9e76-3557540a4a93/Band-Sports.png</thumbnail>
 </item>
