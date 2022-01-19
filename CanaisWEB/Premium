@@ -559,291 +559,181 @@
 
 <item>
 <title>[B][COLOR blue]GLOBO RECIFE -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_DlRn7901d45Sc3mhwNEFAXpH_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_DlRn7901d45Sc3mhwNEFAXpH_720p$nome=[B][COLOR lime] GLOBO RECIFE [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_DlRn7901d45Sc3mhwNEFAXpH_720p$nome=[B][COLOR lime] GLOBO RECIFE HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]GLOBO RJ -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_720p$nome=[B][COLOR lime] GLOBO RJ [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_720p_2M$nome=[B][COLOR lime] GLOBO RJ HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_1080p$nome=[B][COLOR lime] GLOBO RJ FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]GLOBO RJ + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]GLOBO RJ + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_kzeKgKsjyTCBUMl4_1080p</link>
-<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]GLOBO RS -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/p1_moxeZCA4slSsPDI</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p1_moxeZCA4slSsPDI$nome=[B][COLOR lime] GLOBO RS [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/p1_moxeZCA4slSsPDI$nome=[B][COLOR lime] GLOBO RS HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]GLOBO SOROCATA -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_W80mrx0Olfggd0ainlJ_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_W80mrx0Olfggd0ainlJ_720p$nome=[B][COLOR lime] GLOBO SOROCATA [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_W80mrx0Olfggd0ainlJ_720p$nome=[B][COLOR lime] GLOBO SOROCATA HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]GLOBO SP -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p$nome=[B][COLOR lime] GLOBO SP [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p_2M$nome=[B][COLOR lime] GLOBO SP [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_bz2lc7s8PV3avHAgjnFxpM0w_4M$nome=[B][COLOR lime] GLOBO SP [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]GLOBO SP + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_bz2lc7s8PV3avHAgjnFxpM0w_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]GLOBO SP + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_bz2lc7s8PV3avHAgjnFxpM0w_4M</link>
-<thumbnail>https://cld.pt/dl/download/6920237a-98f4-4581-8a61-d5bb41a7ee99/GLOBO.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]GLOOB -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m4_NviBsuOXDRg5eThwb46oHUdJ_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_NviBsuOXDRg5eThwb46oHUdJ_720p$nome=[B][COLOR lime] GLOOB [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_NviBsuOXDRg5eThwb46oHUdJ_720p$nome=[B][COLOR lime] GLOOB HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/4a5c29b4-3407-4caa-8fdf-dbdaa32d266b/Gloob.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]GLOOB + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m4_NviBsuOXDRg5eThwb46oHUdJ_720p</link>
-<thumbnail>https://cld.pt/dl/download/4a5c29b4-3407-4caa-8fdf-dbdaa32d266b/Gloob.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]GLOOBINHO -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_Id083Vtv4joDS5CBRwbAQmO2_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_Id083Vtv4joDS5CBRwbAQmO2_720p$nome=[B][COLOR lime] GLOOBINHO [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_Id083Vtv4joDS5CBRwbAQmO2_720p$nome=[B][COLOR lime] GLOOBINHO HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/e1a347a8-da2c-4b97-bbc4-47c11882e680/Gloobinho.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]GNT -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m4_sz5R7Z8PDOtEIxlNHhQa3FrB_720p</link>
-<thumbnail>https://cld.pt/dl/download/6dc50428-12ea-45ea-a8a3-b11c5db4465a/GNT.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]GNT + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m4_sz5R7Z8PDOtEIxlNHhQa3FrB_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/6dc50428-12ea-45ea-a8a3-b11c5db4465a/GNT.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]GNT + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_rtAxUDgeU6PymlSVe_1080p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_sz5R7Z8PDOtEIxlNHhQa3FrB_720p$nome=[B][COLOR lime] GNT [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_sz5R7Z8PDOtEIxlNHhQa3FrB_720p_2M$nome=[B][COLOR lime] GNT HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_rtAxUDgeU6PymlSVe_1080p$nome=[B][COLOR lime] GNT FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/6dc50428-12ea-45ea-a8a3-b11c5db4465a/GNT.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]LIFE TIME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_hrRidPDANy3S52Ljmwtx978F_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_hrRidPDANy3S52Ljmwtx978F_720p$nome=[B][COLOR lime] LIFE TIME [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_hrRidPDANy3S52Ljmwtx978F_720p$nome=[B][COLOR lime] LIFE TIME HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/fe799ff9-f9b7-4b05-a422-1f529b0dde04/Jasmim1-TV.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]MAX -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_bgpis6tD7Hl40AP_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_bgpis6tD7Hl40AP_720p$nome=[B][COLOR lime] MAX [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_bgpis6tD7Hl40AP_720p$nome=[B][COLOR lime] MAX HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/a360eedb-ccb4-4419-8415-58b165857a88/max.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]MEGA -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_VwtsdwOiAcPsvY0VoEa_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_VwtsdwOiAcPsvY0VoEa_720p$nome=[B][COLOR lime] MEGA [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_VwtsdwOiAcPsvY0VoEa_720p_2M$nome=[B][COLOR lime] MEGA HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/6ee5effc-89e6-4e23-8250-84c5493b8014/MEGA.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]MEGA + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_VwtsdwOiAcPsvY0VoEa_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/6ee5effc-89e6-4e23-8250-84c5493b8014/MEGA.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]MEGAPIX -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p$nome=[B][COLOR lime] MEGAPIX [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p_2M$nome=[B][COLOR lime] MEGAPIX HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_1080p$nome=[B][COLOR lime] MEGAPIX FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/eb6d0282-5ee0-434f-adf0-5cf07e1c61d4/Megapix.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]MEGAPIX + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/eb6d0282-5ee0-434f-adf0-5cf07e1c61d4/Megapix.png</thumbnail>
-</item>
 
 <item>
-<title>[B][COLOR blue]MEGAPIX + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_1080p</link>
-<thumbnail>https://cld.pt/dl/download/eb6d0282-5ee0-434f-adf0-5cf07e1c61d4/Megapix.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]MTV -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p</link>
+<title>[B][COLOR blue]MTV / MTV LIVE-[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p$nome=[B][COLOR lime] MTV [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_dfEeZjblbyTWgEZydjYv_720p$nome=[B][COLOR lime] MTV live [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/6cf8f8dd-5d45-4a38-a597-90574f8e788c/MTV.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]MTV live -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_dfEeZjblbyTWgEZydjYv_720p</link>
-<thumbnail>https://cld.pt/dl/download/6cf8f8dd-5d45-4a38-a597-90574f8e788c/MTV.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]MULTISHOW -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p$nome=[B][COLOR lime] MULTISHOW [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p_2M$nome=[B][COLOR lime] MULTISHOW HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_xBEDmuNinjXaf4ZHcGkRsr7h_1080p$nome=[B][COLOR lime] MULTISHOW FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/91e336e1-f662-4114-b668-700edbee9fb1/MultiShow.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]MULTISHOW + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/91e336e1-f662-4114-b668-700edbee9fb1/MultiShow.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]MULTISHOW + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_xBEDmuNinjXaf4ZHcGkRsr7h_1080p</link>
-<thumbnail>https://cld.pt/dl/download/91e336e1-f662-4114-b668-700edbee9fb1/MultiShow.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]PREMIERE 2 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_UJlOHOurcXIINOMI8C_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_UJlOHOurcXIINOMI8C_720p$nome=[B][COLOR lime] PREMIERE 2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_UJlOHOurcXIINOMI8C_720p_2M$nome=[B][COLOR lime] PREMIERE 2 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_YfRcG1NojqwhvD7_1080p$nome=[B][COLOR lime] PREMIERE 2 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/7e078bd8-22f9-48d9-b400-68441e751362/Premiere-2.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]PREMIERE 2 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_UJlOHOurcXIINOMI8C_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/7e078bd8-22f9-48d9-b400-68441e751362/Premiere-2.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]PREMIERE 2 + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_YfRcG1NojqwhvD7_1080p</link>
-<thumbnail>https://cld.pt/dl/download/7e078bd8-22f9-48d9-b400-68441e751362/Premiere-2.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]PREMIERE 3 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_720p</link>
-<thumbnail>https://cld.pt/dl/download/704b916c-59ec-4ae9-a0aa-82a6386159eb/Premiere-3.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]PREMIERE 3 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/704b916c-59ec-4ae9-a0aa-82a6386159eb/Premiere-3.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]PREMIERE 3 + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_1080p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_720p$nome=[B][COLOR lime] PREMIERE 3 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_720p_2M$nome=[B][COLOR lime] PREMIERE 3 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_QVjAjs05rLeRcJaYwWpr6k_1080p$nome=[B][COLOR lime] PREMIERE 3 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/704b916c-59ec-4ae9-a0aa-82a6386159eb/Premiere-3.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]PREMIERE 4 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_720p$nome=[B][COLOR lime] PREMIERE 4 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_720p_2M$nome=[B][COLOR lime] PREMIERE 4 HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_1080p$nome=[B][COLOR lime] PREMIERE 4 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/8a83ebdf-f5d7-467e-96b1-caa74221eefd/premeire4.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]PREMIERE 4 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/8a83ebdf-f5d7-467e-96b1-caa74221eefd/premeire4.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]PREMIERE 4 + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_T1kER2k4toPH_1080p</link>
-<thumbnail>https://cld.pt/dl/download/8a83ebdf-f5d7-467e-96b1-caa74221eefd/premeire4.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]PREMIERE 5 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_720p</link>
+<link>http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_720p$nome=[B][COLOR lime] PREMIERE 5 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_720p_2M$nome=[B][COLOR lime] PREMIERE 5 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_1080p_4M$nome=[B][COLOR lime] PREMIERE 5 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/3e06827d-40ae-4ad6-8392-2052060ae3fe/premeire5.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]PREMIERE 5 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/3e06827d-40ae-4ad6-8392-2052060ae3fe/premeire5.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]PREMIERE 5 + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m2_J2m8CmTHvNkE_1080p_4M</link>
-<thumbnail>https://cld.pt/dl/download/3e06827d-40ae-4ad6-8392-2052060ae3fe/premeire5.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]PREMIERE 6 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_Z60O0vqPgGWm5AZ_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_Z60O0vqPgGWm5AZ_720p$nome=[B][COLOR lime] PREMIERE 6 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_Z60O0vqPgGWm5AZ_720p_2M$nome=[B][COLOR lime] PREMIERE 6 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_Z60O0vqPgGWm5AZ_1080p_4M$nome=[B][COLOR lime] PREMIERE 6 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/0771a1fc-6bfa-4a3b-83c6-c7fb31f2bfc6/Premiere-6.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]PREMIERE 6 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_Z60O0vqPgGWm5AZ_720p_2M</link>
-<thumbnail>https://cld.pt/dl/download/0771a1fc-6bfa-4a3b-83c6-c7fb31f2bfc6/Premiere-6.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]PREMIERE 6 + + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_Z60O0vqPgGWm5AZ_1080p_4M</link>
-<thumbnail>https://cld.pt/dl/download/0771a1fc-6bfa-4a3b-83c6-c7fb31f2bfc6/Premiere-6.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]PREMIERE 7 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m4_UjpdfkIRnXrYxZ6oGgq8NPJl_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_UjpdfkIRnXrYxZ6oGgq8NPJl_720p$nome=[B][COLOR lime] PREMIERE 7 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_3cpyrTBAWZg8itHVel2FuNPM_720p$nome=[B][COLOR lime] PREMIERE 7 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/562ca8e6-97a2-4afc-b210-735fb6de8600/premiere7%20%281%29.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]PREMIERE 7 +-[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m4_UjpdfkIRnXrYxZ6oGgq8NPJl_720p</link>
-<thumbnail>https://cld.pt/dl/download/562ca8e6-97a2-4afc-b210-735fb6de8600/premiere7%20%281%29.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]PREMIERE 8 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_3cpyrTBAWZg8itHVel2FuNPM_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_3cpyrTBAWZg8itHVel2FuNPM_720p$nome=[B][COLOR lime] PREMIERE 8 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_3cpyrTBAWZg8itHVel2FuNPM_720p$nome=[B][COLOR lime] PREMIERE 8 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/a30cc6c3-6c4d-4df3-b53a-266a61b52b79/PREMIERE8.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]PREMIERE 8 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m1_3cpyrTBAWZg8itHVel2FuNPM_720p</link>
-<thumbnail>https://cld.pt/dl/download/a30cc6c3-6c4d-4df3-b53a-266a61b52b79/PREMIERE8.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]PREMIERE 9 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_n8e877XHrnop5hV88v1u_720p</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_n8e877XHrnop5hV88v1u_720p$nome=[B][COLOR lime] PREMIERE 9 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_n8e877XHrnop5hV88v1u_720p$nome=[B][COLOR lime] PREMIERE 9 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/c8996499-4668-4e6f-9889-ff51f0e6d9a3/premeire9.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]PREMIERE 9 + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800196/128093/m3_n8e877XHrnop5hV88v1u_720p</link>
-<thumbnail>https://cld.pt/dl/download/c8996499-4668-4e6f-9889-ff51f0e6d9a3/premeire9.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]PREMIERE CLUBES  -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
