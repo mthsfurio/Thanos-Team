@@ -1,7 +1,7 @@
 <item>
 <title>[B][COLOR white]☆彡☆ﾐ☆彡PORTUGALﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]</title>
 <link></link>
-<thumbnail>https://i.imgur.com/KjZE0un.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -9,7 +9,22 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74931.ts$nome=[B][COLOR lime] RTP 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74932.ts$nome=[B][COLOR lime] RTP 1 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74933.ts$nome=[B][COLOR lime] RTP 1 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Flag-map_of_Portugal.svg/294px-Flag-map_of_Portugal.svg.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]RTP 2 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74934.ts$nome=[B][COLOR lime] RTP 2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74935.ts$nome=[B][COLOR lime] RTP 2 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74936.ts$nome=[B][COLOR lime] RTP 2 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]RTP 3 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74937.ts$nome=[B][COLOR lime] RTP 3 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74938.ts$nome=[B][COLOR lime] RTP 3 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -17,7 +32,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -25,7 +40,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -33,7 +48,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -41,7 +56,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -49,7 +64,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -57,7 +72,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -65,7 +80,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -73,7 +88,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -81,7 +96,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -89,7 +104,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -97,7 +112,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -105,7 +120,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -113,7 +128,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -121,7 +136,7 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
@@ -129,21 +144,5 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
-</item>
-
-<item>
-<title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/4181a881-b564-4189-be27-2025a637266c/ae.png</thumbnail>
+<thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
