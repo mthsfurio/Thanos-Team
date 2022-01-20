@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[B][COLOR blue]SPACE -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_ymZnQGTRxLhgzKBYlOekpfso_720p$nome=[B][COLOR lime] SPACE [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_ymZnQGTRxLhgzKBYlOekpfso_720p_2M$nome=[B][COLOR lime] SPACE HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m4_ymZnQGTRxLhgzKBYlOekpfso_1080p$nome=[B][COLOR lime] SPACE FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/97aff9cd-a621-46da-9edc-5a08aa3fb61e/Space.png</thumbnail>
+</item>
+
+<item>
 <title>[B][COLOR blue]AMC -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_xRBGDPf12puWsC8kV6FAETN_720p$nome=[B][COLOR lime] AMC [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_xRBGDPf12puWsC8kV6FAETN_720p$nome=[B][COLOR lime] AMC HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
