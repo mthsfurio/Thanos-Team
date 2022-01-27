@@ -6,24 +6,24 @@
 
 <item>
 <title>[B][COLOR blue]RTP 1 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74931.ts$nome=[B][COLOR lime] RTP 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74932.ts$nome=[B][COLOR lime] RTP 1 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74933.ts$nome=[B][COLOR lime] RTP 1 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74931.ts$nome=[B][COLOR lime] RTP 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74932.ts$nome=[B][COLOR lime] RTP 1 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74933.ts$nome=[B][COLOR lime] RTP 1 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]RTP 2 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74934.ts$nome=[B][COLOR lime] RTP 2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74935.ts$nome=[B][COLOR lime] RTP 2 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74936.ts$nome=[B][COLOR lime] RTP 2 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74934.ts$nome=[B][COLOR lime] RTP 2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74935.ts$nome=[B][COLOR lime] RTP 2 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74936.ts$nome=[B][COLOR lime] RTP 2 FHD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR blue]RTP 3 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74937.ts$nome=[B][COLOR lime] RTP 3 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74938.ts$nome=[B][COLOR lime] RTP 3 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74937.ts$nome=[B][COLOR lime] RTP 3 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74938.ts$nome=[B][COLOR lime] RTP 3 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
