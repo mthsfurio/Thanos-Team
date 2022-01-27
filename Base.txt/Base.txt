@@ -1,1 +1,1 @@
-url="http://85.208.48.74/Base.db/server1964.db"
+url="http://napalm64.aigaion.feralhosting.com/media/Base/server.db"
