@@ -28,26 +28,24 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<title>[B][COLOR blue]SIC -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74945.ts$nome=[B][COLOR lime] SIC [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74948.ts$nome=[B][COLOR lime] SIC HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/74949.ts$nome=[B][COLOR lime] SIC FHD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<title>[B][COLOR blue]TVI -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/75014.ts$nome=[B][COLOR lime] TVI [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/75017.ts$nome=[B][COLOR lime] TVI HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<title>[B][COLOR blue]SIC Noticias -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74953.ts$nome=[B][COLOR lime] SIC Noticias [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/74954.ts$nome=[B][COLOR lime] SIC Noticias HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://i.imgur.com/zzI6yPG.png</thumbnail>
 </item>
 
