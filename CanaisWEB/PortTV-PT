@@ -7,7 +7,7 @@
 <item>
 <title>[B][COLOR blue]RTP 1 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1404.ts$nome=[B][COLOR lime] RTP 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1404.ts$nome=[B][COLOR lime] RTP 1 HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/1404.ts$nome=[B][COLOR lime] RTP 1 HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://www.nos.pt/refdata/SiteCollectionImages/Canais/Logos%2085%20x%2070/rtp_1_85x70.jpg</thumbnail>
 </item>
 
