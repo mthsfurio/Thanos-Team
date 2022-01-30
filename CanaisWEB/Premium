@@ -474,16 +474,11 @@
 
 <item>
 <title>[B][COLOR blue]DISNEY -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>http://api.magiaiptv.com/live/800261/138645/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p</link>
+<link><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p$nome=[B][COLOR lime] DISNEY [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800349/713534/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p_2M$nome=[B][COLOR lime] DISNEY HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/af8bcdae-3e53-48b8-81da-20cca791fcb6/Disney-Channel.png</thumbnail>
 </item>
 
-<item>
-<title>[B][COLOR blue]DISNEY + -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p_2M$nome=[B][COLOR lime] DISNEY [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p_2M$nome=[B][COLOR lime] DISNEY HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>https://cld.pt/dl/download/af8bcdae-3e53-48b8-81da-20cca791fcb6/Disney-Channel.png</thumbnail>
-</item>
 
 <item>
 <title>[B][COLOR blue]DISNEY JUNIOR -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
