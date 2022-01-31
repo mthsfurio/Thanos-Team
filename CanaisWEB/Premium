@@ -31,6 +31,7 @@
 
 <item>
 <title>[B][COLOR blue]AMC -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/liveoutputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8845.m3u8$nome=[B][COLOR lime] AMC 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_xRBGDPf12puWsC8kV6FAETN_720p$nome=[B][COLOR lime] AMC [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_xRBGDPf12puWsC8kV6FAETN_720p$nome=[B][COLOR lime] AMC HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/78d661a0-2bcc-4a7a-8a8e-b1f43d7c3ba0/AMC.png</thumbnail>
@@ -38,6 +39,7 @@
 
 <item>
 <title>[B][COLOR blue]ARTE 1  -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8833.m3u8$nome=[B][COLOR lime] ARTE 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_ozc7SQ9BcRT2MOBhxmpk_720p$nome=[B][COLOR lime] ARTE 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m1_ozc7SQ9BcRT2MOBhxmpk_720p$nome=[B][COLOR lime] ARTE 1 HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>https://cld.pt/dl/download/72d7421a-81fd-48ef-886d-e0a6e82a1f25/Arte-1.png</thumbnail>
@@ -45,6 +47,7 @@
 
 <item>
 <title>[B][COLOR blue]AXN -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8833.m3u8$nome=[B][COLOR lime] AXN 1[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_OHAJwrM6poGAZu6Uj_720p$nome=[B][COLOR lime] AXN [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_OHAJwrM6poGAZu6Uj_720p_2M$nome=[B][COLOR lime] AXN HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800196/128093/m3_OHAJwrM6poGAZu6Uj_1080p$nome=[B][COLOR lime] AXN FHD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
