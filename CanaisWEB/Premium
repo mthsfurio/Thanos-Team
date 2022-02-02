@@ -908,3 +908,9 @@
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR red]7Plus[/COLOR]&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8816</link>
 <thumbnail>https://cld.pt/dl/download/6597a8d7-3ad9-48fb-aacd-58c214686745/Sony-Channel.png</thumbnail>
 </item>
+
+<item>
+<title>[B][COLOR blue]SONY 1 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR red]7Plus[/COLOR]&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275192</link>
+<thumbnail>https://cld.pt/dl/download/6597a8d7-3ad9-48fb-aacd-58c214686745/Sony-Channel.png</thumbnail>
+</item>
