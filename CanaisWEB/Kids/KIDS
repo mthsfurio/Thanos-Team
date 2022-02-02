@@ -1,29 +1,22 @@
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="BRASIL",☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆
-#EXTM3U
-#EXTM3U
+<item>
+<title>[B][COLOR white]☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/KjZE0un.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8816.m3u8$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8816.m3u8$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275192.ts$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/live/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275192.ts$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png</thumbnail>
+</item>
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Brazil",BR: A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8816
-#EXTINF:-1 tvg-id="" tvg-name="BR A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Best of LifeStyle",BR A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275192
-#EXTINF:-1 tvg-id="" tvg-name="BR: AgroBrasil TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: AgroBrasil TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7320
-#EXTINF:-1 tvg-id="" tvg-name="BR: All Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: All Sports HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7321
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28ce80f56c83746e127421c05b68290c.png" group-title="Brazil",BR: AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8845
-#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc6b8a56e3fd60bd26a6377a4f700db4.png" group-title="Brazil",BR: ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8890
-#EXTINF:-1 tvg-id="" tvg-name="BR ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc6b8a56e3fd60bd26a6377a4f700db4.png" group-title="Best of Documentary",BR ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273381
-#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28fbfc2b0f0a676bcfdce95e4aa10b32.png" group-title="Brazil",BR: ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8833
 
