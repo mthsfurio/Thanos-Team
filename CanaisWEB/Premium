@@ -868,4 +868,38 @@
 <thumbnail>https://cld.pt/dl/download/c3e0938b-91f7-4548-9e76-3557540a4a93/Band-Sports.png</thumbnail>
 </item>
 
+<item>
+<title>[B][COLOR blue]RECORD -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p$nome=[B][COLOR lime] RECORD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m1_TDMwn2WGBHS0CUpsbzhNfuo5_720p_2M$nome=[B][COLOR lime] RECORD HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/beba4cf6-7c5b-4049-9e11-ea3dcd68df83/record%20%281%29.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]RECORD NEWS -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_dHYy9wieO2jb1QALkn30rI7u_720p$nome=[B][COLOR lime] RECORD NEWS [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_dHYy9wieO2jb1QALkn30rI7u_720p$nome=[B][COLOR lime] RECORD NEWS HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/549ad11d-1223-4b32-96ed-49651801c534/Record-News.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]REDE BRASIL -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_sZt5SHYy61mPAzgb2qkhMWNl_720p$nome=[B][COLOR lime] REDE BRASIL [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_sZt5SHYy61mPAzgb2qkhMWNl_720p$nome=[B][COLOR lime] REDE BRASIL HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/f3460e04-3fee-481d-a86f-6c8108a0ff8f/redebrasil.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]REDE FAMILIA -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_sT1iCBSErj40Hn1s_720p$nome=[B][COLOR lime] REDE FAMILIA [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_sT1iCBSErj40Hn1s_720p$nome=[B][COLOR lime] REDE FAMILIA HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/1ad864a8-825a-4090-b440-1b14f48df5d5/redefamilia.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]RECORD -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_bjDfsjmxE9MVSgq_1080p$nome=[B][COLOR lime] RECORD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_bjDfsjmxE9MVSgq_1080p$nome=[B][COLOR lime] RECORD HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/7622a5f2-5b40-48e9-95bb-9b21c426fd62/RECORD.png</thumbnail>
+</item>
 
