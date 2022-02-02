@@ -7,15 +7,99 @@
 <item>
 <title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8816$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8816$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8816$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <thumbnail>http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png</thumbnail>
 </item>
 
 <item>
-<title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275192$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275192$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
-<thumbnail>http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png</thumbnail>
+<title>[B][COLOR blue]AMC -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8845$nome=[B][COLOR lime] AMC [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8845$nome=[B][COLOR lime] AMC HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>http://s3.i3ns.net/portal/picon/2020-08/28ce80f56c83746e127421c05b68290c.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR blue]NOME -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&Buffer=60000&url=$nome=[B][COLOR lime] A&E HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail></thumbnail>
 </item>
 
 
