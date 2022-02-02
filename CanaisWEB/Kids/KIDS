@@ -4,33 +4,23 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS",BABY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS",DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS",DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="http://distv.net/icons/gloobinho.png" group-title="KIDS",GLOOBINHO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="KIDS",NICK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="KIDS",NICK JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="KIDS",TOONCAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="http://distv.net/icons/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://45.224.115.214:80/live/damaris/123456/244.m3u8
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Brazil",BR: A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8816
+#EXTINF:-1 tvg-id="" tvg-name="BR A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Best of LifeStyle",BR A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/275192
+#EXTINF:-1 tvg-id="" tvg-name="BR: AgroBrasil TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: AgroBrasil TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7320
+#EXTINF:-1 tvg-id="" tvg-name="BR: All Sports HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",BR: All Sports HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/7321
+#EXTINF:-1 tvg-id="" tvg-name="BR: AMC FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28ce80f56c83746e127421c05b68290c.png" group-title="Brazil",BR: AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8845
+#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc6b8a56e3fd60bd26a6377a4f700db4.png" group-title="Brazil",BR: ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8890
+#EXTINF:-1 tvg-id="" tvg-name="BR ANIMAL PLANET HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/fc6b8a56e3fd60bd26a6377a4f700db4.png" group-title="Best of Documentary",BR ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/273381
+#EXTINF:-1 tvg-id="" tvg-name="BR: ARTE 1 HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28fbfc2b0f0a676bcfdce95e4aa10b32.png" group-title="Brazil",BR: ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=7Plus&Buffer=60000&url=http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/8833
+
