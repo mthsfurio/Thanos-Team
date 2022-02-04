@@ -477,6 +477,46 @@
 
 
 <item>
+<title>[B][COLOR blue]HBO MAX -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/m2_N44ZDspEYyjOq881vt39l_720p$nome=[B][COLOR lime] HBO MAX [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/m2_N44ZDspEYyjOq881vt39l_720p$nome=[B][COLOR lime] HBO MAX HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/c8d255c7-6e81-46da-bd95-7229c186fe5c/hboMAX.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]HBO MAX 2 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/m1_aa8eb9237a88af37_720p$nome=[B][COLOR lime] HBO MAX 2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/m1_aa8eb9237a88af37_720p$nome=[B][COLOR lime] HBO MAX 2 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/c8d255c7-6e81-46da-bd95-7229c186fe5c/hboMAX.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]HBO MAX 3 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/m1_beae6e31a63b792e_720p$nome=[B][COLOR lime] HBO MAX 3 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/m1_beae6e31a63b792e_720p$nome=[B][COLOR lime] HBO MAX 3 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/c8d255c7-6e81-46da-bd95-7229c186fe5c/hboMAX.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]HBO MAX 4 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m1_c08d643bf218cb42d46e_720p$nome=[B][COLOR lime] HBO MAX 4 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800261/138645/m1_c08d643bf218cb42d46e_720p$nome=[B][COLOR lime] HBO MAX 4 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/c8d255c7-6e81-46da-bd95-7229c186fe5c/hboMAX.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]HBO MAX 5 -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/m1_b4c2e2e0652cbb16_720p$nome=[B][COLOR lime] HBO MAX 5 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/m1_b4c2e2e0652cbb16_720p$nome=[B][COLOR lime] HBO MAX 5 HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/c8d255c7-6e81-46da-bd95-7229c186fe5c/hboMAX.png</thumbnail>
+</item>
+
+
+<item>
 <title>[B][COLOR blue]DISNEY -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
 <link><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800328/755275/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p$nome=[B][COLOR lime] DISNEY [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link><link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800349/713534/m2_J10ryUO9i2mBX6LqvpzxI7VC_720p_2M$nome=[B][COLOR lime] DISNEY HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
