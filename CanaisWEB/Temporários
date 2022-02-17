@@ -1,17 +1,23 @@
-<item>
-<title>[B][COLOR white]☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]</title>
-<link></link>
-<thumbnail>https://i.imgur.com/KjZE0un.png</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+https://0.0.0.4
 
-<item>
-<title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/live/F11368/c81b8877/8816.m3u8</link>
-<thumbnail>https://cld.pt/dl/download/315abdc6-230f-40bf-ac0a-97c030dae390/icon.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",.
+https://0.0.0.5
 
-<item>
-<title>[B][COLOR blue]A&E HD [/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/live/c81b8877/275192.m3u8</link>
-<thumbnail>https://cld.pt/dl/download/315abdc6-230f-40bf-ac0a-97c030dae390/icon.jpg</thumbnail>
-</item>
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",V.
+https://0.0.0.6
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="A vida moderna de Rocko HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",A vida moderna de Rocko HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Brazil",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR A&E HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/23d446c380b7b638d191c8ee096b8303.png" group-title="Best of LifeStyle",BR A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/275192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AgroBrasil TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",AgroBrasil TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALL SPORTS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Brazil",ALL SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/28ce80f56c83746e127421c05b68290c.png" group-title="Brazil",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8845.m3u8
