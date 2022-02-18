@@ -1,10 +1,11 @@
+<item>
+<title>[B][COLOR white]☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://i.imgur.com/KjZE0un.png</thumbnail>
+</item>
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="[B][COLOR white]☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="[B][COLOR red]7Plus[/COLOR][/B]
-#EXTM3U
-#EXTM3U
-
-
 #EXTINF:-1,BR: A&E FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8816.m3u8
 #EXTINF:-1,BR A&E FHD
