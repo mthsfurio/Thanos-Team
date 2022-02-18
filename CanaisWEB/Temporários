@@ -11,7 +11,7 @@
 </item>
 
 <item>
-<title>[B][COLOR blue]A&E -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/F11368/c81b8877/275192</link>
+<title>[B][COLOR blue]AgroBrasil TV -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://iptvtree.net:8080/live/F11368/c81b8877/7320.m3u8</link>
 <thumbnail>https://cld.pt/dl/download/315abdc6-230f-40bf-ac0a-97c030dae390/icon.jpg</thumbnail>
 </item>
