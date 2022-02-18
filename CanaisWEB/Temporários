@@ -1,606 +1,613 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[B][COLOR white]☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="[B][COLOR red]7Plus[/COLOR][/B]
+#EXTM3U
+#EXTM3U
+
+
 #EXTINF:-1,BR: A&E FHD
-http://iptvtree.net:8080/F11368/c81b8877/8816
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8816.m3u8
 #EXTINF:-1,BR A&E FHD
-http://iptvtree.net:8080/F11368/c81b8877/275192
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/275192.m3u8
 #EXTINF:-1,BR: AgroBrasil TV HD
-http://iptvtree.net:8080/F11368/c81b8877/7320
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7320.m3u8
 #EXTINF:-1,BR: All Sports HD
-http://iptvtree.net:8080/F11368/c81b8877/7321
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7321.m3u8
 #EXTINF:-1,BR: AMC FHD
-http://iptvtree.net:8080/F11368/c81b8877/8845
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8845.m3u8
 #EXTINF:-1,BR: ANIMAL PLANET FHD
-http://iptvtree.net:8080/F11368/c81b8877/8890
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8890.m3u8
 #EXTINF:-1,BR ANIMAL PLANET FHD
-http://iptvtree.net:8080/F11368/c81b8877/273381
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/273381.m3u8
 #EXTINF:-1,BR: Anime TV HD
-http://iptvtree.net:8080/F11368/c81b8877/286067
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286067.m3u8
 #EXTINF:-1,BR: ARTE 1 HD
-http://iptvtree.net:8080/F11368/c81b8877/8833
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8833.m3u8
 #EXTINF:-1,BR: As Aventuras de Jackie Chan HD
-http://iptvtree.net:8080/F11368/c81b8877/286068
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286068.m3u8
 #EXTINF:-1,BR: As Pistas de Blue HD
-http://iptvtree.net:8080/F11368/c81b8877/286069
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286069.m3u8
 #EXTINF:-1,BR: Automotor Sport Channel FHD
-http://iptvtree.net:8080/F11368/c81b8877/16430
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/16430.m3u8
 #EXTINF:-1,BR: AXN FHD
-http://iptvtree.net:8080/F11368/c81b8877/8852
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8852.m3u8
 #EXTINF:-1,BR: Baby TV HD
-http://iptvtree.net:8080/F11368/c81b8877/8922
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8922.m3u8
 #EXTINF:-1,BR Baby TV HD
-http://iptvtree.net:8080/F11368/c81b8877/274327
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/274327.m3u8
 #EXTINF:-1,BR: Band Campinas HD
-http://iptvtree.net:8080/F11368/c81b8877/280153
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/280153.m3u8
 #EXTINF:-1,BR: Band News HD
-http://iptvtree.net:8080/F11368/c81b8877/14486
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14486.m3u8
 #EXTINF:-1,BR: Band Sports FHD
-http://iptvtree.net:8080/F11368/c81b8877/8777
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8777.m3u8
 #EXTINF:-1,BR: Band Vale HD
-http://iptvtree.net:8080/F11368/c81b8877/8938
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8938.m3u8
 #EXTINF:-1,BR: BIS HD
-http://iptvtree.net:8080/F11368/c81b8877/24621
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/24621.m3u8
 #EXTINF:-1,BR: Camara Dos Deputados FHD
-http://iptvtree.net:8080/F11368/c81b8877/285517
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/285517.m3u8
 #EXTINF:-1,BR: Canal 25 Jundiai HD
-http://iptvtree.net:8080/F11368/c81b8877/286073
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286073.m3u8
 #EXTINF:-1,BR: Canal Brasil HD
-http://iptvtree.net:8080/F11368/c81b8877/14569
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14569.m3u8
 #EXTINF:-1,BR: Canal Inedito HD
-http://iptvtree.net:8080/F11368/c81b8877/286162
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286162.m3u8
 #EXTINF:-1,BR: Canal Metropolitano de Noticias
-http://iptvtree.net:8080/F11368/c81b8877/283845
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/283845.m3u8
 #EXTINF:-1,BR: Canal Off HD
-http://iptvtree.net:8080/F11368/c81b8877/14532
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14532.m3u8
 #EXTINF:-1,BR: Canal Saude HD
-http://iptvtree.net:8080/F11368/c81b8877/286075
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286075.m3u8
 #EXTINF:-1,BR: Canal Viva HD
-http://iptvtree.net:8080/F11368/c81b8877/291202
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291202.m3u8
 #EXTINF:-1,BR: Canal Viva HD
-http://iptvtree.net:8080/F11368/c81b8877/14553
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14553.m3u8
 #EXTINF:-1,BR: Cartoon Network HD
-http://iptvtree.net:8080/F11368/c81b8877/8913
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8913.m3u8
 #EXTINF:-1,BR Cartoon Network HD
-http://iptvtree.net:8080/F11368/c81b8877/273292
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/273292.m3u8
 #EXTINF:-1,BR: Catve Master TV HD
-http://iptvtree.net:8080/F11368/c81b8877/286077
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286077.m3u8
 #EXTINF:-1,BR: CBN Rio De Janeiro HD
-http://iptvtree.net:8080/F11368/c81b8877/283843
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/283843.m3u8
 #EXTINF:-1,BR: CBN Sao Paulo HD
-http://iptvtree.net:8080/F11368/c81b8877/283844
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/283844.m3u8
 #EXTINF:-1,BR: Central TV Brazil HD
-http://iptvtree.net:8080/F11368/c81b8877/286793
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286793.m3u8
 #EXTINF:-1,BR: Cinemax FHD
-http://iptvtree.net:8080/F11368/c81b8877/8834
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8834.m3u8
 #EXTINF:-1,BR: CNN Brasil HD
-http://iptvtree.net:8080/F11368/c81b8877/148404
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/148404.m3u8
 #EXTINF:-1,BR: COM Brasil HD
-http://iptvtree.net:8080/F11368/c81b8877/286072
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286072.m3u8
 #EXTINF:-1,BR: Combate FHD
-http://iptvtree.net:8080/F11368/c81b8877/8778
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8778.m3u8
 #EXTINF:-1,BR: Comedy Central FHD
-http://iptvtree.net:8080/F11368/c81b8877/8779
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8779.m3u8
 #EXTINF:-1,BR: Comedy Central Pluto TV HD
-http://iptvtree.net:8080/F11368/c81b8877/286079
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286079.m3u8
 #EXTINF:-1,BR: Comedy Central South Park HD
-http://iptvtree.net:8080/F11368/c81b8877/286080
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286080.m3u8
 #EXTINF:-1,BR: Conmebol 1 HD
-http://iptvtree.net:8080/F11368/c81b8877/291179
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291179.m3u8
 #EXTINF:-1,BR: Conmebol 2 HD
-http://iptvtree.net:8080/F11368/c81b8877/291180
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291180.m3u8
 #EXTINF:-1,BR: Conmebol 3 HD
-http://iptvtree.net:8080/F11368/c81b8877/291181
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291181.m3u8
 #EXTINF:-1,BR: Conmebol 4 HD
-http://iptvtree.net:8080/F11368/c81b8877/291182
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291182.m3u8
 #EXTINF:-1,BR: Cultura HD
-http://iptvtree.net:8080/F11368/c81b8877/286081
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286081.m3u8
 #EXTINF:-1,BR: Cultura HD
-http://iptvtree.net:8080/F11368/c81b8877/14491
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14491.m3u8
 #EXTINF:-1,BR: Cultura HD
-http://iptvtree.net:8080/F11368/c81b8877/23827
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/23827.m3u8
 #EXTINF:-1,BR: Curta HD
-http://iptvtree.net:8080/F11368/c81b8877/166654
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/166654.m3u8
 #EXTINF:-1,BR: Dark Matter TV Brazil HD
-http://iptvtree.net:8080/F11368/c81b8877/286082
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286082.m3u8
 #EXTINF:-1,BR: Discovery H&H FHD
-http://iptvtree.net:8080/F11368/c81b8877/8904
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8904.m3u8
 #EXTINF:-1,BR Discovery H&H FHD
-http://iptvtree.net:8080/F11368/c81b8877/273730
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/273730.m3u8
 #EXTINF:-1,BR: Discovery Kids FHD
-http://iptvtree.net:8080/F11368/c81b8877/8893
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8893.m3u8
 #EXTINF:-1,BR Discovery Kids FHD
-http://iptvtree.net:8080/F11368/c81b8877/273726
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/273726.m3u8
 #EXTINF:-1,BR: Discovery Science HD
-http://iptvtree.net:8080/F11368/c81b8877/8910
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8910.m3u8
 #EXTINF:-1,BR Discovery Science HD
-http://iptvtree.net:8080/F11368/c81b8877/282877
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/282877.m3u8
 #EXTINF:-1,BR: Discovery Theater HD
-http://iptvtree.net:8080/F11368/c81b8877/8892
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8892.m3u8
 #EXTINF:-1,BR Discovery Theater HD
-http://iptvtree.net:8080/F11368/c81b8877/273725
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/273725.m3u8
 #EXTINF:-1,BR: Discovery Turbo FHD
-http://iptvtree.net:8080/F11368/c81b8877/8891
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8891.m3u8
 #EXTINF:-1,BR Discovery Turbo FHD
-http://iptvtree.net:8080/F11368/c81b8877/273724
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/273724.m3u8
 #EXTINF:-1,BR: Discovery World Channel Brazil FHD
-http://iptvtree.net:8080/F11368/c81b8877/8894
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8894.m3u8
 #EXTINF:-1,BR Discovery World Channel Brazil FHD
-http://iptvtree.net:8080/F11368/c81b8877/273727
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/273727.m3u8
 #EXTINF:-1,BR: Discovery World FHD
-http://iptvtree.net:8080/F11368/c81b8877/279608
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/279608.m3u8
 #EXTINF:-1,BR Discovery World FHD
-http://iptvtree.net:8080/F11368/c81b8877/279864
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/279864.m3u8
 #EXTINF:-1,BR: Disney Channel FHD
-http://iptvtree.net:8080/F11368/c81b8877/8895
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8895.m3u8
 #EXTINF:-1,BR Disney Channel FHD
-http://iptvtree.net:8080/F11368/c81b8877/274547
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/274547.m3u8
 #EXTINF:-1,BR: Disney Junior HD
-http://iptvtree.net:8080/F11368/c81b8877/8916
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8916.m3u8
 #EXTINF:-1,BR Disney Junior HD
-http://iptvtree.net:8080/F11368/c81b8877/274548
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/274548.m3u8
 #EXTINF:-1,BR: Disney XD HD
-http://iptvtree.net:8080/F11368/c81b8877/8917
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8917.m3u8
 #EXTINF:-1,BR Disney XD HD
-http://iptvtree.net:8080/F11368/c81b8877/274549
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/274549.m3u8
 #EXTINF:-1,BR: E! HD
-http://iptvtree.net:8080/F11368/c81b8877/14501
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14501.m3u8
 #EXTINF:-1,BR E! HD
-http://iptvtree.net:8080/F11368/c81b8877/275206
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/275206.m3u8
 #EXTINF:-1,BR: EPTV Araraquara HD
-http://iptvtree.net:8080/F11368/c81b8877/245582
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/245582.m3u8
 #EXTINF:-1,BR: EPTV FHD
-http://iptvtree.net:8080/F11368/c81b8877/281736
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/281736.m3u8
 #EXTINF:-1,BR: EPTV Ribeirao Preto HD
-http://iptvtree.net:8080/F11368/c81b8877/81157
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/81157.m3u8
 #EXTINF:-1,BR: EPTV Sao Carlos HD
-http://iptvtree.net:8080/F11368/c81b8877/14594
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14594.m3u8
 #EXTINF:-1,BR: ESPN 2 HD
-http://iptvtree.net:8080/F11368/c81b8877/8801
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8801.m3u8
 #EXTINF:-1,BR: ESPN 3 HD
-http://iptvtree.net:8080/F11368/c81b8877/290657
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/290657.m3u8
 #EXTINF:-1,BR: ESPN Extra HD
-http://iptvtree.net:8080/F11368/c81b8877/8789
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8789.m3u8
 #EXTINF:-1,BR: ESPN HD
-http://iptvtree.net:8080/F11368/c81b8877/10867
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/10867.m3u8
 #EXTINF:-1,BR: ESPN HD
-http://iptvtree.net:8080/F11368/c81b8877/8793
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8793.m3u8
 #EXTINF:-1,BR: FailArmy HD
-http://iptvtree.net:8080/F11368/c81b8877/286084
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286084.m3u8
 #EXTINF:-1,BR: FilmBox Extra FHD
-http://iptvtree.net:8080/F11368/c81b8877/16377
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/16377.m3u8
 #EXTINF:-1,BR: Fish TV HD
-http://iptvtree.net:8080/F11368/c81b8877/8848
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8848.m3u8
 #EXTINF:-1,BR: Fonte TV FHD
-http://iptvtree.net:8080/F11368/c81b8877/275967
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/275967.m3u8
 #EXTINF:-1,BR: Food Network HD
-http://iptvtree.net:8080/F11368/c81b8877/8863
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8863.m3u8
 #EXTINF:-1,BR: Fox Crime HD
-http://iptvtree.net:8080/F11368/c81b8877/16366
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/16366.m3u8
 #EXTINF:-1,BR: Fox Life FHD
-http://iptvtree.net:8080/F11368/c81b8877/8818
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8818.m3u8
 #EXTINF:-1,BR Fox Life FHD
-http://iptvtree.net:8080/F11368/c81b8877/273963
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/273963.m3u8
 #EXTINF:-1,BR: FOX SPORTS 2 FHD
-http://iptvtree.net:8080/F11368/c81b8877/8776
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8776.m3u8
 #EXTINF:-1,BR: Fuel TV HD
-http://iptvtree.net:8080/F11368/c81b8877/286083
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286083.m3u8
 #EXTINF:-1,BR: Futura FHD
-http://iptvtree.net:8080/F11368/c81b8877/7342
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7342.m3u8
 #EXTINF:-1,BR: FX FHD
-http://iptvtree.net:8080/F11368/c81b8877/8835
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8835.m3u8
 #EXTINF:-1,BR: Globo Asa Branca HD
-http://iptvtree.net:8080/F11368/c81b8877/193343
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/193343.m3u8
 #EXTINF:-1,BR: Globo Cuiaba HD
-http://iptvtree.net:8080/F11368/c81b8877/24555
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/24555.m3u8
 #EXTINF:-1,BR: Globo Fortaleza FHD
-http://iptvtree.net:8080/F11368/c81b8877/36851
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/36851.m3u8
 #EXTINF:-1,BR: Globo Inter TV Cabugi HD
-http://iptvtree.net:8080/F11368/c81b8877/24556
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/24556.m3u8
 #EXTINF:-1,BR: Globo Inter TV Cabugi HD
-http://iptvtree.net:8080/F11368/c81b8877/174538
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/174538.m3u8
 #EXTINF:-1,BR: Globo Inter TV Cabugi HD
-http://iptvtree.net:8080/F11368/c81b8877/147279
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/147279.m3u8
 #EXTINF:-1,BR: Globo Inter TV Cabugi HD
-http://iptvtree.net:8080/F11368/c81b8877/280637
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/280637.m3u8
 #EXTINF:-1,BR: Globo Inter TV Cabugi HD
-http://iptvtree.net:8080/F11368/c81b8877/24553
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/24553.m3u8
 #EXTINF:-1,BR: Globo News FHD
-http://iptvtree.net:8080/F11368/c81b8877/14513
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14513.m3u8
 #EXTINF:-1,BR: Globo Nordeste FHD
-http://iptvtree.net:8080/F11368/c81b8877/24551
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/24551.m3u8
 #EXTINF:-1,BR: Globo Norte TV Cabugi HD
-http://iptvtree.net:8080/F11368/c81b8877/174521
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/174521.m3u8
 #EXTINF:-1,BR: Globo NSC TV HD
-http://iptvtree.net:8080/F11368/c81b8877/201034
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/201034.m3u8
 #EXTINF:-1,BR: Globo RBS Porto Alegre HD
-http://iptvtree.net:8080/F11368/c81b8877/148423
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/148423.m3u8
 #EXTINF:-1,BR: Globo RBS RS TV FHD
-http://iptvtree.net:8080/F11368/c81b8877/36850
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/36850.m3u8
 #EXTINF:-1,BR: Globo Rio de Janeiro HD
-http://iptvtree.net:8080/F11368/c81b8877/30437
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/30437.m3u8
 #EXTINF:-1,BR: Globo RPC Curitiba HD
-http://iptvtree.net:8080/F11368/c81b8877/182185
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/182185.m3u8
 #EXTINF:-1,BR: Globo RPC Curitiba HD
-http://iptvtree.net:8080/F11368/c81b8877/245578
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/245578.m3u8
 #EXTINF:-1,BR: Globo Sao Paulo HD
-http://iptvtree.net:8080/F11368/c81b8877/14514
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14514.m3u8
 #EXTINF:-1,BR: Globo Tribuna Santos HD
-http://iptvtree.net:8080/F11368/c81b8877/24546
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/24546.m3u8
 #EXTINF:-1,BR: Globo TV Gazeta Vitoria HD
-http://iptvtree.net:8080/F11368/c81b8877/193344
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/193344.m3u8
 #EXTINF:-1,BR: Globo TV Gazeta Vitoria HD
-http://iptvtree.net:8080/F11368/c81b8877/245573
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/245573.m3u8
 #EXTINF:-1,BR: Gloob HD
-http://iptvtree.net:8080/F11368/c81b8877/14605
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14605.m3u8
 #EXTINF:-1,BR: Gloobinho HD
-http://iptvtree.net:8080/F11368/c81b8877/148406
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/148406.m3u8
 #EXTINF:-1,BR: GNT HD
-http://iptvtree.net:8080/F11368/c81b8877/8856
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8856.m3u8
 #EXTINF:-1,BR: Guia de Canais HD
-http://iptvtree.net:8080/F11368/c81b8877/286086
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286086.m3u8
 #EXTINF:-1,BR: HBO 2 FHD
-http://iptvtree.net:8080/F11368/c81b8877/8821
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8821.m3u8
 #EXTINF:-1,BR: HBO Family HD
-http://iptvtree.net:8080/F11368/c81b8877/8839
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8839.m3u8
 #EXTINF:-1,BR: HBO FHD
-http://iptvtree.net:8080/F11368/c81b8877/8822
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8822.m3u8
 #EXTINF:-1,BR: HBO Mundi FHD
-http://iptvtree.net:8080/F11368/c81b8877/8837
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8837.m3u8
 #EXTINF:-1,BR: HBO Pop FHD
-http://iptvtree.net:8080/F11368/c81b8877/173434
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/173434.m3u8
 #EXTINF:-1,BR: HBO Signature HD
-http://iptvtree.net:8080/F11368/c81b8877/8836
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8836.m3u8
 #EXTINF:-1,BR: HBO Xtreme FHD
-http://iptvtree.net:8080/F11368/c81b8877/8824
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8824.m3u8
 #EXTINF:-1,BR: HBO+ HD
-http://iptvtree.net:8080/F11368/c81b8877/8823
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8823.m3u8
 #EXTINF:-1,BR: HGTV HD
-http://iptvtree.net:8080/F11368/c81b8877/147274
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/147274.m3u8
 #EXTINF:-1,BR HGTV HD
-http://iptvtree.net:8080/F11368/c81b8877/275122
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/275122.m3u8
 #EXTINF:-1,BR: History 2 HD
-http://iptvtree.net:8080/F11368/c81b8877/14516
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14516.m3u8
 #EXTINF:-1,BR History 2 HD
-http://iptvtree.net:8080/F11368/c81b8877/274216
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/274216.m3u8
 #EXTINF:-1,BR: History Channel HD
-http://iptvtree.net:8080/F11368/c81b8877/8901
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8901.m3u8
 #EXTINF:-1,BR History Channel HD
-http://iptvtree.net:8080/F11368/c81b8877/274210
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/274210.m3u8
 #EXTINF:-1,BR: Hot FM SP HD
-http://iptvtree.net:8080/F11368/c81b8877/286087
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286087.m3u8
 #EXTINF:-1,BR: Inter TV Grande Minas HD
-http://iptvtree.net:8080/F11368/c81b8877/291203
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291203.m3u8
 #EXTINF:-1,BR: Investigation Discovery HD
-http://iptvtree.net:8080/F11368/c81b8877/14529
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14529.m3u8
 #EXTINF:-1,BR Investigation Discovery HD
-http://iptvtree.net:8080/F11368/c81b8877/273757
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/273757.m3u8
 #EXTINF:-1,BR: ISTV FHD
-http://iptvtree.net:8080/F11368/c81b8877/286088
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286088.m3u8
 #EXTINF:-1,BR: Jeannie e um Genio HD
-http://iptvtree.net:8080/F11368/c81b8877/286090
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286090.m3u8
 #EXTINF:-1,BR: Jovem Pan News FHD
-http://iptvtree.net:8080/F11368/c81b8877/286091
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286091.m3u8
 #EXTINF:-1,BR: Jovem Pan Pluto TV HD
-http://iptvtree.net:8080/F11368/c81b8877/286092
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286092.m3u8
 #EXTINF:-1,BR: Lifetime FHD
-http://iptvtree.net:8080/F11368/c81b8877/8864
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8864.m3u8
 #EXTINF:-1,BR: Like HD
-http://iptvtree.net:8080/F11368/c81b8877/245612
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/245612.m3u8
 #EXTINF:-1,BR: Loupe HD
-http://iptvtree.net:8080/F11368/c81b8877/286093
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286093.m3u8
 #EXTINF:-1,BR: MAIS HD
-http://iptvtree.net:8080/F11368/c81b8877/172474
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/172474.m3u8
 #EXTINF:-1,BR: Mania De Medico HD
-http://iptvtree.net:8080/F11368/c81b8877/286156
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286156.m3u8
 #EXTINF:-1,BR: MasterChef HD
-http://iptvtree.net:8080/F11368/c81b8877/286098
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286098.m3u8
 #EXTINF:-1,BR: Megapix HD
-http://iptvtree.net:8080/F11368/c81b8877/8842
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8842.m3u8
 #EXTINF:-1,BR: MKK Web TV HD
-http://iptvtree.net:8080/F11368/c81b8877/286094
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286094.m3u8
 #EXTINF:-1,BR: MTV 00s HD
-http://iptvtree.net:8080/F11368/c81b8877/14658
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14658.m3u8
 #EXTINF:-1,BR: MTV Biggest Pop HD
-http://iptvtree.net:8080/F11368/c81b8877/286095
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286095.m3u8
 #EXTINF:-1,BR: MTV HD
-http://iptvtree.net:8080/F11368/c81b8877/286097
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286097.m3u8
 #EXTINF:-1,BR: MTV HD
-http://iptvtree.net:8080/F11368/c81b8877/147283
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/147283.m3u8
 #EXTINF:-1,BR: MTV HD
-http://iptvtree.net:8080/F11368/c81b8877/286096
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286096.m3u8
 #EXTINF:-1,BR: MTV Live HD
-http://iptvtree.net:8080/F11368/c81b8877/291204
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291204.m3u8
 #EXTINF:-1,BR: Multishow FHD
-http://iptvtree.net:8080/F11368/c81b8877/14528
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14528.m3u8
 #EXTINF:-1,BR: MyTime movie network Brazil HD
-http://iptvtree.net:8080/F11368/c81b8877/286099
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286099.m3u8
 #EXTINF:-1,BR: Naruto HD
-http://iptvtree.net:8080/F11368/c81b8877/286100
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286100.m3u8
 #EXTINF:-1,BR: NAT GEO HD
-http://iptvtree.net:8080/F11368/c81b8877/14531
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14531.m3u8
 #EXTINF:-1,BR NAT GEO HD
-http://iptvtree.net:8080/F11368/c81b8877/274121
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/274121.m3u8
 #EXTINF:-1,BR: NAT GEO Kids HD
-http://iptvtree.net:8080/F11368/c81b8877/8914
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8914.m3u8
 #EXTINF:-1,BR NAT GEO Kids HD
-http://iptvtree.net:8080/F11368/c81b8877/274114
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/274114.m3u8
 #EXTINF:-1,BR: NAT GEO Wild FHD
-http://iptvtree.net:8080/F11368/c81b8877/8905
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8905.m3u8
 #EXTINF:-1,BR NAT GEO Wild FHD
-http://iptvtree.net:8080/F11368/c81b8877/274113
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/274113.m3u8
 #EXTINF:-1,BR: Nick Classico HD
-http://iptvtree.net:8080/F11368/c81b8877/286101
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286101.m3u8
 #EXTINF:-1,BR Nick Classico HD
-http://iptvtree.net:8080/F11368/c81b8877/290172
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/290172.m3u8
 #EXTINF:-1,BR: Nick Junior Club HD
-http://iptvtree.net:8080/F11368/c81b8877/286102
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286102.m3u8
 #EXTINF:-1,BR Nick Junior Club HD
-http://iptvtree.net:8080/F11368/c81b8877/290112
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/290112.m3u8
 #EXTINF:-1,BR: Nick Junior HD
-http://iptvtree.net:8080/F11368/c81b8877/8919
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8919.m3u8
 #EXTINF:-1,BR Nick Junior HD
-http://iptvtree.net:8080/F11368/c81b8877/282955
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/282955.m3u8
 #EXTINF:-1,BR: nickelodeon HD
-http://iptvtree.net:8080/F11368/c81b8877/16391
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/16391.m3u8
 #EXTINF:-1,BR nickelodeon HD
-http://iptvtree.net:8080/F11368/c81b8877/283017
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/283017.m3u8
 #EXTINF:-1,BR: Nova Era TV FHD
-http://iptvtree.net:8080/F11368/c81b8877/286105
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286105.m3u8
 #EXTINF:-1,BR: Novo Tempo HD
-http://iptvtree.net:8080/F11368/c81b8877/7411
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7411.m3u8
 #EXTINF:-1,BR: Novo Tempo HD
-http://iptvtree.net:8080/F11368/c81b8877/197082
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/197082.m3u8
 #EXTINF:-1,BR: O Reino Infantil HD
-http://iptvtree.net:8080/F11368/c81b8877/286108
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286108.m3u8
 #EXTINF:-1,BR: Paramount Network HD
-http://iptvtree.net:8080/F11368/c81b8877/286110
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286110.m3u8
 #EXTINF:-1,BR: Paramount Network HD
-http://iptvtree.net:8080/F11368/c81b8877/8859
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8859.m3u8
 #EXTINF:-1,BR: Premiere FC 1 FHD
-http://iptvtree.net:8080/F11368/c81b8877/8785
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8785.m3u8
 #EXTINF:-1,BR: Premiere FC 1 FHD
-http://iptvtree.net:8080/F11368/c81b8877/14640
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14640.m3u8
 #EXTINF:-1,BR: Premiere FC 2 HD
-http://iptvtree.net:8080/F11368/c81b8877/8786
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8786.m3u8
 #EXTINF:-1,BR: Premiere FC 3 HD
-http://iptvtree.net:8080/F11368/c81b8877/8787
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8787.m3u8
 #EXTINF:-1,BR: Premiere FC 4 FHD
-http://iptvtree.net:8080/F11368/c81b8877/8788
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8788.m3u8
 #EXTINF:-1,BR: Premiere FC 5 HD
-http://iptvtree.net:8080/F11368/c81b8877/8790
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8790.m3u8
 #EXTINF:-1,BR: Premiere FC 6 HD
-http://iptvtree.net:8080/F11368/c81b8877/8791
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8791.m3u8
 #EXTINF:-1,BR: Premiere FC 7 HD
-http://iptvtree.net:8080/F11368/c81b8877/8798
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8798.m3u8
 #EXTINF:-1,BR: RCI HD
-http://iptvtree.net:8080/F11368/c81b8877/275968
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/275968.m3u8
 #EXTINF:-1,BR: Record News HD
-http://iptvtree.net:8080/F11368/c81b8877/10988
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/10988.m3u8
 #EXTINF:-1,BR: Record SP HD
-http://iptvtree.net:8080/F11368/c81b8877/148407
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/148407.m3u8
 #EXTINF:-1,BR: Record SP HD
-http://iptvtree.net:8080/F11368/c81b8877/14639
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14639.m3u8
 #EXTINF:-1,BR: Record TV Americas HD
-http://iptvtree.net:8080/F11368/c81b8877/200090
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/200090.m3u8
 #EXTINF:-1,BR: Rede Brasil de Comunicacao HD
-http://iptvtree.net:8080/F11368/c81b8877/286111
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286111.m3u8
 #EXTINF:-1,BR: Rede Brasil HD
-http://iptvtree.net:8080/F11368/c81b8877/7354
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7354.m3u8
 #EXTINF:-1,BR: Rede CNT HD
-http://iptvtree.net:8080/F11368/c81b8877/286112
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286112.m3u8
 #EXTINF:-1,BR: Rede Familia HD
-http://iptvtree.net:8080/F11368/c81b8877/245608
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/245608.m3u8
 #EXTINF:-1,BR: Rede Familia HD
-http://iptvtree.net:8080/F11368/c81b8877/193339
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/193339.m3u8
 #EXTINF:-1,BR: Rede Gospel HD
-http://iptvtree.net:8080/F11368/c81b8877/193342
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/193342.m3u8
 #EXTINF:-1,BR: Rede Mao Amiga HD
-http://iptvtree.net:8080/F11368/c81b8877/286116
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286116.m3u8
 #EXTINF:-1,BR: Rede Minas HD
-http://iptvtree.net:8080/F11368/c81b8877/7408
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7408.m3u8
 #EXTINF:-1,BR: Rede RC HD
-http://iptvtree.net:8080/F11368/c81b8877/286117
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286117.m3u8
 #EXTINF:-1,BR: Rede Super HD
-http://iptvtree.net:8080/F11368/c81b8877/147291
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/147291.m3u8
 #EXTINF:-1,BR: Rede TV FHD
-http://iptvtree.net:8080/F11368/c81b8877/7359
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7359.m3u8
 #EXTINF:-1,BR: Rede TV Pampa HD
-http://iptvtree.net:8080/F11368/c81b8877/286119
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286119.m3u8
 #EXTINF:-1,BR: Rede TV SP FHD
-http://iptvtree.net:8080/F11368/c81b8877/148414
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/148414.m3u8
 #EXTINF:-1,BR: Rede TV Tocantins HD
-http://iptvtree.net:8080/F11368/c81b8877/286121
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286121.m3u8
 #EXTINF:-1,BR: Rede Vida HD
-http://iptvtree.net:8080/F11368/c81b8877/147286
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/147286.m3u8
 #EXTINF:-1,BR: Retro Cartoon HD
-http://iptvtree.net:8080/F11368/c81b8877/286122
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286122.m3u8
 #EXTINF:-1,BR Retro Cartoon HD
-http://iptvtree.net:8080/F11368/c81b8877/290099
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/290099.m3u8
 #EXTINF:-1,BR: Santa Cecilia TV HD
-http://iptvtree.net:8080/F11368/c81b8877/286124
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286124.m3u8
 #EXTINF:-1,BR: SBT FHD
-http://iptvtree.net:8080/F11368/c81b8877/281737
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/281737.m3u8
 #EXTINF:-1,BR: SBT FHD
-http://iptvtree.net:8080/F11368/c81b8877/7367
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7367.m3u8
 #EXTINF:-1,BR: SBT RJ HD
-http://iptvtree.net:8080/F11368/c81b8877/148295
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/148295.m3u8
 #EXTINF:-1,BR: SBT SP FHD
-http://iptvtree.net:8080/F11368/c81b8877/148409
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/148409.m3u8
 #EXTINF:-1,BR: SBT SP FHD
-http://iptvtree.net:8080/F11368/c81b8877/286123
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286123.m3u8
 #EXTINF:-1,BR: Sesc TV FHD
-http://iptvtree.net:8080/F11368/c81b8877/286125
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286125.m3u8
 #EXTINF:-1,BR: Sony Channel FHD
-http://iptvtree.net:8080/F11368/c81b8877/8882
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8882.m3u8
 #EXTINF:-1,BR: SPORTV 2 FHD
-http://iptvtree.net:8080/F11368/c81b8877/8783
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8783.m3u8
 #EXTINF:-1,BR SPORTV 2 FHD
-http://iptvtree.net:8080/F11368/c81b8877/37193
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/37193.m3u8
 #EXTINF:-1,BR: SPORTV 3 FHD
-http://iptvtree.net:8080/F11368/c81b8877/8784
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8784.m3u8
 #EXTINF:-1,BR SPORTV 3 FHD
-http://iptvtree.net:8080/F11368/c81b8877/37194
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/37194.m3u8
 #EXTINF:-1,BR: SPORTV FHD
-http://iptvtree.net:8080/F11368/c81b8877/4015
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/4015.m3u8
 #EXTINF:-1,BR SPORTV FHD
-http://iptvtree.net:8080/F11368/c81b8877/279169
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/279169.m3u8
 #EXTINF:-1,BR: Star Channel FHD
-http://iptvtree.net:8080/F11368/c81b8877/278658
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/278658.m3u8
 #EXTINF:-1,BR: Star Hits FHD
-http://iptvtree.net:8080/F11368/c81b8877/278660
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/278660.m3u8
 #EXTINF:-1,BR: Star Life HD
-http://iptvtree.net:8080/F11368/c81b8877/278659
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/278659.m3u8
 #EXTINF:-1,BR: Studio Universal FHD
-http://iptvtree.net:8080/F11368/c81b8877/280996
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/280996.m3u8
 #EXTINF:-1,BR: SYFY FHD
-http://iptvtree.net:8080/F11368/c81b8877/14485
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14485.m3u8
 #EXTINF:-1,BR: Tastemade FHD
-http://iptvtree.net:8080/F11368/c81b8877/286173
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286173.m3u8
 #EXTINF:-1,BR: TBS HD
-http://iptvtree.net:8080/F11368/c81b8877/14649
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14649.m3u8
 #EXTINF:-1,BR: TCM HD
-http://iptvtree.net:8080/F11368/c81b8877/8853
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8853.m3u8
 #EXTINF:-1,BR: Telecine Action FHD
-http://iptvtree.net:8080/F11368/c81b8877/193685
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/193685.m3u8
 #EXTINF:-1,BR: Telecine Cult FHD
-http://iptvtree.net:8080/F11368/c81b8877/197080
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/197080.m3u8
 #EXTINF:-1,BR: Telecine Fun HD
-http://iptvtree.net:8080/F11368/c81b8877/8831
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8831.m3u8
 #EXTINF:-1,BR: Telecine Pipoca FHD
-http://iptvtree.net:8080/F11368/c81b8877/8830
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8830.m3u8
 #EXTINF:-1,BR: Telecine Premium FHD
-http://iptvtree.net:8080/F11368/c81b8877/8829
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8829.m3u8
 #EXTINF:-1,BR: Telecine Touch HD
-http://iptvtree.net:8080/F11368/c81b8877/8828
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8828.m3u8
 #EXTINF:-1,BR: Terra Viva HD
-http://iptvtree.net:8080/F11368/c81b8877/197213
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/197213.m3u8
 #EXTINF:-1,BR: The Pet Collective HD
-http://iptvtree.net:8080/F11368/c81b8877/286176
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286176.m3u8
 #EXTINF:-1,BR: TLC HD
-http://iptvtree.net:8080/F11368/c81b8877/7370
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7370.m3u8
 #EXTINF:-1,BR: TNT HD
-http://iptvtree.net:8080/F11368/c81b8877/8840
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8840.m3u8
 #EXTINF:-1,BR: TNT Series FHD
-http://iptvtree.net:8080/F11368/c81b8877/8827
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8827.m3u8
 #EXTINF:-1,BR: TNT Sports 2 Brasil HD
-http://iptvtree.net:8080/F11368/c81b8877/286127
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286127.m3u8
 #EXTINF:-1,BR: TNT Sports 3 Brasil HD
-http://iptvtree.net:8080/F11368/c81b8877/286128
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286128.m3u8
 #EXTINF:-1,BR: TNT Sports 4 Brasil HD
-http://iptvtree.net:8080/F11368/c81b8877/286129
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286129.m3u8
 #EXTINF:-1,BR: TNT Sports 5 Brasil HD
-http://iptvtree.net:8080/F11368/c81b8877/286130
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286130.m3u8
 #EXTINF:-1,BR: Tokusato HD
-http://iptvtree.net:8080/F11368/c81b8877/286177
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286177.m3u8
 #EXTINF:-1,BR: Tooncast HD
-http://iptvtree.net:8080/F11368/c81b8877/8927
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8927.m3u8
 #EXTINF:-1,BR: Travel Box Brasil FHD
-http://iptvtree.net:8080/F11368/c81b8877/169585
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/169585.m3u8
 #EXTINF:-1,BR: Tru TV HD
-http://iptvtree.net:8080/F11368/c81b8877/147652
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/147652.m3u8
 #EXTINF:-1,BR: Turma da Monica HD
-http://iptvtree.net:8080/F11368/c81b8877/286178
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286178.m3u8
 #EXTINF:-1,BR: TV Aberta FHD
-http://iptvtree.net:8080/F11368/c81b8877/286131
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286131.m3u8
 #EXTINF:-1,BR: TV Aparecida FHD
-http://iptvtree.net:8080/F11368/c81b8877/7379
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7379.m3u8
 #EXTINF:-1,BR: TV Assembl HD
-http://iptvtree.net:8080/F11368/c81b8877/166063
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/166063.m3u8
 #EXTINF:-1,BR: TV Birigui HD
-http://iptvtree.net:8080/F11368/c81b8877/286135
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286135.m3u8
 #EXTINF:-1,BR: TV BNO HD
-http://iptvtree.net:8080/F11368/c81b8877/201934
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/201934.m3u8
 #EXTINF:-1,BR: TV Brasil 2 HD
-http://iptvtree.net:8080/F11368/c81b8877/24284
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/24284.m3u8
 #EXTINF:-1,BR: TV Brasil FHD
-http://iptvtree.net:8080/F11368/c81b8877/166056
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/166056.m3u8
 #EXTINF:-1,BR: TV Brasil FHD
-http://iptvtree.net:8080/F11368/c81b8877/286136
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286136.m3u8
 #EXTINF:-1,BR: TV BRICS Portuguese FHD
-http://iptvtree.net:8080/F11368/c81b8877/286134
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286134.m3u8
 #EXTINF:-1,BR: TV Cancao Nova HD
-http://iptvtree.net:8080/F11368/c81b8877/7387
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7387.m3u8
 #EXTINF:-1,BR: TV Capital Lucelia HD
-http://iptvtree.net:8080/F11368/c81b8877/286138
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286138.m3u8
 #EXTINF:-1,BR: TV Carioca HD
-http://iptvtree.net:8080/F11368/c81b8877/201935
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/201935.m3u8
 #EXTINF:-1,BR: TV Cidade Canal 9 HD
-http://iptvtree.net:8080/F11368/c81b8877/201936
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/201936.m3u8
 #EXTINF:-1,BR: TV Cinec HD
-http://iptvtree.net:8080/F11368/c81b8877/286142
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286142.m3u8
 #EXTINF:-1,BR: TV Correio Da Manha FHD
-http://iptvtree.net:8080/F11368/c81b8877/286141
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286141.m3u8
 #EXTINF:-1,BR: TV das Artes HD
-http://iptvtree.net:8080/F11368/c81b8877/285516
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/285516.m3u8
 #EXTINF:-1,BR: TV Destak HD
-http://iptvtree.net:8080/F11368/c81b8877/286144
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286144.m3u8
 #EXTINF:-1,BR: TV Diario do Sertao HD
-http://iptvtree.net:8080/F11368/c81b8877/22361
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/22361.m3u8
 #EXTINF:-1,BR: TV Escola HD
-http://iptvtree.net:8080/F11368/c81b8877/7372
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7372.m3u8
 #EXTINF:-1,BR: TV Evangelizar HD
-http://iptvtree.net:8080/F11368/c81b8877/245605
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/245605.m3u8
 #EXTINF:-1,BR: TV Evangelizar HD
-http://iptvtree.net:8080/F11368/c81b8877/291198
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291198.m3u8
 #EXTINF:-1,BR: TV Galega Blumenau HD
-http://iptvtree.net:8080/F11368/c81b8877/286147
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286147.m3u8
 #EXTINF:-1,BR: TV Gazeta HD
-http://iptvtree.net:8080/F11368/c81b8877/7391
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7391.m3u8
 #EXTINF:-1,BR: TV Gideoes HD
-http://iptvtree.net:8080/F11368/c81b8877/286149
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286149.m3u8
 #EXTINF:-1,BR: TV Guara HD
-http://iptvtree.net:8080/F11368/c81b8877/286150
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286150.m3u8
 #EXTINF:-1,BR: TV Imaculada FHD
-http://iptvtree.net:8080/F11368/c81b8877/291199
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291199.m3u8
 #EXTINF:-1,BR: TV Interlagos HD
-http://iptvtree.net:8080/F11368/c81b8877/286151
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286151.m3u8
 #EXTINF:-1,BR: TV Justica HD
-http://iptvtree.net:8080/F11368/c81b8877/285520
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/285520.m3u8
 #EXTINF:-1,BR: TV Mackenzie HD
-http://iptvtree.net:8080/F11368/c81b8877/286153
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286153.m3u8
 #EXTINF:-1,BR: TV MAX HD
-http://iptvtree.net:8080/F11368/c81b8877/286152
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286152.m3u8
 #EXTINF:-1,BR: TV Metropole HD
-http://iptvtree.net:8080/F11368/c81b8877/286154
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286154.m3u8
 #EXTINF:-1,BR: TV Mon HD
-http://iptvtree.net:8080/F11368/c81b8877/286155
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286155.m3u8
 #EXTINF:-1,BR: TV Pai Eterno HD
-http://iptvtree.net:8080/F11368/c81b8877/166054
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/166054.m3u8
 #EXTINF:-1,BR: TV Pantanal MS HD
-http://iptvtree.net:8080/F11368/c81b8877/286157
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286157.m3u8
 #EXTINF:-1,BR: TV Pocos HD
-http://iptvtree.net:8080/F11368/c81b8877/286158
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286158.m3u8
 #EXTINF:-1,BR: TV Ra Tim Bum HD
-http://iptvtree.net:8080/F11368/c81b8877/148405
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/148405.m3u8
 #EXTINF:-1,BR: TV Rio Sul HD
-http://iptvtree.net:8080/F11368/c81b8877/291200
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291200.m3u8
 #EXTINF:-1,BR: TV Santa Cruz HD
-http://iptvtree.net:8080/F11368/c81b8877/286159
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286159.m3u8
 #EXTINF:-1,BR: TV Senado HD
-http://iptvtree.net:8080/F11368/c81b8877/285521
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/285521.m3u8
 #EXTINF:-1,BR: TV Tem Bauru FHD
-http://iptvtree.net:8080/F11368/c81b8877/245611
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/245611.m3u8
 #EXTINF:-1,BR: TV Terceiro Anjo HD
-http://iptvtree.net:8080/F11368/c81b8877/286160
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286160.m3u8
 #EXTINF:-1,BR: TV UAI HD
-http://iptvtree.net:8080/F11368/c81b8877/291201
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291201.m3u8
 #EXTINF:-1,BR: TV Uniao HD
-http://iptvtree.net:8080/F11368/c81b8877/286166
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286166.m3u8
 #EXTINF:-1,BR: TV Verdes Campos HD
-http://iptvtree.net:8080/F11368/c81b8877/286167
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286167.m3u8
 #EXTINF:-1,BR: TVE Bahia FHD
-http://iptvtree.net:8080/F11368/c81b8877/22364
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/22364.m3u8
 #EXTINF:-1,BR: TVideo News HD
-http://iptvtree.net:8080/F11368/c81b8877/283846
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/283846.m3u8
 #EXTINF:-1,BR: TVN Brasil HD
-http://iptvtree.net:8080/F11368/c81b8877/265770
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/265770.m3u8
 #EXTINF:-1,BR: Universal TV HD
-http://iptvtree.net:8080/F11368/c81b8877/7422
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7422.m3u8
 #EXTINF:-1,BR: Universal TV HD
-http://iptvtree.net:8080/F11368/c81b8877/291205
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/291205.m3u8
 #EXTINF:-1,BR: Warner TV FHD
-http://iptvtree.net:8080/F11368/c81b8877/8825
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8825.m3u8
 #EXTINF:-1,BR: WooHoo HD
-http://iptvtree.net:8080/F11368/c81b8877/14555
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14555.m3u8
 #EXTINF:-1,BR: Yeeaah! HD
-http://iptvtree.net:8080/F11368/c81b8877/286180
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286180.m3u8
 #EXTINF:-1,BR: ZooMoo Kids HD
-http://iptvtree.net:8080/F11368/c81b8877/14661
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/14661.m3u8
