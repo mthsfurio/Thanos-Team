@@ -9,7 +9,7 @@
 #EXTINF:-1,BR: A&E FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8816.m3u8
 #EXTINF:-1,BR A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/275192.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/F11368/c81b8877/275192
 #EXTINF:-1,BR: AgroBrasil TV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/7320.m3u8
 #EXTINF:-1,BR: All Sports HD
