@@ -23,8 +23,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvt
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286067.m3u8
 #EXTINF:-1,BR: ARTE 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/8833.m3u8
-#EXTINF:-1,BR: As Aventuras de Jackie Chan HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286068.m3u8
 #EXTINF:-1,BR: As Pistas de Blue HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvtree.net:8080/live/F11368/c81b8877/286069.m3u8
 #EXTINF:-1,BR: Automotor Sport Channel FHD
