@@ -2,14 +2,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="[B][COLOR white]☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="[B][COLOR red]7Plus[/COLOR][/B]
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd8bb9c7-3bfc-4ca2-8884-5116bcabf084" parent-code="" group-title="7Plus", ABC NEWS (US)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800349/713534/m3_wVqC3dUDgmaqwuCK
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff905891-66c9-4811-bfcc-a7d2267b1f2a" parent-code="" group-title="7Plus", A&E
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800349/713534/p1_ae
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ff905891-66c9-4811-bfcc-a7d2267b1f2a" parent-code="" group-title="7Plus", A&E+
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800349/713534/p3_ae_265
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3e33beb4-d8e8-11e9-a4df-003048de22c4" parent-code="" group-title="7Plus", A FAZENDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800349/713534/p3_afazenda
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/74c4a5b6-566c-492c-a21c-544fe4692eb7" parent-code="" group-title="7Plus", Agro HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800349/713534/m2_fqENpMkneTxmancB_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f82626f1-9de8-4bfd-a929-1e60199f5c7e" parent-code="" group-title="7Plus", AgroMais
