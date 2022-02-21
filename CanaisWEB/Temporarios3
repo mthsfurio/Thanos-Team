@@ -12,11 +12,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http
 #EXTINF:-1 group-title="Canais | Campeonatos Estaduais" tvg-logo="http://ccdn.so:80/images/92d69464653edd96a2bbae09d3d3e98c.png",Campeonato Carioca 2 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ccdn.ai:80/live/guzzoloja/Samuel14/96519.ts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://a5.vc/3pv",Globo Brasilia FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ccdn.ai:80/live/guzzoloja/Samuel14/131151.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ccdn.ai:80/live/guzzoloja/Samuel14/131151.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://a5.vc/3pv",Globo Brasilia HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ccdn.ai:80/live/guzzoloja/Samuel14/131164.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ccdn.ai:80/live/guzzoloja/Samuel14/131164.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://a5.vc/3pv",Globo Brasilia SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ccdn.ai:80/live/guzzoloja/Samuel14/131116.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ccdn.ai:80/live/guzzoloja/Samuel14/131116.m3u8
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://a5.vc/3pv",Globo EPTV Campinas SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ccdn.ai:80/live/guzzoloja/Samuel14/131210.ts
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://a5.vc/3pv",Globo EPTV Ribeirao Preto SD
