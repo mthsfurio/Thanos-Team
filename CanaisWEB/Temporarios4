@@ -1,28 +1,6 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",BBB Cam 1
-http://cdn.srvsgo.gq:8080/ieSZHoageE/S24lYWEchB/1121
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",BBB Cam 1*
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006694
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",BBB Cam 2 HD
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006799
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",BBB MOSAICO
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006800
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",SALA
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006794
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",COZINHA
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006793
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",GRUNGE
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006791
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",LOLLIPOP
-http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/1006790
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",PISCINA
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006795
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",JARDIM
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006796
-#EXTINF:-1 group-title="REALITY" tvg-logo="https://imgur.com/p65dwlm.png",CONFESSONÁRIO
-http://vipeiptv.com:8080/Amarildo90/Amarildo90/1006789
 #EXTINF:-1 group-title="Canais | BBB" tvg-logo="https://imgur.com/Sgpzemb.png",TV BAHIA HD
 https://canal1.proxy.tokplay.com.br/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://imgur.com/Sgpzemb.png",Globo SP SD
@@ -35,8 +13,6 @@ http://50.7.34.155:2201/BR/Globo_HD_RJ-br/mono.m3u8?token=fwBlCndpe3MTCXplN3Vjew
 http://168.205.87.198:8555/live/1499/123456/70.m3u8
 #EXTINF:-1 group-title="Canais | REALITY" tvg-logo="https://imgur.com/p65dwlm.png",BBB HD
 http://50.7.34.155:2200/BR/BBB_22_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-#EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/a4lEiwk.png",Multishow SD
-http://187.85.237.26:8825/ipvt_002
 #EXTINF:-1 group-title="Canais | VARIEDADES" tvg-logo="https://imgur.com/a4lEiwk.png",Multishow HD
 http://vipeiptv.com:8080/Amarildo90/Amarildo90/856709
 #EXTINF:-1 group-title="Canais | ABERTO" tvg-logo="https://i.imgur.com/mQo0UoK.png",Rrecord SP
