@@ -2,6 +2,86 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+#EXTINF:-1,BBB 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/146839.ts
+#EXTINF:-1,BBB 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147203.ts
+#EXTINF:-1,BBB 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147204.ts
+#EXTINF:-1,BBB 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147205.ts
+#EXTINF:-1,BBB 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147206.ts
+#EXTINF:-1,BBB Cam 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128349.ts
+#EXTINF:-1,BBB Cam 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128601.ts
+#EXTINF:-1,BBB Cam 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128602.ts
+#EXTINF:-1,BBB Cam 10 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147430.ts
+#EXTINF:-1,BBB Cam 10 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147431.ts
+#EXTINF:-1,BBB Cam 10 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147432.ts
+#EXTINF:-1,BBB Cam 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147433.ts
+#EXTINF:-1,BBB Cam 11 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147434.ts
+#EXTINF:-1,BBB Cam 11 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147435.ts
+#EXTINF:-1,BBB Cam 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128603.ts
+#EXTINF:-1,BBB Cam 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128604.ts
+#EXTINF:-1,BBB Cam 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128605.ts
+#EXTINF:-1,BBB Cam 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128606.ts
+#EXTINF:-1,BBB Cam 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128607.ts
+#EXTINF:-1,BBB Cam 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128608.ts
+#EXTINF:-1,BBB Cam 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147413.ts
+#EXTINF:-1,BBB Cam 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147414.ts
+#EXTINF:-1,BBB Cam 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147415.ts
+#EXTINF:-1,BBB Cam 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147416.ts
+#EXTINF:-1,BBB Cam 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147417.ts
+#EXTINF:-1,BBB Cam 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147418.ts
+#EXTINF:-1,BBB Cam 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147419.ts
+#EXTINF:-1,BBB Cam 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147420.ts
+#EXTINF:-1,BBB Cam 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147421.ts
+#EXTINF:-1,BBB Cam 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147422.ts
+#EXTINF:-1,BBB Cam 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147423.ts
+#EXTINF:-1,BBB Cam 8 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147424.ts
+#EXTINF:-1,BBB Cam 8 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147425.ts
+#EXTINF:-1,BBB Cam 8 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147426.ts
+#EXTINF:-1,BBB Cam 9 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147428.ts
+#EXTINF:-1,BBB Cam 9 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147429.ts
+#EXTINF:-1,BBB Mosaico FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147207.ts
+#EXTINF:-1,BBB Mosaico HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147208.ts
+#EXTINF:-1,BBB Mosaico SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147209.ts
+#EXTINF:-1,BBC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/71805.ts
 #EXTINF:-1,Campeonato Carioca 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/96513.ts
 #EXTINF:-1,Campeonato Carioca 1 HD
@@ -326,86 +406,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/71803.ts
 #EXTINF:-1,Band Sports SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/71804.ts
-#EXTINF:-1,BBB 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/146839.ts
-#EXTINF:-1,BBB 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147203.ts
-#EXTINF:-1,BBB 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147204.ts
-#EXTINF:-1,BBB 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147205.ts
-#EXTINF:-1,BBB 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147206.ts
-#EXTINF:-1,BBB Cam 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128349.ts
-#EXTINF:-1,BBB Cam 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128601.ts
-#EXTINF:-1,BBB Cam 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128602.ts
-#EXTINF:-1,BBB Cam 10 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147430.ts
-#EXTINF:-1,BBB Cam 10 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147431.ts
-#EXTINF:-1,BBB Cam 10 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147432.ts
-#EXTINF:-1,BBB Cam 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147433.ts
-#EXTINF:-1,BBB Cam 11 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147434.ts
-#EXTINF:-1,BBB Cam 11 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147435.ts
-#EXTINF:-1,BBB Cam 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128603.ts
-#EXTINF:-1,BBB Cam 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128604.ts
-#EXTINF:-1,BBB Cam 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128605.ts
-#EXTINF:-1,BBB Cam 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128606.ts
-#EXTINF:-1,BBB Cam 3 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128607.ts
-#EXTINF:-1,BBB Cam 3 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/128608.ts
-#EXTINF:-1,BBB Cam 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147413.ts
-#EXTINF:-1,BBB Cam 4 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147414.ts
-#EXTINF:-1,BBB Cam 4 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147415.ts
-#EXTINF:-1,BBB Cam 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147416.ts
-#EXTINF:-1,BBB Cam 5 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147417.ts
-#EXTINF:-1,BBB Cam 5 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147418.ts
-#EXTINF:-1,BBB Cam 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147419.ts
-#EXTINF:-1,BBB Cam 6 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147420.ts
-#EXTINF:-1,BBB Cam 6 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147421.ts
-#EXTINF:-1,BBB Cam 7 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147422.ts
-#EXTINF:-1,BBB Cam 7 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147423.ts
-#EXTINF:-1,BBB Cam 8 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147424.ts
-#EXTINF:-1,BBB Cam 8 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147425.ts
-#EXTINF:-1,BBB Cam 8 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147426.ts
-#EXTINF:-1,BBB Cam 9 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147428.ts
-#EXTINF:-1,BBB Cam 9 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147429.ts
-#EXTINF:-1,BBB Mosaico FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147207.ts
-#EXTINF:-1,BBB Mosaico HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147208.ts
-#EXTINF:-1,BBB Mosaico SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/147209.ts
-#EXTINF:-1,BBC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/71805.ts
 #EXTINF:-1,BIS 4K FHDR
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/103527.ts
 #EXTINF:-1,BIS FHD
