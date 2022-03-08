@@ -1,4 +1,17 @@
 <item>
+<title>Test</title>
+<link>$doregex[resolver]</link>
+<regex>
+<name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fvidoza.net%2Fembed-wxnepwkhege3.html</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
 <title>[B][COLOR white] Grease 2 (1982) [/COLOR][COLOR red]7PLUS[/COLOR][/B]</title>
 <link>http://napalm64.aigaion.feralhosting.com/media/Filmes/Grease.2.1982.mp4</link>
 <subtitle>http://napalm64.aigaion.feralhosting.com/media/Filmes/SRT/Grease.2.1982.srt</subtitle>
