@@ -5,6 +5,23 @@
 </item>
 
 <item>
+<title>Test</title>
+<link>$doregex[resolver]</link>
+<regex>
+<name>resolver</name>
+<expres>"stream":.+?"(.*?)"</expres>
+<page>https://apiresolver.joelsilva3.repl.co/resolver?url=https%3A%2F%2Fsinalpublico.com%2Fplayer3%2Fch.php%3Fcanal%3Dbbb22a</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+
+
+
+<item>
 <title>[B][COLOR blue]SONY -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800349/713534/m3_kMewqpTKfyYadI1gm05U8cv_720p$nome=[B][COLOR lime] SONY [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800349/713534/m3_kMewqpTKfyYadI1gm05U8cv_720p_2M$nome=[B][COLOR lime] SONY HD[/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
