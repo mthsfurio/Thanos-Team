@@ -612,6 +612,37 @@
 </item>
 
 <item>
+<title>[B][COLOR blue]BEIN English -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p$nome=[B][COLOR lime] BEIN English 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m3_JljAFmCUV13gjSLMGt3D6n8q7Lt_720p$nome=[B][COLOR lime] BEIN English 2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m3_GCcBFnck0TR7e19gmg_720p$nome=[B][COLOR lime] BEIN English 3 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/607cd1fe-037d-47cf-86a3-143e3658ec84/English.fw.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]BEIN Sports -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p$nome=[B][COLOR lime] BEIN Sports 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p$nome=[B][COLOR lime] BEIN Sports 2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p$nome=[B][COLOR lime] BEIN Sports 3 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p$nome=[B][COLOR lime] BEIN Sports 4 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p$nome=[B][COLOR lime] BEIN Sports 5 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p$nome=[B][COLOR lime] BEIN Sports 6 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m1_IJuJZjslV1ETJDTkTvWSUKGMR3d_720p$nome=[B][COLOR lime] BEIN Sports 7 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/2d5d0710-5bb5-42f0-abcd-4a28c1f3eb43/Sports.fw.png</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR blue]BEIN Premium  -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m2_dBrQsWUR9FuOGHKtz7tQ64tqSTH_720p$nome=[B][COLOR lime] BEIN Premium 1 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p$nome=[B][COLOR lime] BEIN Premium 2 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m1_ssjfelAbYzoqhYEjGOimmjYlTyj_720p$nome=[B][COLOR lime] BEIN Premium 3 [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
+<thumbnail>https://cld.pt/dl/download/40937def-23aa-4f7d-be2e-5969bf768a34/premium.fw.png</thumbnail>
+</item>
+
+
+<item>
 <title>[B][COLOR blue]FUTURA -[/COLOR][COLOR red] 7Plus[/COLOR][/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m1_m9QFijWCzoVs4P20h8e5nJuc_720p$nome=[B][COLOR lime] FUTURA [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://api.magiaiptv.com/live/800364/107211/m1_m9QFijWCzoVs4P20h8e5nJuc_720p$nome=[B][COLOR lime] FUTURA HD [/COLOR] | [COLOR red]7Plus[/COLOR][/B]</link>
