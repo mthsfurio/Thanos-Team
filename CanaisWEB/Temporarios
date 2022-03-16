@@ -4,8 +4,6 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia FHD
-plugin://plugin.video.jetproxy/play/http://85.17.77.88:2095/432155244/43215524499/7686
-#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/131151.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/131164.m3u8
