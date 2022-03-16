@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="" tvg-name="[B][COLOR white]☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="[B][COLOR red]7Plus[/COLOR][/B]
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="" group-title="CINE & SERIES"
+plugin://plugin.video.jetproxy/play/http://85.17.77.88:2095/432155244/43215524499/7686
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/live/Jhonleno/102030/131151.m3u8
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia HD
