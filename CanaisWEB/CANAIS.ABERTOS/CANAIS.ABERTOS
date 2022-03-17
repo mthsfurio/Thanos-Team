@@ -4,7 +4,7 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="http://www.tve.com.br/wp-content/uploads/2014/11/logo-tve-png.png" group-title="CANAIS ABERTOS",TVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856555
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856555
 #EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV CÂMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="CANAIS ABERTOS",TV CÂMARA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856554
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="RECORD BELEM" tvg-logo="http://2.bp.blogspot.com/_Pz60GtsLJQg/TSfEhBRsv5I/AAAAAAAAA4M/GYHmIFq5IFk/s1600/record_novo_logo.png" group-title="CANAIS ABERTOS",RECORD BELEM
