@@ -3,3 +3,21 @@
 #EXTINF:-1 tvg-id="" tvg-name="[B][COLOR white]??????BRASIL??????[/COLOR][COLOR red]7Plus[/COLOR][/B]" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="[B][COLOR red]7Plus[/COLOR][/B]
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Ação" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Ação
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/956729
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Comedia" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Comedia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/956730
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Drama" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Drama
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/956731
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Faroeste" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Faroeste
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/956732
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY Ficção" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY Ficção
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/956733
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY POLICIAL" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",CINE SKY POLICIAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/956734
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Infantil" tvg-logo="https://www.assineasky.com.br/blog/wp-content/uploads/2017/05/Resize-1.png" group-title="CANAIS CINE SKY",Cine Sky Infantil
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/979161
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Terror" tvg-logo="http://vipeiptv.com:25461/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS CINE SKY",Cine Sky Terror
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/979162
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky Suspense" tvg-logo="http://vipeiptv.com:25461/images/bc9e20a156288e0d1c218eb3d31219b5.png" group-title="CANAIS CINE SKY",Cine Sky Suspense
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/979163
