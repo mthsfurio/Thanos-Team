@@ -3,3 +3,40 @@
 #EXTINF:-1 tvg-id="" tvg-name="[B][COLOR white]??????BRASIL??????[/COLOR][COLOR red]7Plus[/COLOR][/B]" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="[B][COLOR red]7Plus[/COLOR][/B]
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856283
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856285
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/animalplanet.png" group-title="CANAIS DOCUMENTÁRIO",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856287
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://run.mine.nu:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="CANAIS DOCUMENTÁRIO",TLC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/980371
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC FHD" tvg-logo="http://run.mine.nu:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="CANAIS DOCUMENTÁRIO",TLC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/980372
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="http://run.mine.nu:80/images/e12a8b6e18ee3d67dc8153f4f4713a40.png" group-title="CANAIS DOCUMENTÁRIO",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/980373
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="History 2 FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",History 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/980351
+#EXTINF:-1 tvg-id="History HD" tvg-name="History FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",History FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/980352
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/980353
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEO WILD HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856310
+#EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEO WILD SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeowild.png" group-title="CANAIS DOCUMENTÁRIO",NATGEO WILD SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856308
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856305
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/natgeo.png" group-title="CANAIS DOCUMENTÁRIO",NATIONAL GEOGRAPHIC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856303
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/1200px-HGTV_US_Logo_2015.svg.png" group-title="CANAIS DOCUMENTÁRIO",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856290
+#EXTINF:-1 tvg-id="The History Channel HD" tvg-name="HISTORY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856295
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="HISTORY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/history.png" group-title="CANAIS DOCUMENTÁRIO",HISTORY SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856293
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="H2 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856300
+#EXTINF:-1 tvg-id="History 2 HD" tvg-name="H2 SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/h2.png" group-title="CANAIS DOCUMENTÁRIO",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856298
+
