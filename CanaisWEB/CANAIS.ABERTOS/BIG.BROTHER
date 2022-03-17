@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[B][COLOR white]??????BRASIL??????[/COLOR][COLOR red]7Plus[/COLOR][/B]" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="[B][COLOR red]7Plus[/COLOR][/B]
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="BBB HD 1" tvg-name="BBB 22" tvg-logo="https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg" group-title="BIG BROTHER BRASIL",BBB 22
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006694
+#EXTINF:-1 tvg-id="BBB HD 2" tvg-name="BBB 22 HD 2" tvg-logo="https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg" group-title="BIG BROTHER BRASIL",BBB 22 HD 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006799
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="BIG BROTHER BRASIL",BBB CAM 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006788
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 02" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006789
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 03" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006790
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 04" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006791
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 05" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 05
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006792
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 06" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 06
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006793
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 07" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 07
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006794
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 08" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 08
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006795
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 09" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 09
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006796
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006797
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 11" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/images/2bb225f0ba9a58930757a868ed57d9a3.png" group-title="BIG BROTHER BRASIL",BBB CAM 11
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006798
+#EXTINF:-1 tvg-id="BBB Mosaico HD" tvg-name="BBB MOSAICO HD" tvg-logo="https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg" group-title="BIG BROTHER BRASIL",BBB MOSAICO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006800
