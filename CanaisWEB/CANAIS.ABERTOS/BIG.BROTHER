@@ -4,7 +4,7 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-id="BBB HD 1" tvg-name="BBB 22" tvg-logo="https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg" group-title="BIG BROTHER BRASIL",BBB 22
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006694
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006694
 #EXTINF:-1 tvg-id="BBB HD 2" tvg-name="BBB 22 HD 2" tvg-logo="https://cdn.esbrasil.com.br/wp-content/uploads/2021/09/13132203/logo-big-brother-brasil-21_393674_36.jpg" group-title="BIG BROTHER BRASIL",BBB 22 HD 2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/1006799
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAM 01" tvg-logo="http://logocanais.ddns.net/Logo/BBB.png" group-title="BIG BROTHER BRASIL",BBB CAM 01
