@@ -16,8 +16,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/204359
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/aecanalpng",A&E FHD H265²
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/203500
-#EXTINF:-1 group-title="CANAIS | ADULTOS",AdultIPTV.net Threesome
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/204276
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/logoamc",AMC SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/204595
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/logoamc",AMC HD
