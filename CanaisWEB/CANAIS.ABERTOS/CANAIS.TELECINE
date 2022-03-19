@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[B][COLOR white]??????BRASIL??????[/COLOR][COLOR red]7Plus[/COLOR][/B]" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="[B][COLOR red]7Plus[/COLOR][/B]
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/855992
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/855994
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Telecine_Action_2.png" group-title="CANAIS TELECINE",TELECINE ACTION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/855996
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856004
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856006
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="CANAIS TELECINE",TELECINE FUN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856008
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856016
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856018
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="CANAIS TELECINE",TELECINE PREMIUM FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856020
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/855998
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856000
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS TELECINE",TELECINE CULT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856002
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856010
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856012
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856014
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856022
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856024
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS TELECINE",TELECINE TOUCH FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856026
