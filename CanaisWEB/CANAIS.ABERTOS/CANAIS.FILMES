@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="[B][COLOR white]??????BRASIL??????[/COLOR][COLOR red]7Plus[/COLOR][/B]" tvg-logo="https://i.imgur.com/KjZE0un.png" group-title="[B][COLOR red]7Plus[/COLOR][/B]
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856079
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856078
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="CANAIS FILMES",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856077
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856080
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856081
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="CANAIS FILMES",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856082
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="ARTE 1 HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/arte1.png" group-title="CANAIS FILMES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856090
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856083
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856085
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/axn.png" group-title="CANAIS FILMES",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856087
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK SD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856585
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/06/cartoon-network-logo.png" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856587
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856094
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/cinemax.png" group-title="CANAIS FILMES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856096
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="FOX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/fox.png" group-title="CANAIS FILMES",FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856100
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856117
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856115
+#EXTINF:-1 tvg-id="FX" tvg-name="FX SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/0049824.png" group-title="CANAIS FILMES",FX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856113
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856123
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856121
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MEGAPIX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="CANAIS FILMES",MEGAPIX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856119
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856125
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/paramount.png" group-title="CANAIS FILMES",PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856127
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856137
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856135
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/space.png" group-title="CANAIS FILMES",SPACE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856133
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://skytvplanos.com.br/img/channels/lg-57-canal-studio-universal.png" group-title="CANAIS FILMES",STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856140
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856148
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/syfy.png" group-title="CANAIS FILMES",SYFY SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856146
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tcm.png" group-title="CANAIS FILMES",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856154
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856165
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856163
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tnt.png" group-title="CANAIS FILMES",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856161
+#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT SÉRIES HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856169
+#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT SÉRIES SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/tntseries.png" group-title="CANAIS FILMES",TNT SÉRIES SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856167
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="UNIVERSAL TV HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856174
+#EXTINF:-1 tvg-id="Universal TV HD" tvg-name="UNIVERSAL TV SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/studio+universal.jpg" group-title="CANAIS FILMES",UNIVERSAL TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856172
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856179
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="WARNER CHANNEL SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/warner.png" group-title="CANAIS FILMES",WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://vipeiptv.com:8080/aureliano/aureliano2019/856177
