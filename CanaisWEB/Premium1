@@ -4,6 +4,14 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 FHD" tvg-logo="http://38.242.226.55:25461/images/378ffd7fcc832f6db759dc971fe5d1d6.png" group-title="TV PORTUGAL",SPORT TV 1 FHD
+http://38.242.226.55:25461/12364789/123456789/1
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD" tvg-logo="http://38.242.226.55:25461/images/378ffd7fcc832f6db759dc971fe5d1d6.png" group-title="TV PORTUGAL",Sport TV 1 HD
+http://38.242.226.55:25461/12364789/123456789/2
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS | 1080p" tvg-logo="http://38.242.226.55:25461/images/c8cadc9b7274cb34237378c3d684228f.png" group-title="TV BRASIL",BAND SPORTS | 1080p
+http://38.242.226.55:25461/12364789/123456789/3
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 FHD" tvg-logo="http://38.242.226.55:25461/images/93c4b6d98f22daa666c587667c8fc9f8.png" group-title="TV PORTUGAL",SPORT TV 2 FHD
+http://38.242.226.55:25461/12364789/123456789/4
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/aecanalpng",A&E SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/204361
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/aecanalpng",A&E SD²
