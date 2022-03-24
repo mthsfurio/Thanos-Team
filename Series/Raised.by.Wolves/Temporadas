@@ -5,15 +5,31 @@
 
 <channel>
 <name>[B][COLOR white] 1ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/lunRXEz4Wun6oxg4mAsI8CctQ4a.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Big.Sky/Big.Sky01</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/fsdf44rTf9HG6kHtv9zeEdqt4eS.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após duas irmãs serem sequestradas por um caminhoneiro em uma estrada deserta, a detetive particular Cassie Dewell se junta à ex-policial Jenny Hoyt para investigar o caso. Quando elas descobrem que estas não são as únicas meninas que desapareceram na região.[/COLOR]
+<thumbnail>https://www.themoviedb.org/t/p/original/mTvSVKMn2Npf6zvYNbGMJnYLtvp.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Raised.by.Wolves/S01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/na2xUduK8HviOFT97TiFG2MkJmY.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Esta série foca-se em dois androides incumbidos de criar crianças humanas num planeta virgem. Quando a colónia ameaça ser dividida por diferenças religiosas, os androides descobrem que controlar as crenças dos humanos é uma tarefa difícil.[/COLOR]
 [COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Mistério[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Sci-Fi & Fantasy, Drama[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2020)[/COLOR] 
-[COLOR lime]Duração:[/COLOR][COLOR white] 43m[/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 50m[/COLOR]
 </info>
 </channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channel>
+<name>[B][COLOR white] 2ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/f6Xg4mTARZi2YDqAh3WwZuebcHO.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Raised.by.Wolves/S02</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/wAJQcqlZkLmtLFKohxMFrcEDUtw.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Depois de uma grande guerra religiosa devastar a Terra, dois androides tentam criar crianças humanas no misterioso planeta virgem Kepler-22b, uma tarefa difícil comprometida pela chegada de uma devota congregação de sobreviventes humanos.[/COLOR]
+[COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Sci-Fi & Fantasy, Drama[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2022)[/COLOR] 
+[COLOR lime]Duração:[/COLOR][COLOR white] 50m[/COLOR]
+</info>
+</channel>
+
 
 </channels>
