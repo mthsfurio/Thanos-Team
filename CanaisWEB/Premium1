@@ -5,35 +5,35 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1 tvg-id="Like.br" tvg-name="BBB - CAMERA 1 ALTERNATIVO" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB - CAMERA 1 ALTERNATIVO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/217810
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/217810
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 1 HD" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219158
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219158
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB 2 HD" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219159
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219159
 #EXTINF:-1 tvg-id="BBB.br" tvg-name="BBB MOSAICO" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB MOSAICO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219160
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219160
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 1" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219161
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219161
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 2" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219162
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219162
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 3" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219163
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219163
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 4" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219164
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219164
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 5" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219165
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219165
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 6" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219166
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219166
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 7" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219167
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219167
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 8" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 8
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219168
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219168
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 9" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 9
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219169
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219169
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 10" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219170
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219170
 #EXTINF:-1 tvg-id="" tvg-name="BBB CAMERA 11" tvg-logo="https://portalpopline.com.br/wp-content/uploads/2021/01/BBB21.jpg" group-title="CANAIS | CAMERAS BBB",BBB CAMERA 11
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;urlhttp://cdn.wisemod.click:80/silvia/silvia123/219171
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/219171
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/aecanalpng",A&E SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/204361
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/aecanalpng",A&E SD²
