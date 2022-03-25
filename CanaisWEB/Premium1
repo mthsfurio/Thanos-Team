@@ -4,7 +4,7 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="https://i.ibb.co/5Y0wC18/aelogo-removebg-preview.png" group-title="TV BRASIL",A&E SD
+#EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="https://i.ibb.co/5Y0wC18/aelogo-removebg-preview.png" group-title="TV BRASIL",A&E 
 http://38.242.226.55:25461/12345/12345/8
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/aecanalpng",A&E SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/204361
