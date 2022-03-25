@@ -4,7 +4,7 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="https://tinyurl.com/aecanalpng",A&E HD
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="https://tinyurl.com/aecanalpng",A&E 
 plugin://plugin.video.jetproxy/play/http://cdn.wisemod.click:80/live/silvia/silvia123/204360
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="https://tinyurl.com/aecanalpng",A&E HD²
 plugin://plugin.video.jetproxy/play/http://cdn.wisemod.click:80/live/silvia/silvia123/203501
