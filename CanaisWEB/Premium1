@@ -4,6 +4,10 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="https://tinyurl.com/aecanalpng",A&E HD
+plugin://plugin.video.jetproxy/play/http://cdn.wisemod.click:80/silvia/silvia123/204360
+#EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="https://tinyurl.com/aecanalpng",A&E HD²
+plugin://plugin.video.jetproxy/play/http://cdn.wisemod.click:80/silvia/silvia123/203501
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/aecanalpng",A&E SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://cdn.wisemod.click:80/silvia/silvia123/204361
 #EXTINF:-1 group-title="CANAIS | FILMES E SERIES" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=https://tinyurl.com/aecanalpng",A&E SD²
