@@ -4,44 +4,6 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News FullHD H264" tvg-logo="https://painelxc.site/logos/bbc.png" group-title="Canais Esportes",BBC World News FullHD H264
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/83492
-#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="https://painelxc.site/logos/bbc.png" group-title="Canais Esportes",BBC World News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/83493
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FullHD H264" tvg-logo="https://painelxc.site/logos/bis.png" group-title="Canais Variedades",BIS FullHD H264
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/85209
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FullHD H265" tvg-logo="https://painelxc.site/logos/bis.png" group-title="Canais Variedades",BIS FullHD H265
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/1241
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="https://painelxc.site/logos/bis.png" group-title="Canais Variedades",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/1242
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="https://painelxc.site/logos/bis.png" group-title="Canais Variedades",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/1243
-#EXTINF:-1 tvg-id="CampeonatoCarioca1" tvg-name="Campeonato Carioca 2022 (JOGO 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Carioca_2021_FERJ.jpg" group-title="Canais Esportes PPV",Campeonato Carioca 2022 (JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/89624
-#EXTINF:-1 tvg-id="CampeonatoCarioca2" tvg-name="Campeonato Carioca 2022 (JOGO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Carioca_2021_FERJ.jpg" group-title="Canais Esportes PPV",Campeonato Carioca 2022 (JOGO 2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/89625
-#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CAMPEONATO CATARINENSE (JOGO 1)" tvg-logo="http://fcf.com.br/wp-content/uploads/2021/09/SERIEC2021-300x300.png" group-title="Canais Esportes PPV",CAMPEONATO CATARINENSE (JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/46361
-#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="http://fcf.com.br/wp-content/uploads/2021/09/SERIEC2021-300x300.png" group-title="Canais Esportes PPV",CAMPEONATO CATARINENSE (JOGO2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/46360
-#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CAMPEONATO CATARINENSE (JOGO3)" tvg-logo="http://fcf.com.br/wp-content/uploads/2021/09/SERIEC2021-300x300.png" group-title="Canais Esportes PPV",CAMPEONATO CATARINENSE (JOGO3)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/46362
-#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CAMPEONATO CATARINENSE (JOGO4)" tvg-logo="http://fcf.com.br/wp-content/uploads/2021/09/SERIEC2021-300x300.png" group-title="Canais Esportes PPV",CAMPEONATO CATARINENSE (JOGO4)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/46363
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 2022 (JOGO 1)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2360.png" group-title="Canais Esportes PPV",Campeonato Mineiro 2022 (JOGO 1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/115626
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 2022 (JOGO 2)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2360.png" group-title="Canais Esportes PPV",Campeonato Mineiro 2022 (JOGO 2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/115627
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paraibano (Jogo 1)" tvg-logo="https://www.polemicaparaiba.com.br/wp-content/uploads/2022/01/maxresdefault-1024x576-1.jpg" group-title="Canais Esportes PPV",Campeonato Paraibano (Jogo 1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/116882
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 2022 (Jogo 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="Canais Esportes PPV",Campeonato Paranaense 2022 (Jogo 1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/115299
-#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 2022 (Jogo 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="Canais Esportes PPV",Campeonato Paranaense 2022 (Jogo 2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/115300
-#EXTINF:-1 tvg-id="CPSergipano" tvg-name="Campeonato Sergipano (Jogo 1)" tvg-logo="https://i.ytimg.com/vi/5p8WEuV1X2s/maxresdefault.jpg" group-title="Canais Esportes PPV",Campeonato Sergipano (Jogo 1)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/88479
-#EXTINF:-1 tvg-id="CPSergipano" tvg-name="Campeonato Sergipano (Jogo 2)" tvg-logo="https://i.ytimg.com/vi/5p8WEuV1X2s/maxresdefault.jpg" group-title="Canais Esportes PPV",Campeonato Sergipano (Jogo 2)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/88480
 #EXTINF:-1 tvg-id="CanalBrasil" tvg-name="Canal Brasil FullHD H264" tvg-logo="https://painelxc.site/logos/canalbrasil.png" group-title="Canais Filmes e Series",Canal Brasil FullHD H264
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/85210
 #EXTINF:-1 tvg-id="CanalBrasil" tvg-name="Canal Brasil FullHD H265" tvg-logo="https://painelxc.site/logos/canalbrasil.png" group-title="Canais Filmes e Series",Canal Brasil FullHD H265
@@ -118,6 +80,44 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/101781
 #EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional HD" tvg-logo="https://painelxc.site/logos/cnn.png" group-title="Canais Noticias",CNN Internacional HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/101780
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="BBC World News FullHD H264" tvg-logo="https://painelxc.site/logos/bbc.png" group-title="Canais Esportes",BBC World News FullHD H264
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/83492
+#EXTINF:-1 tvg-id="" tvg-name="BBC World News HD" tvg-logo="https://painelxc.site/logos/bbc.png" group-title="Canais Esportes",BBC World News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/83493
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FullHD H264" tvg-logo="https://painelxc.site/logos/bis.png" group-title="Canais Variedades",BIS FullHD H264
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/85209
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FullHD H265" tvg-logo="https://painelxc.site/logos/bis.png" group-title="Canais Variedades",BIS FullHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/1241
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="https://painelxc.site/logos/bis.png" group-title="Canais Variedades",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/1242
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="https://painelxc.site/logos/bis.png" group-title="Canais Variedades",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/1243
+#EXTINF:-1 tvg-id="CampeonatoCarioca1" tvg-name="Campeonato Carioca 2022 (JOGO 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Carioca_2021_FERJ.jpg" group-title="Canais Esportes PPV",Campeonato Carioca 2022 (JOGO 1)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/89624
+#EXTINF:-1 tvg-id="CampeonatoCarioca2" tvg-name="Campeonato Carioca 2022 (JOGO 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Carioca_2021_FERJ.jpg" group-title="Canais Esportes PPV",Campeonato Carioca 2022 (JOGO 2)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/89625
+#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CAMPEONATO CATARINENSE (JOGO 1)" tvg-logo="http://fcf.com.br/wp-content/uploads/2021/09/SERIEC2021-300x300.png" group-title="Canais Esportes PPV",CAMPEONATO CATARINENSE (JOGO 1)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/46361
+#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CAMPEONATO CATARINENSE (JOGO2)" tvg-logo="http://fcf.com.br/wp-content/uploads/2021/09/SERIEC2021-300x300.png" group-title="Canais Esportes PPV",CAMPEONATO CATARINENSE (JOGO2)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/46360
+#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CAMPEONATO CATARINENSE (JOGO3)" tvg-logo="http://fcf.com.br/wp-content/uploads/2021/09/SERIEC2021-300x300.png" group-title="Canais Esportes PPV",CAMPEONATO CATARINENSE (JOGO3)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/46362
+#EXTINF:-1 tvg-id="CPCatarinense" tvg-name="CAMPEONATO CATARINENSE (JOGO4)" tvg-logo="http://fcf.com.br/wp-content/uploads/2021/09/SERIEC2021-300x300.png" group-title="Canais Esportes PPV",CAMPEONATO CATARINENSE (JOGO4)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/46363
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 2022 (JOGO 1)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2360.png" group-title="Canais Esportes PPV",Campeonato Mineiro 2022 (JOGO 1)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/115626
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Mineiro 2022 (JOGO 2)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2360.png" group-title="Canais Esportes PPV",Campeonato Mineiro 2022 (JOGO 2)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/115627
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paraibano (Jogo 1)" tvg-logo="https://www.polemicaparaiba.com.br/wp-content/uploads/2022/01/maxresdefault-1024x576-1.jpg" group-title="Canais Esportes PPV",Campeonato Paraibano (Jogo 1)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/116882
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 2022 (Jogo 1)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="Canais Esportes PPV",Campeonato Paranaense 2022 (Jogo 1)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/115299
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paranaense 2022 (Jogo 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/ParanaenseFutebol.png" group-title="Canais Esportes PPV",Campeonato Paranaense 2022 (Jogo 2)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/115300
+#EXTINF:-1 tvg-id="CPSergipano" tvg-name="Campeonato Sergipano (Jogo 1)" tvg-logo="https://i.ytimg.com/vi/5p8WEuV1X2s/maxresdefault.jpg" group-title="Canais Esportes PPV",Campeonato Sergipano (Jogo 1)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/88479
+#EXTINF:-1 tvg-id="CPSergipano" tvg-name="Campeonato Sergipano (Jogo 2)" tvg-logo="https://i.ytimg.com/vi/5p8WEuV1X2s/maxresdefault.jpg" group-title="Canais Esportes PPV",Campeonato Sergipano (Jogo 2)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/88480
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate FullHD H264" tvg-logo="https://painelxc.site/logos/combate.png" group-title="Canais Esportes",Combate FullHD H264
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://ddns.phdtv.club:80/123456/123456/76982
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate FullHD H265" tvg-logo="https://painelxc.site/logos/combate.png" group-title="Canais Esportes",Combate FullHD H265
