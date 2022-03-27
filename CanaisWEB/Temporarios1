@@ -1,4 +1,10 @@
 <item>
+<title>[B][COLOR white]☆彡☆ﾐ☆彡BRASILﾐ☆ﾐ☆ﾐ☆[/COLOR][COLOR red]7Plus[/COLOR][/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[B]Globo  [/B]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=7Plus;&buffer=60000;url=http://45.224.115.214:8080/valter/valter/480|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR green]Globo HD RJ[/COLOR]</link>
 <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=7Plus;&buffer=60000;url=http://45.224.115.214:8080/valter/valter/484|User-Agent=Dalvik/2.1.0(Linux;U;Android 7.0;SM-T817TBuild/NRD90M)$nome= [COLOR yellow]Globo HD SP[/COLOR]</link>
