@@ -5,33 +5,6 @@
 
 <channels> 
 
-
-<channel>
-<name>[B][COLOR red]●::[/COLOR] [COLOR white] CANAIS TV | [COLOR red]7PLUS[/COLOR][/B]</name>
-<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/VIID6.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Categorias</externallink>
-<fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
-<info>[B][COLOR lime]● [/COLOR][COLOR crimson]Produção TV[/COLOR][COLOR lime] ●[/COLOR][/B]
-[COLOR red]■[/COLOR][COLOR lime] ON[/COLOR]
-[COLOR lime]Canais Temporários[/COLOR]   
-
-</info>
-</channel>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-    
-<channel>
-<name>[B][COLOR red]●::[/COLOR] [COLOR white] WWE NETWORK | [COLOR red]7PLUS[/COLOR][/B]</name>
-<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/wwe.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/WWE/WWE.NETWORK</externallink>
-<fanart>https://ia601405.us.archive.org/19/items/fanart_20210818/fanart.jpg</fanart>
-<info>[B][COLOR red]■[/COLOR][COLOR lime] SMACKDOWN, RAW, Premium.WWE [/COLOR][/B]
-[COLOR lime]A WWE Network é um serviço de streaming da WWE, que foi lançado em 24 de fevereiro de 2014.[/COLOR]    
-    
-</info>
-</channel>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<    
     
 <channel>
 <name>[B][COLOR red]●::[/COLOR] [COLOR white] FILMES 2022 | [COLOR red]7PLUS[/COLOR][/B]</name>
