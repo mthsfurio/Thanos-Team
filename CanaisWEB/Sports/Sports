@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="-------- www.iran-iptv.com --------" tvg-logo="" group-title="Sport",-------- www.iran-iptv.com --------
+#EXTINF:-1 tvg-id="" tvg-name="-------- 7PLUS --------" tvg-logo="" group-title="Sport",-------- 7PLUS --------
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/896
 #EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐⭐⭐  Sport  ⭐⭐⭐⭐⭐" tvg-logo="" group-title="Sport",⭐⭐⭐⭐⭐  Sport  ⭐⭐⭐⭐⭐
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/548
