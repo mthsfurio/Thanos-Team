@@ -4,7 +4,7 @@ http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/89
 #EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐⭐⭐  Sport  ⭐⭐⭐⭐⭐" tvg-logo="" group-title="Sport",⭐⭐⭐⭐⭐  Sport  ⭐⭐⭐⭐⭐
 http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/54
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT NEWS" tvg-logo="" group-title="Sport",UK: SKY SPORT NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://s1.niacam.net:24621/live/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/699.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=7Plus;&buffer=60000;url=http://s1.niacam.net:24621/live/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/699.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORT PREMIER LEAGUE" tvg-logo="" group-title="Sport",UK: SKY SPORT PREMIER LEAGUE
 http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/408
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKYS PORTS FOOTBALL" tvg-logo="" group-title="Sport",UK: SKYS PORTS FOOTBALL
