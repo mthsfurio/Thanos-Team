@@ -1,3 +1,8 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-------- 7Plus --------" tvg-logo="" group-title="Globo",-------- 7Plus --------
+http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/89
+#EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐⭐⭐  Globo  ⭐⭐⭐⭐⭐" tvg-logo="" group-title="Globo",⭐⭐⭐⭐⭐  Globo  ⭐⭐⭐⭐⭐
+http://s1.niacam.net:24621/1sovficdyoscx9v5x1d9v/pKV2dhjWCL/54
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131151.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia HD
