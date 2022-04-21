@@ -1,0 +1,188 @@
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131151.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131164.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Brasilia SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131116.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131210.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Ribeirao Preto SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131202.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131141.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sao Carlos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131129.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo EPTV Sul de Minas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131201.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Cabugi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131186.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV dos Vales FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131143.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131115.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Inter TV Grande Minas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131114.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Notícias",Globo News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131112.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Blumenau SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131192.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Centro Oeste FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135432.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Centro Oeste HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135433.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Centro Oeste SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135434.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Chapeco SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131190.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Criciuma FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135426.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Criciuma HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135427.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Criciuma SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135428.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo NSC TV Florianopolis SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131144.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131160.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Caxias do Sul SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131130.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Passo Fundo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133064.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Passo Fundo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133065.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Passo Fundo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133066.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131121.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Pelotas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131207.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131102.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Porto Alegre SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131198.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Santa Maria FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135423.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Santa Maria HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135424.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RBS TV Santa Maria SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135425.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Amapa SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133057.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Porto Velho SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131184.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Amazonica Rio Branco SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131111.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo Rede Bahia HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131123.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131163.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131182.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Cascavel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133059.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Cascavel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133060.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Londrina FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133061.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Londrina HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133062.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Londrina SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133063.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC Paranavai SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131197.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Curitiba SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131127.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Foz do Iguacu SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131206.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131101.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Maringa SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131125.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131133.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RPC TV Ponta Grossa SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131189.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131215.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131212.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Anhanguera SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131124.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Asa Branca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131180.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131146.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131110.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Cabo Branco SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131179.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131105.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Clube Teresina SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131196.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Diario Mogi das Cruzes FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131100.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Fronteira Presidente Prudente SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131177.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131158.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131214.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Alagoas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131142.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Gazeta Vitoria SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131175.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131126.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Araxa SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131140.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Integracao Juiz de Fora SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131106.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131103.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Mirante Sao Luis SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131195.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Morena HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131169.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Rio Sul HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131128.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135420.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135421.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Santa Cruz SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/135422.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131156.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Sergipe SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131139.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133067.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133068.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Subae SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/133069.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Bauru SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131120.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131155.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sao Jose do Rio Preto SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131205.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV TEM Sorocaba SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131194.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131135.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131165.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Tribuna Santos SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131109.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda S.J dos Campos HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/144027.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Vanguarda Taubate SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131187.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131161.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo TV Verdes Mares SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131137.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Canais | Infantis",Gloob FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://b5.vc:80/Jhonleno/102030/131153.ts
