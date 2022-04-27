@@ -5,15 +5,30 @@
 
 <channel>
 <name>[B][COLOR white] 1ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/lunRXEz4Wun6oxg4mAsI8CctQ4a.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Big.Sky/Big.Sky01</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/fsdf44rTf9HG6kHtv9zeEdqt4eS.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Após duas irmãs serem sequestradas por um caminhoneiro em uma estrada deserta, a detetive particular Cassie Dewell se junta à ex-policial Jenny Hoyt para investigar o caso. Quando elas descobrem que estas não são as únicas meninas que desapareceram na região.[/COLOR]
+<thumbnail>https://www.themoviedb.org/t/p/original/1LRLLWGvs5sZdTzuMqLEahb88Pc.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Ragnarok/S01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/wu444tM9YBllq9UcBv5TeidO3j3.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.[/COLOR]
 [COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Crime, Drama, Mistério[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Sci-Fi & Fantasy, Drama, Mistério[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2020)[/COLOR] 
-[COLOR lime]Duração:[/COLOR][COLOR white] 43m[/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 45m[/COLOR]
 </info>
 </channel>
+
+
+<channel>
+<name>[B][COLOR white] 2ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/sCxlRFcnQaQjlFmGq2ekgGi0Hf9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Ragnarok/S02</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/gujmCE4bovMgvNpTcMJBk5v2TBN.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Em uma cidade norueguesa envenenada pela poluição e abalada por geleiras derretendo, o fim dos tempos parece real. Só uma lenda poderá combater um mal antigo.[/COLOR]
+[COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Sci-Fi & Fantasy, Drama, Mistério[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021)[/COLOR] 
+[COLOR lime]Duração:[/COLOR][COLOR white] 45m[/COLOR]
+</info>
+</channel>
+
 
 </channels>
