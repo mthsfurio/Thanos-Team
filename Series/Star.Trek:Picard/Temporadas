@@ -5,14 +5,29 @@
 
 <channel>
 <name>[B][COLOR white] 1ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/8Qcjj6WikAVPGoRjrV1oMYcEcGw.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Bel-Air/S01</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/ryKwzabvR9RdoDnX6OqMeSNQRjw.jpg</fanart>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]A série acompanha a jornada complicada de Will desde as ruas da zona oeste de Filadélfia às mansões de Bel-Air, em Los Angeles. Com uma visão reinventada, a nova história é um drama e promete mergulhar mais profundamente nos conflitos, emoções e preconceitos.[/COLOR]
+<thumbnail>https://www.themoviedb.org/t/p/original/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Star.Trek%3APicard/S01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/mK286PAkhgLJqk5cO0BCmFLkNE7.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Jean-Luc Picard, ex-capitão da nave estelar Enterprise, é retirado à força da aposentadoria para ajudar uma jovem que é perseguida por assassinos.[/COLOR]
 [COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Drama[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Sci-Fi & Fantasy, Action & Adventure[/COLOR]
+[COLOR lime]Ano:[/COLOR][COLOR white] (2021)[/COLOR] 
+[COLOR lime]Duração:[/COLOR][COLOR white] 44m[/COLOR]
+</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channel>
+<name>[B][COLOR white] 2ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Star.Trek%3APicard/S02</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/7PTGaLjI13cywauUih6UF4aMNid.jpg</fanart>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Jean-Luc Picard, ex-capitão da nave estelar Enterprise, é retirado à força da aposentadoria para ajudar uma jovem que é perseguida por assassinos.[/COLOR]
+[COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Sci-Fi & Fantasy, Action & Adventure[/COLOR]
 [COLOR lime]Ano:[/COLOR][COLOR white] (2022)[/COLOR] 
-[COLOR lime]Duração:[/COLOR][COLOR white] 51m[/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 44m[/COLOR]
 </info>
 </channel>
 
