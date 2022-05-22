@@ -5,27 +5,27 @@ http://iptvtree.net:8080/F11368/c81b8877/
 http://iptvtree.net:8080/F11368/c817/8816
 #EXTM3U
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E FHD" tvg-logo="http://falko.myddns.me/Logos/Filmes%20e%20Series/220.png" group-title="Canais | FILMES E SÉRIES ",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/20253
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/20253.ts
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E HD" tvg-logo="http://falko.myddns.me/Logos/Filmes%20e%20Series/220.png" group-title="Canais | FILMES E SÉRIES ",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/236
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/236.ts
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E SD" tvg-logo="http://falko.myddns.me/Logos/Filmes%20e%20Series/220.png" group-title="Canais | FILMES E SÉRIES ",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/235
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/235.ts
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AgroMais HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/48331
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/48331.ts
 #EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AgroMais SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/48332
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/48332.ts
 #EXTINF:-1 tvg-id="AMCBrasil.br" tvg-name="AMC HD" tvg-logo="http://falko.myddns.me/Logos/H265/26.png" group-title="Canais | FILMES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/512
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/512.ts
 #EXTINF:-1 tvg-id="AMCBrasil.br" tvg-name="AMC SD" tvg-logo="http://falko.myddns.me/Logos/H265/26.png" group-title="Canais | FILMES",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/233
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/233.ts
 #EXTINF:-1 tvg-id="AnimalPlanetBrasil.br" tvg-name="Animal Planet FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/20257
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/20257.ts
 #EXTINF:-1 tvg-id="AnimalPlanetBrasil.br" tvg-name="Animal Planet HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/232
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/232.ts
 #EXTINF:-1 tvg-id="AnimalPlanetBrasil.br" tvg-name="Animal Planet SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/231
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/231.ts
 #EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN FHD" tvg-logo="http://falko.myddns.me/Logos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/20234
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/20234.ts
 #EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN HD" tvg-logo="http://falko.myddns.me/Logos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/535
 #EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN SD" tvg-logo="http://falko.myddns.me/Logos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN SD
