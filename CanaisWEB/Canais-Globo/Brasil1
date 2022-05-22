@@ -27,13 +27,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http
 #EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN FHD" tvg-logo="http://falko.myddns.me/Logos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/20234.ts
 #EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN HD" tvg-logo="http://falko.myddns.me/Logos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/535
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/535.m3u8
 #EXTINF:-1 tvg-id="AXNBrazil.us" tvg-name="AXN SD" tvg-logo="http://falko.myddns.me/Logos/H265/27.png" group-title="Canais | FILMES E SÉRIES ",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/227
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/227.m3u8
 #EXTINF:-1 tvg-id="BabyTVBrazil.br" tvg-name="BabyTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/babytv.png" group-title="Canais | INFANTIL",BabyTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/226
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/226.m3u8
 #EXTINF:-1 tvg-id="BabyTVBrazil.br" tvg-name="BabyTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/babytv.png" group-title="Canais | INFANTIL",BabyTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/225
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/225.m3u8
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas HD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band Campinas HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=7Plus&amp;url=http://51.89.98.62:8080/live/lenira/12345678/242
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas SD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band Campinas SD
