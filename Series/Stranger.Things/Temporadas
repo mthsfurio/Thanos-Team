@@ -5,16 +5,66 @@
 
 <channel>
 <name>[B][COLOR white] 1ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
-<thumbnail>https://www.themoviedb.org/t/p/original/v43ERAGCtSYBGHkLvG2rTi53BCl.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/42.Days.of.Darkness/S01</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/e47hkgnEGOGA0n4TRSf67T2QaTH.jpg</fanart>
-<genre>Drama, Mistério</genre>
-<year>2022</year>
-<aired>2022/05/15</aired>
-<duration>45</duration>
-<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Quando Verônica desaparece, sua irmã corre contra o tempo para encontrá-la, lutando contra a negligência das autoridades, os preconceitos da sociedade e os abusos da mídia.[/COLOR]
+<thumbnail>https://www.themoviedb.org/t/p/original/uKYUR8GPkKRCksczYDJb3pwZauo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Stranger.Things/S01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/x93QzAgtHeRGgfK51Jh6URClBG8.jpg</fanart>
+<genre>Drama, Mistério, Sci-Fi & Fantasy</genre>
+<year>2016</year>
+<aired>2022/05/27</aired>
+<duration>50</duration>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Coisas estranhas acontecem em Hawkins, Indiana, onde o desaparecimento súbito de um rapaz revela uma jovem rapariga com poderes do outro mundo.[/COLOR]
 [COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
-[COLOR lime]Género:[/COLOR][COLOR white] Drama, Mistério[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Mistério, Sci-Fi & Fantasy[/COLOR]
+ 
+</info>
+</channel>
+
+
+<channel>
+<name>[B][COLOR white] 2ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/lXS60geme1LlEob5Wgvj3KilClA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Stranger.Things/S01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg</fanart>
+<genre>Drama, Mistério, Sci-Fi & Fantasy</genre>
+<year>2017</year>
+<aired>2022/05/27</aired>
+<duration>50</duration>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Passou quase um ano desde o estranho desaparecimento de Will. Mas a vida em Hawkins não voltou à normalidade. Nem sombra disso.[/COLOR]
+[COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Mistério, Sci-Fi & Fantasy[/COLOR]
+ 
+</info>
+</channel>
+
+
+<channel>
+<name>[B][COLOR white] 3ª Temporada [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Stranger.Things/S01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/ekLmP9wccC47PC83eJuklEy0twf.jpg</fanart>
+<genre>Drama, Mistério, Sci-Fi & Fantasy</genre>
+<year>2019</year>
+<aired>2022/05/27</aired>
+<duration>50</duration>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Hawkins é a prova de que um verão pode mudar tudo: entre romances e o novo centro comercial, a cidade passa por grandes modificações na estação quente de 1985.[/COLOR]
+[COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Mistério, Sci-Fi & Fantasy[/COLOR]
+ 
+</info>
+</channel>
+
+<channel>
+<name>[B][COLOR white] 4ª Temporada PART-1 [/COLOR][COLOR red]7PLUS[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Stranger.Things/S01</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/ekLmP9wccC47PC83eJuklEy0twf.jpg</fanart>
+<genre>Drama, Mistério, Sci-Fi & Fantasy</genre>
+<year>2022</year>
+<aired>2022/05/27</aired>
+<duration>50</duration>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]É 1985 em Hawkins, Indiana. O verão está mais quente do que nunca, e um novo shopping foi inaugurado na cidade. O grupo de protagonistas estão a beira da adolescência, e pequenos romances complicam sua dinâmica.[/COLOR]
+[COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR][COLOR lime]««[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Drama, Mistério, Sci-Fi & Fantasy[/COLOR]
  
 </info>
 </channel>
