@@ -5,7 +5,7 @@ http://iptvtree.net:8080/F11368/c81b
 #EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐⭐⭐  Brasil  ⭐⭐⭐⭐⭐" tvg-logo="" group-title="Brasil",⭐⭐⭐⭐⭐  Brasil  ⭐⭐⭐⭐⭐
 http://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/4737
 #EXTINF:-1 tvg-id="" tvg-name="BR: A&E" tvg-logo="" group-title="Brasil",BR: A&E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR red]7Plus[/COLOR]&Buffer=20191129153332&url=http://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/4738
+plugin://plugin.video.jetproxy/playhttp://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/4738
 #EXTINF:-1 tvg-id="" tvg-name="BR: AGRO BRASIL SD" tvg-logo="" group-title="Brasil",BR: AGRO BRASIL SD
 http://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/4739
 #EXTINF:-1 tvg-id="" tvg-name="BR: AMC" tvg-logo="" group-title="Brasil",BR: AMC
