@@ -5,8 +5,6 @@ http://iptvtree.net:8080/F11368/c81b
 #EXTINF:-1 tvg-id="" tvg-name="⭐⭐⭐⭐⭐  Brasil  ⭐⭐⭐⭐⭐" tvg-logo="" group-title="Brasil",⭐⭐⭐⭐⭐  Brasil  ⭐⭐⭐⭐⭐
 http://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/4737
 #EXTM3U
-#EXTINF:-1 ,RedeTV! TV Pantanal (MT)
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 ,KpopTV Play
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 ,XTreme
