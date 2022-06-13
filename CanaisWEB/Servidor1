@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="++++++++++++ 7Plus ++++++++++++" tvg-logo="" group-title="Globo",++++++++++++ 7Plus ++++++++++++
+#EXTINF:-1 tvg-id="" tvg-name="[B]++++++++++++ 7Plus ++++++++++++[/B]" tvg-logo="" group-title="Globo",[B]++++++++++++ 7Plus ++++++++++++[/B]
 http://iptvtree.net:8080/F11368/c81
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="++++++++++++  Brasil  ++++++++++++" tvg-logo="" group-title="Brasil",++++++++++++  Brasil  ++++++++++++
+#EXTINF:-1 tvg-id="" tvg-name="[B]++++++++++++  Brasil  ++++++++++++[/B]" tvg-logo="" group-title="Brasil",[B]++++++++++++  Brasil  ++++++++++++[/B]
 http://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/473
 #EXTM3U
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E" tvg-logo="https://logos.melhor.me/aee.png" group-title="Canais | Filmes e Séries",A&E
