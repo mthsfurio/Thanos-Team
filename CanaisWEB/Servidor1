@@ -8,7 +8,7 @@ http://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/473
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E" tvg-logo="https://logos.melhor.me/aee.png" group-title="Canais | Filmes e Séries",A&E
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/18.m3u8
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E FHD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Full HD",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/58290
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/58290.ts
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E HD" tvg-logo="https://logos.melhor.me/aee.png" group-title="Canais | Filmes e Séries",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/17
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E [H265]" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265",A&E [H265]
