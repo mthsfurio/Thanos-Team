@@ -6,4 +6,22 @@ http://iptvtree.net:8080/5874368/c81
 http://niaip.xyz:24621/2ievx74c28h6e49qh/TeY48k92zv/473
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | 4K [FHDR]",A&E 4K FHDR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/90647.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/90647.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/71761.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/71762.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/71763.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | 4K [FHDR]",AgroMais 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/103532.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/71764.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais FHD [H265]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/live/kley4598/widekley/71765.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/71766.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",AgroMais SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/71767.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | 4K [FHDR]",AMC 4K FHDR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://b5.vc:80/live/kley4598/widekley/90646.ts
