@@ -87,14 +87,10 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvse
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/33.m3u8
 #EXTINF:-1 tvg-id="BandSports.br" tvg-name="BandSports HD" tvg-logo="http://i.imgur.com/zR3osZs.png" group-title="Canais | Esportes",BandSports HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caverna do Dragão" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Canais | 24 Horas",Caverna do Dragão
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/57611.m3u8
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/57535.m3u8
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="Canais | Variedades",BIS HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/57536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Um Maluco No Pedaço" tvg-logo="https://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Canais | 24 Horas",Um Maluco No Pedaço
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/598.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirão Série C 1" tvg-logo="https://i.imgur.com/b5itI27.png" group-title="Canais | Esportes",Brasileirão Série C 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/live/cleonice10/10308090/58273.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirão Série C 2" tvg-logo="https://i.imgur.com/b5itI27.png" group-title="Canais | Esportes",Brasileirão Série C 2
