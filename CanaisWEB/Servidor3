@@ -4,3 +4,66 @@ http://iptvtree.net:8080/5874368/c81
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="[B]++++++++++++  Brasil  ++++++++++++[/B]" tvg-logo="" group-title="Brasil",[B]++++++++++++  Brasil  ++++++++++++[/B]
 http://niaip.xyz:24621/2ievx74c28h6e49qh/TeY48k92zv/473
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Globo News FHD" tvg-logo="http://a5.vc/Xmr" group-title="",Globo News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band News FHD" tvg-logo="http://a5.vc/eJG" group-title="",Band News FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV FHD" tvg-logo="http://a5.vc/NuR" group-title="",RedeTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT SP FHD" tvg-logo="http://a5.vc/FVo" group-title="",SBT SP FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel FHD" tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="",Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD" tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD" tvg-logo="http://a5.vc/Ts9" group-title="",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10- Cabo Frio" tvg-logo="http://a5.vc/77e" group-title="",Canal 10- Cabo Frio
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD" tvg-logo="http://a5.vc/Oj9" group-title="",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action FHD" tvg-logo="http://a5.vc/BsL" group-title="",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult FHD" tvg-logo="http://a5.vc/DZP" group-title="",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun FHD" tvg-logo="http://a5.vc/TLE" group-title="",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca FHD" tvg-logo="http://a5.vc/mOL" group-title="",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium FHD" tvg-logo="http://a5.vc/N8x" group-title="",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch FHD" tvg-logo="http://a5.vc/rBW" group-title="",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD" tvg-logo="http://a5.vc/Flm" group-title="",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD" tvg-logo="http://a5.vc/8lJ" group-title="",ESPN 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="http://a5.vc/KCw" group-title="",ESPN 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="http://a5.vc/8lJ" group-title="",ESPN 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="http://a5.vc/55i" group-title="",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="",Conmebol TV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="",Conmebol TV 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="",Conmebol TV 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="",Conmebol TV 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10125.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="http://a5.vc/77e" group-title="",Premiere 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10126.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="http://a5.vc/77e" group-title="",Premiere 3 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="http://a5.vc/77e" group-title="",Premiere 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10128.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="http://a5.vc/77e" group-title="",Premiere 5 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10129.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://a5.vc/77e" group-title="",Premiere 6 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="http://a5.vc/77e" group-title="",Premiere 7 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes FHD" tvg-logo="http://a5.vc/77e" group-title="",Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/10132.m3u8
