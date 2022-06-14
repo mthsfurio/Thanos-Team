@@ -11,10 +11,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://asbx.
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://asbx.xyz:80/Fabricio1234/Fabricio1234/62651
 #EXTINF:-1 tvg-id="A&E FHD" tvg-name="A&E HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/ae.png" group-title="FILMES & SÉRIES",A&E HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://asbx.xyz:80/Fabricio1234/Fabricio1234/62652
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Arabic HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/al-jazeera-500x288.png" group-title="VARIEDADES",Al Jazeera Arabic HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://asbx.xyz:80/Fabricio1234/Fabricio1234/62653
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/al-jazeera-500x288.png" group-title="VARIEDADES",Al Jazeera English HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://asbx.xyz:80/Fabricio1234/Fabricio1234/62654
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES & SÉRIES",AMC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://asbx.xyz:80/Fabricio1234/Fabricio1234/62655
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/amc.png" group-title="FILMES & SÉRIES",AMC FHD
