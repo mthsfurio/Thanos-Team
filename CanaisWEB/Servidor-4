@@ -6,9 +6,9 @@ http://iptvtree.net:8080/F11368/c81
 http://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/473
 #EXTM3U
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="CANAIS || FILMES & SERIES",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://fastuhd.tech:80/1edesio2020/1edesio101212a/623210
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://fastuhd.tech:80/live/1edesio2020/1edesio101212a/623210
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="CANAIS || FILMES & SERIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://fastuhd.tech:80/1edesio2020/1edesio101212a/628013
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://fastuhd.tech:80/live/1edesio2020/1edesio101212a/628013
 #EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="https://i.ibb.co/9qdJ6cx/AE.png" group-title="CANAIS || FILMES & SERIES",A&E SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://fastuhd.tech:80/1edesio2020/1edesio101212a/622743
 #EXTINF:-1 tvg-id="agromais.br" tvg-name="AMAZON PRIME 1 " tvg-logo="https://i.ibb.co/ykWXHf4/LOGO-PRIME-VIDEO.png" group-title="CANAIS || PPV ESPORTES",AMAZON PRIME 1 
