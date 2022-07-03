@@ -2,7 +2,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] TV WEB| [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/TVweb.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E7%94%B5%E8%A7%86-TV/BaseTV.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Base.web</externallink>
 		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
 [B][COLOR lime]●[/COLOR][COLOR orange]]Canais Temporários[/COLOR][/B]
@@ -15,7 +15,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] 4K | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/F4K.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/UHD/4K.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/4K/4k</externallink>
 		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 18/06/2022[/COLOR][/B]
@@ -28,7 +28,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES 2022 | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/F2022.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E5%8F%91%E5%B0%8422/2022.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Lancamentos22/2022</externallink>
 		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 17/05/2022[/COLOR][/B]
@@ -43,7 +43,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES 2021 | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/F2021.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E7%94%B5%E5%BD%B1-21/2021</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Filmes-21/2021</externallink>
 		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 15/06/2022[/COLOR][/B]
@@ -57,7 +57,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/F2020.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E7%94%B5%E5%BD%B1%E5%B9%B480/80.90.20</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Filmes/2020</externallink>
 		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 15/06/2022[/COLOR][/B]
@@ -69,7 +69,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES MARVEL/DC | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/MARVE-DC.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E9%A9%AC%E7%BB%B4%E5%B0%94-DC/MV-DC.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Marvel_DC/Marvel-DC</externallink>
 		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
 
@@ -94,7 +94,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/Animacao.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%D0%90%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F/desenhos.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Animacao/Animacao</externallink>
 		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 28/05/2022[/COLOR][/B]
@@ -108,7 +108,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] MUSIC  | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/MUSIC.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Paulo1964/xe1569844wvb/main/%E9%9F%B3%E4%B9%90-Music/vidMus.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Music/MusicVideo</externallink>
 		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 18/06/2022[/COLOR][/B]
