@@ -28,10 +28,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.c
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/140815
 #EXTINF:-1 tvg-id="Agro +" tvg-name="Agro+ SD" tvg-logo="https://i.imgur.com/5UU8Ilm.png" group-title="Canais | Abertos",Agro+ SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/162556
-#EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires e Seu Jorge [Live Irmãos]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Alexandre Pires e Seu Jorge [Live Irmãos]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/136185
-#EXTINF:-1 tvg-id="" tvg-name="Alexandre Pires [Live do Nego Véio]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Alexandre Pires [Live do Nego Véio]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/136186
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="Canais | Filmes e Séries",AMC FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/136797
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD [Alt]" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="Canais | Filmes e Séries",AMC FHD [Alt]
@@ -58,8 +54,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.c
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/147435
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD" tvg-logo="https://i.imgur.com/GCdfTj9.png" group-title="Canais | Documentários",Animal Planet SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/83523
-#EXTINF:-1 tvg-id="" tvg-name="Anos 2000" tvg-logo="https://i.imgur.com/CnB6s3M.png" group-title="Rádios",Anos 2000
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/141040
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 FHD" tvg-logo="https://i.imgur.com/OE3PHUN.png" group-title=" Canais | Variedades",Arte 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/147358
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 FHD [Alt]" tvg-logo="https://i.imgur.com/OE3PHUN.png" group-title=" Canais | Variedades",Arte 1 FHD [Alt]
@@ -84,8 +78,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.c
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/147439
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="Canais | Filmes e Séries",AXN SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/83524
-#EXTINF:-1 tvg-id="" tvg-name="B&M + Wesley Safadão [Live 19-09-2020]" tvg-logo="https://i.imgur.com/4EvcN4d.jpg" group-title="24 Horas | Lives/Shows",B&M + Wesley Safadão [Live 19-09-2020]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/133622
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV HD" tvg-logo="https://i.imgur.com/gF0FhxP.png" group-title="Canais | Infantil",Baby TV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/162947
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND 4K" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="Canais | 4K - H265",BAND 4K
@@ -142,8 +134,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.c
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/147447
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports SD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | Esportes",BAND Sports SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/83529
-#EXTINF:-1 tvg-id="" tvg-name="Batman - Trilogia" tvg-logo="https://i.imgur.com/sZllTYP.png" group-title="24 Horas | Premium",Batman - Trilogia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/133415
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title=" Canais | Variedades",BIS FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/147363
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD [Alt]" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title=" Canais | Variedades",BIS FHD [Alt]
@@ -156,16 +146,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.c
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/147450
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title=" Canais | Variedades",BIS SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/83530
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 16-05-2020]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="24 Horas | Lives/Shows",Bruno e Marrone [Live 16-05-2020]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/133620
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 3 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="24 Horas | Lives/Shows",Bruno e Marrone [Live 3 sem propagandas]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/133624
-#EXTINF:-1 tvg-id="" tvg-name="Bruno e Marrone [Live 4 sem propagandas]" tvg-logo="https://i.imgur.com/SBhIN5W.jpg" group-title="24 Horas | Lives/Shows",Bruno e Marrone [Live 4 sem propagandas]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/133621
-#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Cachaça Cabaré 3 [Leonardo, Gusttavo Lima, Xand e Raí Saia Rodada]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/156621
-#EXTINF:-1 tvg-id="" tvg-name="Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Cachaça Cabaré [Jorge e Mateus, Leonardo e Bruno e Marrone]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/136196
 #EXTINF:-1 tvg-id="Canal 26" tvg-name="Canal 26 Argentina HD" tvg-logo="https://i.imgur.com/pWtp6gn.png" group-title="Canais | Notícias",Canal 26 Argentina HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/70449
 #EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais | Filmes e Séries",Canal Brasil FHD
