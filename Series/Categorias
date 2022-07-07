@@ -1,10 +1,30 @@
 <layouttype>thumbnail</layouttype>
 
-
+https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Money.Heist.Korea/Temporadas
 <channels>
 
+
 <channel>
-<name>[B][COLOR white] Man Vs Bee 1ª Temporada [/COLOR][COLOR orange](2021)[/COLOR][/B]</name>
+<name>[B][COLOR white] Money Heist: Korea - Joint Economic Area 1ª Temporada [/COLOR][COLOR orange](2022)[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/original/mbsRGqJtdKcVbjQxkrfzKCAkYoU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Money.Heist.Korea/Temporadas</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/dRkDaenXcNrPHqH4odMaynYXmmi.jpg</fanart>
+<genre>Action & Adventure, Crime, Drama, Mistério</genre>
+<year>2022</year>
+<aired>2022/07/07</aired>
+<info>[COLOR lime]Sinopse:[/COLOR] [COLOR white]Ladrões tomam de assalto a Casa da Moeda da Coreia unificada e fazem vários reféns. A polícia tem de os deter, bem como o cérebro misterioso por detrás da operação.[/COLOR]
+[COLOR lime]»»[/COLOR][COLOR white] Legendado [/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 10m[/COLOR]
+[COLOR lime]Género:[/COLOR][COLOR white] Action & Adventure, Crime, Drama, Mistério[/COLOR]
+[COLOR lime]Temporadas:[/COLOR][COLOR white] 1ª[/COLOR]
+ 
+</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channel>
+<name>[B][COLOR white] Man Vs Bee 1ª Temporada [/COLOR][COLOR orange](2022)[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/c80mxgOPvSWJBcgWoI5bf3et5Ws.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Man.Vs.Bee/Temporadas</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/oFm97FvIcVJqnhHgciUKhuP4xzn.jpg</fanart>
