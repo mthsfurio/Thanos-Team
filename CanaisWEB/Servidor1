@@ -6,7 +6,7 @@ http://iptvtree.net:8080/F11368/c81
 http://niaip.xyz:24621/2ievx74c28h6e4qx39qh/TeY48k92zv/473
 #EXTM3U
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E" tvg-logo="https://logos.melhor.me/aee.png" group-title="Canais | Filmes e Séries",A&E
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/cleonice10/10308090/18
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://srv.cldplay.in:80/ariel2022/2022ariel/139100
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E FHD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Canais | Full HD",A&E FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://lzvserver.xyz:80/cleonice10/10308090/58290
 #EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="A&E HD" tvg-logo="https://logos.melhor.me/aee.png" group-title="Canais | Filmes e Séries",A&E HD
