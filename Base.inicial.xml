@@ -2,6 +2,19 @@
 
 
 	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] teste| [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/TVweb.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/CanaisWEB/Base.web</externallink>
+		<fanart>http://maximus44.antaeus.feralhosting.com/media/colored/KODI2023.jpg</fanart>
+		<info>
+[B][COLOR lime]●[/COLOR][COLOR orange]]Canais Temporários[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]### ON ### Canais-Brasil[/COLOR]
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------	
+	
+	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] 4K | [COLOR red]7PLUS[/COLOR][/B]</name>
 		<thumbnail>http://maximus44.antaeus.feralhosting.com/media/AddomKODI/F4K.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/4K/4k</externallink>
