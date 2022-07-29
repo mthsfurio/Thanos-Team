@@ -1319,8 +1319,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://hubby
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://hubby.fun:80/maximus20/9cmJQsqgli/8001
 #EXTINF:-1 tvg-id="" tvg-name="24H Chapolin Colorado" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Fonte | 24h",24H Chapolin Colorado
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://hubby.fun:80/maximus20/9cmJQsqgli/8002
-#EXTINF:-1 tvg-id="" tvg-name="24H Eu, a Patroa e as Crianças" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Fonte | 24h",24H Eu, a Patroa e as Crianças
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://hubby.fun:80/maximus20/9cmJQsqgli/8003
 #EXTINF:-1 tvg-id="" tvg-name="24H Dois Homens e Meio" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Fonte | 24h",24H Dois Homens e Meio
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://hubby.fun:80/maximus20/9cmJQsqgli/8004
 #EXTINF:-1 tvg-id="" tvg-name="24H Friends" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Fonte | 24h",24H Friends
