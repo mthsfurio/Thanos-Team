@@ -88,6 +88,20 @@
 [COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
 </info>
 	</channel>	
+
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] COLEÇÃO FILMES  | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/MUSIC.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/MusicVideo/DVD.xml</externallink>
+		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
+</info>
+	</channel>
+	
+	
 	
 	
 </channels>
