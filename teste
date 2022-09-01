@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡PORTUGALﾐ☆彡☆ﾐ☆" tvg-logo="https://i.imgur.com/zzI6yPG.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡PORTUGALﾐ☆彡☆ﾐ☆
-http://
-#EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTP 1 FHD" tvg-logo="https://www.themoviedb.org/t/p/original/dzDEob3PyiGY25TxmeDx1yfifEP.jpg" group-title="PORTUGAL",A Day to Die (2022)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=7Plus&url=http://napalm64.aigaion.feralhosting.com/media/Filmes22/A.Day.to.Die.2022.mp4
