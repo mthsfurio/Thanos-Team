@@ -3,7 +3,7 @@
 
 
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/Lancamentos.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Lancamentos/Inicio</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
@@ -17,7 +17,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/FILMES.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Filmes/Filme-ano.xml</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
@@ -29,7 +29,7 @@
 		
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES MARVEL/DC | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES MARVEL/DC | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/MARVEL.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Marvel-DC/MarvelDC.xml</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
@@ -42,7 +42,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] SERIES | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] SERIES | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/SERIES.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Categorias</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
@@ -54,7 +54,7 @@
 	
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/ANIMACAO.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Animacao/Animacao.xml</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
@@ -66,7 +66,7 @@
 	
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] MUSIC  | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] MUSIC  | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/MUSIC.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/MusicVideo/DVD.xml</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
@@ -78,7 +78,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES COLEÇÃO | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES COLEÇÃO | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/COLECAO.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Trilogia-Filmes/Filmes.xml</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
@@ -90,7 +90,7 @@
 	
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES ANTIGOS | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES ANTIGOS | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/ANTIGOS.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Trilogia-Filmes/Filmes.xml</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
