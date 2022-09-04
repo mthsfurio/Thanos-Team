@@ -4,7 +4,7 @@
 
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR red]7PLUS[/COLOR][/B]</name>
-		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/Lancamentos.png</thumbnail>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/Lancamentos.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Lancamentos/Inicio</externallink>
 		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
 		<info>
@@ -17,8 +17,8 @@
 -----------------------------------------------------------------------------------------------------------------------------
 
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES 2021 | [COLOR red]7PLUS[/COLOR][/B]</name>
-		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/F2021.png</thumbnail>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/FILMES.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Filmes/Filme-ano.xml</externallink>
 		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
 		<info>
@@ -26,24 +26,11 @@
 [COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
 </info>
 	</channel>
-	
------------------------------------------------------------------------------------------------------------------------------
-
-	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES | [COLOR red]7PLUS[/COLOR][/B]</name>
-		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/F2020.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Todos-Filmes/Filmes.xml</externallink>
-		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
-		<info>
-[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
-[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
-</info>
-	</channel>	
-	
+		
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES MARVEL/DC | [COLOR red]7PLUS[/COLOR][/B]</name>
-		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/MARVE-DC.png</thumbnail>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/MARVEL.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Marvel-DC/MarvelDC.xml</externallink>
 		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
 		<info>
@@ -56,7 +43,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] SERIES | [COLOR red]7PLUS[/COLOR][/B]</name>
-		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/SERIES.png</thumbnail>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/SERIES.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Categorias</externallink>
 		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
 		<info>
@@ -68,7 +55,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]7PLUS[/COLOR][/B]</name>
-		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/Animacao.png</thumbnail>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/ANIMACAO.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Animacao/Animacao.xml</externallink>
 		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
 		<info>
@@ -80,7 +67,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] MUSIC  | [COLOR red]7PLUS[/COLOR][/B]</name>
-		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/MUSIC.png</thumbnail>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/MUSIC.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/MusicVideo/DVD.xml</externallink>
 		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
 		<info>
@@ -91,8 +78,8 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 	<channel>
-		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES TRILOGIAS | [COLOR red]7PLUS[/COLOR][/B]</name>
-		<thumbnail>http://napalm64.aigaion.feralhosting.com/media/Base/Trilogias.png</thumbnail>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES COLEÇÃO | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/COLECAO.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Trilogia-Filmes/Filmes.xml</externallink>
 		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
 		<info>
@@ -101,7 +88,17 @@
 </info>
 	</channel>
 	
-	
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES ANTIGOS | [COLOR red]7PLUS[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/COLECAO.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Trilogia-Filmes/Filmes.xml</externallink>
+		<fanart>http://napalm64.aigaion.feralhosting.com/media/Base/fanart.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
+</info>
+	</channel>	
 	
 	
 </channels>
