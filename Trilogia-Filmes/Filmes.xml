@@ -1,15 +1,17 @@
 <channels>
 
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+	
 
 	<channel>
-		<name>[B][COLOR blue]●[/COLOR] [COLOR white] LANÇAMENTOS | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
-		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/Lancamentos.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Lancamentos/Inicio.xml</externallink>
-		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
-		<info>
-[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
-[COLOR gold]■[/COLOR][COLOR lime]++++++++++[/COLOR]
+		<name>[B][COLOR blue]●[/COLOR] [COLOR white] Project A (1983) | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>https://www.themoviedb.org/t/p/original/uvQadnCrtustVtz49hv3mRpNVZg.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Trilogia-Filmes/Project.A/Filmes.xml</externallink>
+		<fanart>https://www.themoviedb.org/t/p/original/5w5hj9rLvbm0Gk1S1Y8RHHnwhbP.jpg</fanart>
+		<info>[COLOR orange]Em Hong-Kong, durante o Século XIX, os ingleses governavam a terra, porém os piratas dominavam as águas e durante meses vêm aterrorizando os mares. Relutante, a Guarda Costeira fornece o dinheiro para o combate aos piratas, mas eles têm muitos contatos, ou seja, oficiais subordinados que procuram de todas as formas, atrapalhar as tentativas de eliminá-los. Todos os planos para combatê-los, são sabotados pelo corrupto chefe de polícia e sua gangue. [/COLOR]
+[COLOR lime]Legendado[/COLOR]
+[COLOR lime]Duração:[/COLOR][COLOR white] 1h 46m[/COLOR]
 
 </info>
 	</channel>
