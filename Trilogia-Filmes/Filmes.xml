@@ -1,17 +1,18 @@
-<item>
-<title>[B][COLOR white] NOME[/COLOR][/B]</title>
-<link></link>
-<subtitle></subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg</fanart>
-<genre>Ação, Thriller, Ficção científica, Terror</genre>
-<year>2022</year>
-<aired>2022/08/10</aired>
-<info>[COLOR orange]INFO[/COLOR]
-[COLOR lime]Legendado[/COLOR]
-[COLOR lime]Duração:[/COLOR][COLOR white] 0h 00m[/COLOR]
+<channels>
+
+
+
+	<channel>
+		<name>[B][COLOR blue]●[/COLOR] [COLOR white] LANÇAMENTOS | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/Lancamentos.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Lancamentos/Inicio.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]++++++++++[/COLOR]
 
 </info>
-</item>
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	</channel>
+  
+  
+  </channels>
