@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="☆彡☆ﾐ☆彡PORTUGALﾐ☆彡☆ﾐ☆" tvg-logo="https://i.imgur.com/zzI6yPG.png" group-title="PORTUGAL",☆彡☆ﾐ☆彡PORTUGALﾐ☆彡☆ﾐ☆
-http://powert4al.xyz:
-#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="TESTE" tvg-logo="http://media.c-x-c.media/picons/PT/rtp1.png" group-title="TESTE",RTP 1 PT
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MYT6SQDHXQR2FFLIBRHGFL6JKSBOF66W
-#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="TESTE2" tvg-logo="http://media.c-x-c.media/picons/PT/rtp1.png" group-title="TESTE2",RTP 1 PT
-http://roger1964.antaeus.feralhosting.com/Media/Filmes/Angels.Fallen.2020.mp4
-<subtitle>http://roger1964.antaeus.feralhosting.com/Media/Filmes/Angels.Fallen.2020.srt</subtitle>
+
+#EXTINF:-1 tvg-logo="---logo--" group-title="", ---nome da lista--
+
+#EXTINF:-1 tvg-logo="---logo--" group-title="", ---data de atualizacao--
+
+#EXTINF:-1 tvg-logo="---logo--" group-title="", [COLOR blue] torrent[/COLOR]
+
+#EXTINF:-1 channelId="Comédia" tvg-logo="https://torrentool.org/imagens/justiceiras-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-ratio="16:9" , Justiceiras
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PO2GEFMRKXPQRLE24R6XDLYEBRQROBAI&dn
