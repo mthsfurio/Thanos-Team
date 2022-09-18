@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="TESTE" tvg-logo="http://media.c-x-c.media/picons/PT/rtp1.png" group-title="TESTE",RTP 1 PT
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MYT6SQDHXQR2FFLIBRHGFL6JKSBOF66W
-#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="TESTE" tvg-logo="http://media.c-x-c.media/picons/PT/rtp1.png" group-title="TESTE",RTP 1 PT
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="TESTE2" tvg-logo="http://media.c-x-c.media/picons/PT/rtp1.png" group-title="TESTE",RTP 1 PT
 http://roger1964.antaeus.feralhosting.com/Media/Filmes/Angels.Fallen.2020.mp4
 http://roger1964.antaeus.feralhosting.com/Media/Filmes/Angels.Fallen.2020.srt
