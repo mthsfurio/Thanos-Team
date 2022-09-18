@@ -71,7 +71,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/ANIMACAO.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Animacao/Animacao.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Animacao/Animacao.md</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
