@@ -1,1 +1,1 @@
-url="http://napalm64.aigaion.feralhosting.com/media/Base/7plus1.db"
+url="http://napalm64.aigaion.feralhosting.com/media/Base/7plus.db"
