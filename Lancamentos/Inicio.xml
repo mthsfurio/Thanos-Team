@@ -1,10 +1,26 @@
-#EXTM3U
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <items>
 
-#EXTINF:-1 tvg-logo="---logo--" group-title="", ---nome da lista--
+   
+ <item>
+<title>[B][COLOR white] Um Susto de Família[/COLOR][/B]</title>
+<link>http://tugakids22.ga/6572702.mp4</link>
+<subtitle></subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/d0wp19KXksmzxea2tsqINMMbxrZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/t5ZTLzn0ASdOhY3S8o3vzj57Myg.jpg</fanart>
+<genre>Animação</genre>
+<year>2017</year>
+<aired>2022/08/10</aired>
+<duration>5580</duration>  
+<info>[COLOR orange]Emma, a matriarca da família Wishbone, está cansada dos constantes conflitos entre todos. Determinada a criar uma nova dinâmica familiar, decide desafiá-los a saírem à rua mascarados na noite de Halloween. Tudo corre (razoavelmente) bem até encontrarem uma bruxa que lhes lança um feitiço e os transforma em verdadeiros monstros.[/COLOR]
+[COLOR lime]Idioma:[/COLOR][COLOR white] PT-PT[/COLOR]
+[COLOR lime]Ano:(2017)[/COLOR]
 
-#EXTINF:-1 tvg-logo="---logo--" group-title="", ---data de atualizacao--
+</info>
+</item>
 
-#EXTINF:-1 tvg-logo="---logo--" group-title="", [COLOR blue] torrent[/COLOR]
-
-#EXTINF:-1 channelId="Comédia" tvg-logo="https://torrentool.org/imagens/justiceiras-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" aspect-ratio="16:9" , Justiceiras
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PO2GEFMRKXPQRLE24R6XDLYEBRQROBAI&dn
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
+   
+   
+   
+</items>
