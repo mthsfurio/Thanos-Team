@@ -36,7 +36,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/FILMES.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Filmes/Filme-ano.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Todos-Filmes/Filmes.xml</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
@@ -61,7 +61,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] SERIES | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/SERIES.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Categorias</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Categorias.xml</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
@@ -73,7 +73,7 @@
 	<channel>
 		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
 		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/ANIMACAO.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Animacao/Animacao.md</externallink>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Animacao/Animacao.xml</externallink>
 		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
 		<info>
 [COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
