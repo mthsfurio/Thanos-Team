@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <items>
 
 <item>
-<title>[B][COLOR white] NOME[/COLOR][/B]</title>
-<link></link>
-<subtitle></subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7ZO9yoEU2fAHKhmJWfAc2QIPWJg.jpg</fanart>
-<genre>Ação, Thriller, Ficção científica, Terror</genre>
-<year>2022</year>
+<title>[B][COLOR white] Imperdoável[/COLOR][/B]</title>
+<link>http://napalm64.aigaion.feralhosting.com/media/Filmes/Unforgiven.1992.mp4</link>
+<subtitle>http://napalm64.aigaion.feralhosting.com/media/Filmes/SRT/Unforgiven.1992.srt</subtitle>
+<thumbnail>https://www.themoviedb.org/t/p/original/plA83oAdoVpQxybpfaDezBc7hja.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rvRGFevvZK48onX0PYI1eQLbuJd.jpg</fanart>
+<genre>Faroeste</genre>
+<year>1992</year>
 <aired>2022/08/10</aired>
-<info>[COLOR orange]INFO[/COLOR]
+<duration>7800</duration>
+<info>[COLOR orange]William Munny é um assassino brutal regenerado que aceita, com alguma relutância, um último assassinato para poder sustentar os filhos: é contratado para matar dois homens que desfiguraram uma prostituta numa cidade dominada por um xerife com um sentido de justiça e de moral muito particulares.[/COLOR]
 [COLOR lime]Legendado[/COLOR]
-[COLOR lime]Ano:(2022)[/COLOR]
+
 
 </info>
 </item>
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 </items>
