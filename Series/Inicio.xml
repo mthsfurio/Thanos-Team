@@ -1,26 +1,121 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
- <items>
 
-   
- <item>
-<title>[B][COLOR white] Thor - Amor e Trovão[/COLOR][/B]</title>
-<link>magnet:?xt=urn:btih:357cd2df0992cc36ccae21284b68db82cf9fbe7d&dn</link>
-<subtitle></subtitle>
-<thumbnail>https://www.themoviedb.org/t/p/original/vDivpdm4gf2IelTBZWeCG6ctqUd.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/akmMZoh4QN2INFwgDiHLo33rFVv.jpg</fanart>
-<genre>Ação / Aventura / Comédia</genre>
-<year>2022</year>
-<aired>2022/08/10</aired>
-<duration>6480</duration>  
-<info>[COLOR orange]Thor encontra-se em uma jornada diferente de tudo que ele já enfrentou uma busca pela paz interior, mas sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro dos Deuses, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda do Rei Valquíria, Korg, e da ex-namorada Jane Foster que para surpresa de Thor inexplicavelmente empunha seu martelo mágico, Mjolnir, revelando-se a Poderosa Thor.[/COLOR]
-[COLOR lime]Idioma:[/COLOR][COLOR white] Português / Inglês[/COLOR]
-[COLOR lime]Ano:(2022)[/COLOR]
+<channels>
+
+
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] tv | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/Lancamentos.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Web.TV/BR.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]++++++++++[/COLOR]
 
 </info>
-</item>
+	</channel>
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
-   
-   
-   
-</items>
+-----------------------------------------------------------------------------------------------------------------------------
+	
+	
+	
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] LANÇAMENTOS | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/Lancamentos.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Lancamentos/Inicio.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime]++++++++++[/COLOR]
+
+</info>
+	</channel>
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/FILMES.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Todos-Filmes/Filmes.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
+</info>
+	</channel>
+		
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES MARVEL/DC | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/MARVEL.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Marvel-DC/MarvelDC.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
+			
+</info>
+	</channel>		
+
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] SERIES | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/SERIES.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Series/Inicio.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
+</info>
+	</channel>		
+	
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] ANIMAÇÃO | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/ANIMACAO.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Animacao/Animacao.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
+</info>
+	</channel>		
+	
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] MUSIC  | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/MUSIC.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/MusicVideo/DVD.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
+</info>
+	</channel>	
+
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES COLEÇÃO | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/COLECAO.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Trilogia-Filmes/Filmes.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
+</info>
+	</channel>
+	
+-----------------------------------------------------------------------------------------------------------------------------
+	<channel>
+		<name>[B][COLOR blue]●≡ [/COLOR] [COLOR white] FILMES ANTIGOS | [COLOR red]Cine[/COLOR][COLOR orange]Lândia[/COLOR][/B]</name>
+		<thumbnail>http://roger1964.antaeus.feralhosting.com/Media/Painel/ANTIGOS.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Thanos-Team/master/Antigos/filmes.xml</externallink>
+		<fanart>http://roger1964.antaeus.feralhosting.com/Media/Painel/fanart1.jpg</fanart>
+		<info>
+[COLOR gold]■[/COLOR][B][COLOR orange]Adicionado - 00/00/0000[/COLOR][/B]
+[COLOR gold]■[/COLOR][COLOR lime] OF[/COLOR]
+</info>
+	</channel>	
+	
+	
+</channels>
