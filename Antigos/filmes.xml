@@ -5,8 +5,7 @@
   
 <item>
 <title>[B][COLOR white] EXEMPLO DE FILMES[/COLOR][/B]</title>
-<link>plugin://plugin.video.brplayer/?imdb= tt0105695</link>
-<link>http://napalm64.aigaion.feralhosting.com/media/Filmes/Unforgiven.1992.mp4</link>
+<link>plugin://plugin.video.brplayer/?imdb=tt0105695</link>
 <subtitle>http://napalm64.aigaion.feralhosting.com/media/Filmes/SRT/Unforgiven.1992.srt</subtitle>
 <thumbnail>https://www.themoviedb.org/t/p/original/plA83oAdoVpQxybpfaDezBc7hja.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rvRGFevvZK48onX0PYI1eQLbuJd.jpg</fanart>
