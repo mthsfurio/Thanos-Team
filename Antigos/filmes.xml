@@ -4,8 +4,9 @@
   
   
 <item>
-<title>[B][COLOR white] EXEMPLO DE FILMES3[/COLOR][/B]</title>
-<link>plugin://plugin.video.brplayer/?imdb=magnet:?xt=urn:btih:f328a95adb21d4e3d522f83e447fb8ca7daf641d&dn</link>
+<title>[B][COLOR white] MINTA PRA MIM[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e241b2a8f22e6de274252e2d281d2f1d73853e4</link>
+<link>plugin://plugin.video.brplayer/?imdb=tt6462958</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/plA83oAdoVpQxybpfaDezBc7hja.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rvRGFevvZK48onX0PYI1eQLbuJd.jpg</fanart>
 <genre>Faroeste</genre>
