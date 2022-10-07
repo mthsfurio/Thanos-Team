@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/FledsonChagas/IPTV/main/EPG.xml"
+#EXTM3U 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-= Brazil =-" tvg-logo="" group-title="(no group)",-= Brazil =-
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12150
 #EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77795_dark_360w_270h.png" group-title="(no group)",A&E HD BR
