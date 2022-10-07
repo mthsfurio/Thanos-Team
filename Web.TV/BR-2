@@ -1,0 +1,205 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/FledsonChagas/IPTV/main/EPG.xml"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-= Brazil =-" tvg-logo="" group-title="(no group)",-= Brazil =-
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12150
+#EXTINF:-1 tvg-id="AandE.br" tvg-name="A&E HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77795_dark_360w_270h.png" group-title="(no group)",A&E HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46500
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s92009_dark_360w_270h.png" group-title="(no group)",AMC HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46501
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18651_dark_360w_270h.png" group-title="(no group)",Animal Planet HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46502
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75580_dark_360w_270h.png" group-title="(no group)",AXN HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46504
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s54680_dark_360w_270h.png" group-title="(no group)",Band Sports HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46507
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boomerang HD BR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartcraft.com%2Fimages%2Flogo-channel-boomerang-1.png&f=1&nofb=1&ipt=544e94a0b76833a5286144726fb7d034c194c997bb5bd3e9e41a96972c976911&ipo=images" group-title="(no group)",Boomerang HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46508
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s94564_dark_360w_270h.png" group-title="(no group)",Canal Brasil HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46509
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon 4K UHD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77905_dark_360w_270h.png" group-title="(no group)",Cartoon 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51181
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77905_dark_360w_270h.png" group-title="(no group)",Cartoon HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46510
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104743_dark_360w_270h.png" group-title="(no group)",Cinemax HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46511
+#EXTINF:-1 tvg-id="CNNInternational.br" tvg-name="Cnn Internacional HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s64364_dark_360w_270h.png" group-title="(no group)",Cnn Internacional HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46512
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s85800_dark_360w_270h.png" group-title="(no group)",Combate HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46513
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83200_dark_360w_270h.png" group-title="(no group)",Comedy Central HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46514
+#EXTINF:-1 tvg-id="Cultura.br" tvg-name="Cultura HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s37605_dark_360w_270h.png" group-title="(no group)",Cultura HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46515
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel 4K UHD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79018_dark_360w_270h.png" group-title="(no group)",Discovery Channel 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51183
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Civilization HD BR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/discovery-channel-icon-us.png" group-title="(no group)",Discovery Civilization HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46516
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.br" tvg-name="Discovery H H HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83208_dark_360w_270h.png" group-title="(no group)",Discovery H H HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46517
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79018_dark_360w_270h.png" group-title="(no group)",Discovery HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46518
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83199_dark_360w_270h.png" group-title="(no group)",Discovery Kids HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46519
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56075_dark_360w_270h.png" group-title="(no group)",Discovery Science HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46520
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="Discovery Theather HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75835_dark_360w_270h.png" group-title="(no group)",Discovery Theather HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46521
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56076_dark_360w_270h.png" group-title="(no group)",Discovery Turbo HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46522
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="Discovery World HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75605_dark_360w_270h.png" group-title="(no group)",Discovery World HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46523
+#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-name="Disney Channel HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75584_dark_360w_270h.png" group-title="(no group)",Disney Channel HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46524
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Junior HD BR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-VvbUqgHc5Pw%2FVJIJWAJLxfI%2FAAAAAAAAHi0%2FA0nDmO29zwk%2Fs1600%2FLogo%252BDisney_Junior.png&f=1&nofb=1&ipt=7437d2ae798c752d81e5bb0d0a0477f131d5613e3dbeee5e7efd6f68840c8b3c&ipo=i" group-title="(no group)",Disney Junior HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46525
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney XD HD BR" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngmart.com%2Ffiles%2F12%2FDisney-XD-Logo-Transparent-Background.png&f=1&nofb=1&ipt=56107a47d42458edde0dd37c799ec9e857f148ab465add0bb1ab8331f8a2e02a&ipo=images" group-title="(no group)",Disney XD HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46526
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="E! HD BR" tvg-logo="https://i.ibb.co/F55T26D/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053d80485-7210007615302533958848.png" group-title="(no group)",E! HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46527
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="Espn 2 HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16388_dark_360w_270h.png" group-title="(no group)",Espn 2 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/82884
+#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="Espn Br HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77747_dark_360w_270h.png" group-title="(no group)",Espn Br HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46529
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="Espn HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75838_dark_360w_270h.png" group-title="(no group)",Espn HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46528
+#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="Food Network HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s90905_dark_360w_270h.png" group-title="(no group)",Food Network HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46534
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox HD BR" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/world-latin-america/fox-channel-lam.png" group-title="(no group)",Fox HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46535
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox Life HD BR" tvg-logo="https://vignette3.wikia.nocookie.net/cumbianinja/images/a/a9/FOX_Life_Logo_Canal_Recortado_Transparente_.png/revision/latest?cb=20140817065331&path-prefix=es" group-title="(no group)",Fox Life HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46536
+#EXTINF:-1 tvg-id="FoxSports2Brazil.br" tvg-name="Fox Sports 2 HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s86787_dark_360w_270h.png" group-title="(no group)",Fox Sports 2 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46539
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76100_dark_360w_270h.png" group-title="(no group)",Fox Sports HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46540
+#EXTINF:-1 tvg-id="FX.br" tvg-name="Fx HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s98922_dark_360w_270h.png" group-title="(no group)",Fx HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46542
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo 4K UHD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="(no group)",Globo 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51187
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95744_dark_360w_270h.png" group-title="(no group)",Globo News HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46543
+#EXTINF:-1 tvg-id="GloboRio.br" tvg-name="Globo RJ FHD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76937_dark_360w_270h.png" group-title="(no group)",Globo RJ FHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46541
+#EXTINF:-1 tvg-id="Globo.br" tvg-name="Globo TV HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76135_dark_360w_270h.png" group-title="(no group)",Globo TV HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46546
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="Gnt HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s79019_dark_360w_270h.png" group-title="(no group)",Gnt HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46547
+#EXTINF:-1 tvg-id="GloboN" tvg-name="Globo NOW BR" tvg-logo="" group-title="(no group)",Globo NOW BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/35590
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56092_dark_360w_270h.png" group-title="(no group)",HBO Family HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46549
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76101_dark_360w_270h.png" group-title="(no group)",HBO HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46550
+#EXTINF:-1 tvg-id="HBOPlus.br" tvg-name="HBO Plus HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s98076_dark_360w_270h.png" group-title="(no group)",HBO Plus HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46551
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s74530_dark_360w_270h.png" group-title="(no group)",HBO Signature HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46552
+#EXTINF:-1 tvg-id="History.br" tvg-name="History HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75589_dark_360w_270h.png" group-title="(no group)",History HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46554
+#EXTINF:-1 tvg-id="InvestigacaoDiscovery.br" tvg-name="Id HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83193_dark_360w_270h.png" group-title="(no group)",Id HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46555
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102409_dark_360w_270h.png" group-title="(no group)",Lifetime HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46556
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="(no group)",Max HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46558
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shoptime BR" tvg-logo="" group-title="(no group)",Shoptime BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46590
+#EXTINF:-1 tvg-id="MaxPrimePanregional.br" tvg-name="Max Prime HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s99678_dark_360w_270h.png" group-title="(no group)",Max Prime HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46559
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Up HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s115356_dark_360w_270h.png" group-title="(no group)",Max Up HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46560
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rede Vida BR" tvg-logo="" group-title="(no group)",Rede Vida BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46587
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix 4K UHD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78130_dark_360w_270h.png" group-title="(no group)",Megapix 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51188
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78130_dark_360w_270h.png" group-title="(no group)",Megapix HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46561
+#EXTINF:-1 tvg-id="MTVBrasil.br" tvg-name="Mtv HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78154_dark_360w_270h.png" group-title="(no group)",Mtv HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46562
+#EXTINF:-1 tvg-id="MTVLive.br" tvg-name="Mtv Live HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113444_dark_360w_270h.png" group-title="(no group)",Mtv Live HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46563
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78181_dark_360w_270h.png" group-title="(no group)",Multishow HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46564
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Kids HD BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Natgeo_Kids_logo.svg" group-title="(no group)",Nat Geo Kids HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46566
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nat Geo Wild HD BR" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="(no group)",Nat Geo Wild HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46567
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nick HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75919_dark_360w_270h.png" group-title="(no group)",Nick HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46568
+#EXTINF:-1 tvg-id="Off.br" tvg-name="Off HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s94119_dark_360w_270h.png" group-title="(no group)",Off HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46570
+#EXTINF:-1 tvg-id="ParamountChannel.br" tvg-name="Paramount HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s94356_dark_360w_270h.png" group-title="(no group)",Paramount HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46571
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95288_dark_360w_270h.png" group-title="(no group)",Premiere 2 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46573
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s95290_dark_360w_270h.png" group-title="(no group)",Premiere 3 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46574
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56087_dark_360w_270h.png" group-title="(no group)",Premiere 4 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46575
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s102434_dark_360w_270h.png" group-title="(no group)",Premiere 5 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46576
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103729_dark_360w_270h.png" group-title="(no group)",Premiere 6 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46577
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s103733_dark_360w_270h.png" group-title="(no group)",Premiere 7 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46578
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s99021_dark_360w_270h.png" group-title="(no group)",Premiere Clubes HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46579
+#EXTINF:-1 tvg-id="TVRaTimBum.br" tvg-name="Ra Tim Bum HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56131_dark_360w_270h.png" group-title="(no group)",Ra Tim Bum HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46581
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="Record HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s41479_dark_360w_270h.png" group-title="(no group)",Record HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46582
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s38709_dark_360w_270h.png" group-title="(no group)",Record News HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46583
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rede New BR" tvg-logo="" group-title="(no group)",Rede New BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46585
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede Tv HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18122_dark_360w_270h.png" group-title="(no group)",Rede Tv HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46586
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="Sbt HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16529_dark_360w_270h.png" group-title="(no group)",Sbt HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46589
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75596_dark_360w_270h.png" group-title="(no group)",Sony BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46593
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Sony HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75596_dark_360w_270h.png" group-title="(no group)",Sony HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46592
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75598_dark_360w_270h.png" group-title="(no group)",Space HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46594
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="Sportv 2 HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s94568_dark_360w_270h.png" group-title="(no group)",Sportv 2 HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46596
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="Sportv HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s94567_dark_360w_270h.png" group-title="(no group)",Sportv HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46597
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Studio Universal HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16427_dark_360w_270h.png" group-title="(no group)",Studio Universal HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46598
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="Syfy HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75599_dark_360w_270h.png" group-title="(no group)",Syfy HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46599
+#EXTINF:-1 tvg-id="TBS.br" tvg-name="TBS HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s80713_dark_360w_270h.png" group-title="(no group)",TBS HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46600
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56102_dark_360w_270h.png" group-title="(no group)",TCM HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46601
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75600_dark_360w_270h.png" group-title="(no group)",Telecine Action HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46602
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s84420_dark_360w_270h.png" group-title="(no group)",Telecine Cult HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46603
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78314_dark_360w_270h.png" group-title="(no group)",Telecine Fun HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46604
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78306_dark_360w_270h.png" group-title="(no group)",Telecine Premium HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46606
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viva HD BR" tvg-logo="" group-title="(no group)",Viva HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46622
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s78304_dark_360w_270h.png" group-title="(no group)",Telecine Touch HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46607
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s73859_dark_360w_270h.png" group-title="(no group)",TLC HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46608
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Brasil HD BR" tvg-logo="" group-title="(no group)",TV Brasil HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46612
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="TNT HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75606_dark_360w_270h.png" group-title="(no group)",TNT HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46609
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="TNT Series 4K UHD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s101728_dark_360w_270h.png" group-title="(no group)",TNT Series 4K UHD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/51196
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s83240_dark_360w_270h.png" group-title="(no group)",Tooncast HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46610
+#EXTINF:-1 tvg-id="StudioUniversal.br" tvg-name="Universal Channel HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16427_dark_360w_270h.png" group-title="(no group)",Universal Channel HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46619
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16214_dark_360w_270h.png" group-title="(no group)",Warner Channel HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46623
+#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="Woohoo HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s77820_dark_360w_270h.png" group-title="(no group)",Woohoo HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46624
+#EXTINF:-1 tvg-id="ZooMooKids.br" tvg-name="Zoomoo HD BR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82896_dark_360w_270h.png" group-title="(no group)",Zoomoo HD BR
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/46625
