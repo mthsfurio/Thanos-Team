@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/FledsonChagas/IPTV/main/EPG.xml"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-= Brazil =-" tvg-logo="" group-title="(no group)",-= Brazil =-
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/12150
