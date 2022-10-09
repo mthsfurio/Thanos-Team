@@ -1077,3 +1077,11 @@ http://connecttvapp.xyz:80/mgf39a8/mgf239161/26178.ts
 http://connecttvapp.xyz:80/mgf39a8/mgf239161/26258.ts
 #EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK WORLD JAPÃO HD" tvg-logo="http://dojoartbooks.com/wp-content/uploads/2016/07/NHKworldLogo_Short.png" group-title="CANAIS VARIEDADES",NHK WORLD JAPÃO HD
 http://connecttvapp.xyz:80/mgf39a8/mgf239161/229.ts
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND CURITIBA SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="CANAIS ABERTO",BAND CURITIBA SD
+http://connecttvapp.xyz:80/mgf39a8/mgf239161/238.ts
+#EXTINF:-1 tvg-id="band.curitiba.br" tvg-name="BAND CURITIBA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/band.png" group-title="CANAIS ABERTO",BAND CURITIBA HD
+http://connecttvapp.xyz:80/mgf39a8/mgf239161/416.ts
+#EXTINF:-1 tvg-id="ric.curitiba.br" tvg-name="RECORD RIC TV CURITIBA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS ABERTO",RECORD RIC TV CURITIBA HD
+http://connecttvapp.xyz:80/mgf39a8/mgf239161/716.ts
+#EXTINF:-1 tvg-id="ric.curitiba.br" tvg-name="RECORD RIC TV CURITIBA SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="CANAIS ABERTO",RECORD RIC TV CURITIBA SD
+http://connecttvapp.xyz:80/mgf39a8/mgf239161/253.ts
