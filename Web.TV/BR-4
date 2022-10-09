@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="FURACÃO PLAY HD" tvg-logo="https://i.imgur.com/w1pXQdU.png" group-title="CANAIS - ESPORTES PPV (SOMENTE EM DIAS DE JOGOS)",FURACÃO PLAY HD
+http://connecttvapp.xyz:80/mgf39a8/mgf239161/781.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS FILMES E SERIES",A&E HD
 http://connecttvapp.xyz:80/mgf39a8/mgf239161/100.ts
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E UHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/aande.png" group-title="CANAIS FILMES E SERIES",A&E UHD
