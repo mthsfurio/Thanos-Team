@@ -1,0 +1,1281 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="A&E FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/ae.png" group-title="Canais Filmes e Séries ",A&E FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157383
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="A&E HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/ae.png" group-title="Canais Filmes e Séries ",A&E HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157384
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="A&E SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/ae.png" group-title="Canais Filmes e Séries ",A&E SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157385
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/bis.png" group-title="Canais Filmes e Séries ",BIS FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157386
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/bis.png" group-title="Canais Filmes e Séries ",BIS HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157387
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/bis.png" group-title="Canais Filmes e Séries ",BIS SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157388
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" tvg-name="Cinecanal FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinecanal.png" group-title="Canais Filmes e Séries ",Cinecanal FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157389
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" tvg-name="Cinecanal HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinecanal.png" group-title="Canais Filmes e Séries ",Cinecanal HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157390
+#EXTINF:-1 tvg-id="StarLifeBrazil.br" tvg-name="Cinecanal SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinecanal.png" group-title="Canais Filmes e Séries ",Cinecanal SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157391
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-name="Comedy Central FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/comedycentral.png" group-title="Canais Filmes e Séries ",Comedy Central FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157392
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-name="Comedy Central HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/comedycentral.png" group-title="Canais Filmes e Séries ",Comedy Central HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157393
+#EXTINF:-1 tvg-id="ComedyCentralBrazil.br" tvg-name="Comedy Central SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/comedycentral.png" group-title="Canais Filmes e Séries ",Comedy Central SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157394
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="Discovery H&H FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryhh.png" group-title="Canais Documentários ",Discovery H&H FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157395
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="Discovery H&H HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryhh.png" group-title="Canais Documentários ",Discovery H&H HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157396
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrazil.br" tvg-name="Discovery H&H SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryhh.png" group-title="Canais Documentários ",Discovery H&H SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157397
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryturbo.png" group-title="Canais Documentários ",Discovery Turbo FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157398
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="Discovery Turbo HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryturbo.png" group-title="Canais Documentários ",Discovery Turbo HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157399
+#EXTINF:-1 tvg-id="DiscoveryTurboBrazil.br" tvg-name="Discovery Turbo SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryturbo.png" group-title="Canais Documentários ",Discovery Turbo SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157400
+#EXTINF:-1 tvg-id="EBrazil.br" tvg-name="E! FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/e.png" group-title="Canais Variedades e Musicas ",E! FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157401
+#EXTINF:-1 tvg-id="EBrazil.br" tvg-name="E! HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/e.png" group-title="Canais Variedades e Musicas ",E! HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157402
+#EXTINF:-1 tvg-id="EBrazil.br" tvg-name="E! SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/e.png" group-title="Canais Variedades e Musicas ",E! SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157403
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="FishTV FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/fishtv.png" group-title="Canais  Esporte",FishTV FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157404
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="FishTV HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/fishtv.png" group-title="Canais  Esporte",FishTV HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157405
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="FishTV SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/fishtv.png" group-title="Canais  Esporte",FishTV SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157406
+#EXTINF:-1 tvg-id="FoodNetworkBrazil.br" tvg-name="Food Network FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/foodnetwork.png" group-title="Canais Variedades e Musicas ",Food Network FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157407
+#EXTINF:-1 tvg-id="FoodNetworkBrazil.br" tvg-name="Food Network HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/foodnetwork.png" group-title="Canais Variedades e Musicas ",Food Network HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157408
+#EXTINF:-1 tvg-id="FoodNetworkBrazil.br" tvg-name="Food Network SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/foodnetwork.png" group-title="Canais Variedades e Musicas ",Food Network SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157409
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/gnt.png" group-title="Canais Variedades e Musicas ",GNT FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157410
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/gnt.png" group-title="Canais Variedades e Musicas ",GNT HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157411
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="GNT SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/gnt.png" group-title="Canais Variedades e Musicas ",GNT SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157412
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-name="Lifetime FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/lifetime.png" group-title="Canais Variedades e Musicas ",Lifetime FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157413
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-name="Lifetime HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/lifetime.png" group-title="Canais Variedades e Musicas ",Lifetime HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157414
+#EXTINF:-1 tvg-id="LifetimeBrazil.br" tvg-name="Lifetime SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/lifetime.png" group-title="Canais Variedades e Musicas ",Lifetime SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157415
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="Modo Viagem FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/modoviagem.png" group-title="Canais Variedades e Musicas ",Modo Viagem FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157416
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="Modo Viagem HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/modoviagem.png" group-title="Canais Variedades e Musicas ",Modo Viagem HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157417
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="Modo Viagem SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/modoviagem.png" group-title="Canais Variedades e Musicas ",Modo Viagem SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157418
+#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-name="MTV FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/mtv.png" group-title="Canais Variedades e Musicas ",MTV FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157419
+#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-name="MTV HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/mtv.png" group-title="Canais Variedades e Musicas ",MTV HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157420
+#EXTINF:-1 tvg-id="MTVBrazil.br" tvg-name="MTV SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/mtv.png" group-title="Canais Variedades e Musicas ",MTV SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157421
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="MTV 00's FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/mtv00s.png" group-title="Canais Variedades e Musicas ",MTV 00's FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157422
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="MTV 00's HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/mtv00s.png" group-title="Canais Variedades e Musicas ",MTV 00's HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157423
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="MTV 00's HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/mtv00s.png" group-title="Canais Variedades e Musicas ",MTV 00's HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157424
+#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Live FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/mtvlive.png" group-title="Canais Variedades e Musicas ",MTV Live FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157425
+#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Live HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/mtvlive.png" group-title="Canais Variedades e Musicas ",MTV Live HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157426
+#EXTINF:-1 tvg-id="MTVLive.uk" tvg-name="MTV Live SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/mtvlive.png" group-title="Canais Variedades e Musicas ",MTV Live SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157427
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/multishow.png" group-title="Canais Variedades e Musicas ",Multishow FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157428
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/multishow.png" group-title="Canais Variedades e Musicas ",Multishow HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157429
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/multishow.png" group-title="Canais Variedades e Musicas ",Multishow SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157430
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Off FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/off.png" group-title="Canais Variedades e Musicas ",Off FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157431
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Off HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/off.png" group-title="Canais Variedades e Musicas ",Off HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157432
+#EXTINF:-1 tvg-id="CanalOff.br" tvg-name="Off SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/off.png" group-title="Canais Variedades e Musicas ",Off SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157433
+#EXTINF:-1 tvg-id="TLCBrazil.br" tvg-name="TLC FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tlc.png" group-title="Canais Variedades e Musicas ",TLC FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157434
+#EXTINF:-1 tvg-id="TLCBrazil.br" tvg-name="TLC HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tlc.png" group-title="Canais Variedades e Musicas ",TLC HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157435
+#EXTINF:-1 tvg-id="TLCBrazil.br" tvg-name="TLC SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tlc.png" group-title="Canais Variedades e Musicas ",TLC SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157436
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="Travel Box Brazil FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/travelboxbrazil.png" group-title="Canais Variedades e Musicas ",Travel Box Brazil FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157437
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="Travel Box Brazil HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/travelboxbrazil.png" group-title="Canais Variedades e Musicas ",Travel Box Brazil HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157438
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="Travel Box Brazil SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/travelboxbrazil.png" group-title="Canais Variedades e Musicas ",Travel Box Brazil SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157439
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="TruTV FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/trutv.png" group-title="Canais Variedades e Musicas ",TruTV FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157440
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="TruTV HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/trutv.png" group-title="Canais Variedades e Musicas ",TruTV HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157441
+#EXTINF:-1 tvg-id="GNT.br" tvg-name="TruTV SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/trutv.png" group-title="Canais Variedades e Musicas ",TruTV SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157442
+#EXTINF:-1 tvg-id="" tvg-name="Viva FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/viva.png" group-title="Canais Variedades e Musicas ",Viva FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157443
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/viva.png" group-title="Canais Variedades e Musicas ",Viva HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157444
+#EXTINF:-1 tvg-id="" tvg-name="Viva SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/viva.png" group-title="Canais Variedades e Musicas ",Viva SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157445
+#EXTINF:-1 tvg-id="" tvg-name="WooHoo FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/woohoo.png" group-title="Canais Filmes e Séries ",WooHoo FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157446
+#EXTINF:-1 tvg-id="" tvg-name="WooHoo HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/woohoo.png" group-title="Canais Filmes e Séries ",WooHoo HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157447
+#EXTINF:-1 tvg-id="" tvg-name="WooHoo SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/woohoo.png" group-title="Canais Filmes e Séries ",WooHoo SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157448
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/amc.png" group-title="Canais Filmes e Séries ",AMC FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157449
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/amc.png" group-title="Canais Filmes e Séries ",AMC HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157450
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/amc.png" group-title="Canais Filmes e Séries ",AMC SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157451
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/axn.png" group-title="Canais Filmes e Séries ",AXN FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157452
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/axn.png" group-title="Canais Filmes e Séries ",AXN HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157453
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/axn.png" group-title="Canais Filmes e Séries ",AXN SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157454
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/canalbrasil.png" group-title="Canais Aberto",Canal Brasil FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157455
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/canalbrasil.png" group-title="Canais Aberto",Canal Brasil HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157456
+#EXTINF:-1 tvg-id="CanalBrasil.br" tvg-name="Canal Brasil SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/canalbrasil.png" group-title="Canais Aberto",Canal Brasil SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157457
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinemax.png" group-title="Canais Filmes e Séries ",Cinemax FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157458
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinemax.png" group-title="Canais Filmes e Séries ",Cinemax HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157459
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinemax.png" group-title="Canais Filmes e Séries ",Cinemax SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157460
+#EXTINF:-1 tvg-id="" tvg-name="FX FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/fx.png" group-title="Canais Filmes e Séries ",FX FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157461
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/fx.png" group-title="Canais Filmes e Séries ",FX HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157462
+#EXTINF:-1 tvg-id="" tvg-name="FX SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/fx.png" group-title="Canais Filmes e Séries ",FX SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157463
+#EXTINF:-1 tvg-id="" tvg-name="Megapix FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/megapix.png" group-title="Canais Filmes e Séries ",Megapix FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157464
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/megapix.png" group-title="Canais Filmes e Séries ",Megapix HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157465
+#EXTINF:-1 tvg-id="" tvg-name="Megapix SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/megapix.png" group-title="Canais Filmes e Séries ",Megapix SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157466
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/paramountchannel.png" group-title="Canais Filmes e Séries ",Paramount Channel FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157467
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/paramountchannel.png" group-title="Canais Filmes e Séries ",Paramount Channel HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157468
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/paramountchannel.png" group-title="Canais Filmes e Séries ",Paramount Channel SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157469
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sonychannel.png" group-title="Canais Filmes e Séries ",Sony Channel FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157470
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sonychannel.png" group-title="Canais Filmes e Séries ",Sony Channel HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157471
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sonychannel.png" group-title="Canais Filmes e Séries ",Sony Channel SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157472
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/space.png" group-title="Canais Filmes e Séries ",Space FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157473
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/space.png" group-title="Canais Filmes e Séries ",Space HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157474
+#EXTINF:-1 tvg-id="" tvg-name="Space SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/space.png" group-title="Canais Filmes e Séries ",Space SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157475
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/starchannel.png" group-title="Canais Filmes e Séries ",Star Channel FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157476
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/starchannel.png" group-title="Canais Filmes e Séries ",Star Channel HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157477
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/starchannel.png" group-title="Canais Filmes e Séries ",Star Channel SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157478
+#EXTINF:-1 tvg-id="" tvg-name="SyFy FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/syfy.png" group-title="Canais Filmes e Séries ",SyFy FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157479
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/syfy.png" group-title="Canais Filmes e Séries ",SyFy HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157480
+#EXTINF:-1 tvg-id="" tvg-name="SyFy SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/syfy.png" group-title="Canais Filmes e Séries ",SyFy SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157481
+#EXTINF:-1 tvg-id="" tvg-name="TBS FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tbs.png" group-title="Canais Filmes e Séries ",TBS FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157482
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tbs.png" group-title="Canais Filmes e Séries ",TBS HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157483
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tbs.png" group-title="Canais Filmes e Séries ",TBS SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157484
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tnt.png" group-title="Canais Filmes e Séries ",TNT FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157485
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tnt.png" group-title="Canais Filmes e Séries ",TNT HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157486
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tnt.png" group-title="Canais Filmes e Séries ",TNT SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157487
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tntseries.png" group-title="Canais Filmes e Séries ",TNT Séries FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157488
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tntseries.png" group-title="Canais Filmes e Séries ",TNT Séries HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157489
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tntseries.png" group-title="Canais Filmes e Séries ",TNT Séries SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157490
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/universalchannel.png" group-title="Canais Filmes e Séries ",Universal Channel FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157491
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/universalchannel.png" group-title="Canais Filmes e Séries ",Universal Channel HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157492
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/universalchannel.png" group-title="Canais Filmes e Séries ",Universal Channel SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157493
+#EXTINF:-1 tvg-id="" tvg-name="Universal Studio FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/universalstudio.png" group-title="Canais Filmes e Séries ",Universal Studio FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157494
+#EXTINF:-1 tvg-id="" tvg-name="Universal Studio HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/universalstudio.png" group-title="Canais Filmes e Séries ",Universal Studio HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157495
+#EXTINF:-1 tvg-id="" tvg-name="Universal Studio SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/universalstudio.png" group-title="Canais Filmes e Séries ",Universal Studio SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157496
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/warnerchannel.png" group-title="Canais Filmes e Séries ",Warner Channel FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157497
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/warnerchannel.png" group-title="Canais Filmes e Séries ",Warner Channel HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157498
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/warnerchannel.png" group-title="Canais Filmes e Séries ",Warner Channel SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157499
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="HBO FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbo.png" group-title="Canais HBO",HBO FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157500
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="HBO HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbo.png" group-title="Canais HBO",HBO HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157501
+#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="HBO SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbo.png" group-title="Canais HBO",HBO SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157502
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-name="HBO 2 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbo2.png" group-title="Canais HBO",HBO 2 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157503
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-name="HBO 2 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbo2.png" group-title="Canais HBO",HBO 2 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157504
+#EXTINF:-1 tvg-id="HBO2Brazil.br" tvg-name="HBO 2 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbo2.png" group-title="Canais HBO",HBO 2 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157505
+#EXTINF:-1 tvg-id="HBOFamilyHDBrazil.br" tvg-name="HBO Family FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbofamily.png" group-title="Canais HBO",HBO Family FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157506
+#EXTINF:-1 tvg-id="HBOFamilyHDBrazil.br" tvg-name="HBO Family HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbofamily.png" group-title="Canais HBO",HBO Family HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157507
+#EXTINF:-1 tvg-id="HBOFamilyHDBrazil.br" tvg-name="HBO Family SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbofamily.png" group-title="Canais HBO",HBO Family SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157508
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-name="HBO Mundi FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbomundi.png" group-title="Canais HBO",HBO Mundi FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157509
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-name="HBO Mundi HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbomundi.png" group-title="Canais HBO",HBO Mundi HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157510
+#EXTINF:-1 tvg-id="HBOMundiBrazil.br" tvg-name="HBO Mundi SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbomundi.png" group-title="Canais HBO",HBO Mundi SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157511
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hboplus.png" group-title="Canais HBO",HBO Plus FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157512
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hboplus.png" group-title="Canais HBO",HBO Plus HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157513
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hboplus.png" group-title="Canais HBO",HBO Plus SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157514
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-name="HBO Pop FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbopop.png" group-title="Canais HBO",HBO Pop FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157515
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-name="HBO Pop HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbopop.png" group-title="Canais HBO",HBO Pop HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157516
+#EXTINF:-1 tvg-id="HBOPopBrazil.br" tvg-name="HBO Pop SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbopop.png" group-title="Canais HBO",HBO Pop SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157517
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-name="HBO Signature FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbosignature.png" group-title="Canais HBO",HBO Signature FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157518
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-name="HBO Signature HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbosignature.png" group-title="Canais HBO",HBO Signature HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157519
+#EXTINF:-1 tvg-id="HBOSignatureBrazil.br" tvg-name="HBO Signature SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbosignature.png" group-title="Canais HBO",HBO Signature SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157520
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hboxtreme.png" group-title="Canais HBO",HBO Xtreme FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157521
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-name="HBO Xtreme HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hboxtreme.png" group-title="Canais HBO",HBO Xtreme HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157522
+#EXTINF:-1 tvg-id="HBOXtremeBrazil.br" tvg-name="HBO Xtreme SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hboxtreme.png" group-title="Canais HBO",HBO Xtreme SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157523
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecineaction.png" group-title="Canais Telecine",Telecine Action FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157524
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecineaction.png" group-title="Canais Telecine",Telecine Action HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157525
+#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecineaction.png" group-title="Canais Telecine",Telecine Action SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157526
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinecult.png" group-title="Canais Telecine",Telecine Cult FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157527
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinecult.png" group-title="Canais Telecine",Telecine Cult HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157528
+#EXTINF:-1 tvg-id="TelecineCult.br" tvg-name="Telecine Cult SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinecult.png" group-title="Canais Telecine",Telecine Cult SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157529
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinefun.png" group-title="Canais Telecine",Telecine Fun FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157530
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinefun.png" group-title="Canais Telecine",Telecine Fun HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157531
+#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinefun.png" group-title="Canais Telecine",Telecine Fun SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157532
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinepipoca.png" group-title="Canais Telecine",Telecine Pipoca FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157533
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinepipoca.png" group-title="Canais Telecine",Telecine Pipoca HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157534
+#EXTINF:-1 tvg-id="TelecinePipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinepipoca.png" group-title="Canais Telecine",Telecine Pipoca SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157535
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinepremium.png" group-title="Canais Telecine",Telecine Premium FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157536
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinepremium.png" group-title="Canais Telecine",Telecine Premium HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157537
+#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinepremium.png" group-title="Canais Telecine",Telecine Premium SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157538
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinetouch.png" group-title="Canais Telecine",Telecine Touch FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157539
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinetouch.png" group-title="Canais Telecine",Telecine Touch HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157540
+#EXTINF:-1 tvg-id="TelecineTouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/telecinetouch.png" group-title="Canais Telecine",Telecine Touch SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157541
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 01
+http://cdn.canais.cc:80/salomao2022/2022salomao/157542
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 02
+http://cdn.canais.cc:80/salomao2022/2022salomao/157543
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 03
+http://cdn.canais.cc:80/salomao2022/2022salomao/157544
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 04
+http://cdn.canais.cc:80/salomao2022/2022salomao/157545
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 05
+http://cdn.canais.cc:80/salomao2022/2022salomao/157546
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 06
+http://cdn.canais.cc:80/salomao2022/2022salomao/157547
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 07
+http://cdn.canais.cc:80/salomao2022/2022salomao/157548
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 08
+http://cdn.canais.cc:80/salomao2022/2022salomao/157549
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 09
+http://cdn.canais.cc:80/salomao2022/2022salomao/157550
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cinesky.png" group-title="Canais Sky",Cine SKY 10
+http://cdn.canais.cc:80/salomao2022/2022salomao/157551
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/band.png" group-title="Canais Band",Band FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157552
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/band.png" group-title="Canais Band",Band HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157553
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="Band SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/band.png" group-title="Canais Band",Band SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157554
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cultura.png" group-title="Canais Aberto",Cultura FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157555
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cultura.png" group-title="Canais Aberto",Cultura HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157556
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="Cultura SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cultura.png" group-title="Canais Aberto",Cultura SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157557
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/futura.png" group-title="Canais Aberto",Futura FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157558
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/futura.png" group-title="Canais Aberto",Futura HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157559
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/futura.png" group-title="Canais Aberto",Futura SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157560
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record TV SP FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV SP FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157561
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record TV SP HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV SP HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157562
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-name="Record TV SP SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV SP SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157563
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="Record TV Rio FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Rio FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157564
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="Record TV Rio HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Rio HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157565
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="Record TV Rio SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Rio SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157566
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record TV Minas FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Minas FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157567
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record TV Minas HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Minas HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157568
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record TV Minas SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Minas SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157569
+#EXTINF:-1 tvg-id="" tvg-name="Record TV RS FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV RS FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157570
+#EXTINF:-1 tvg-id="" tvg-name="Record TV RS HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV RS HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157571
+#EXTINF:-1 tvg-id="" tvg-name="Record TV RS SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV RS SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157572
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Itapon FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Itapon FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157573
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Itapon HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Itapon HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157574
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Itapon SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Itapon SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157575
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Brasilia FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Brasilia FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157576
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Brasilia HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Brasilia HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157577
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Brasilia SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Brasilia SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157578
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Goias FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Goias FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157579
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Goias HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Goias HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157580
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Goias SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Goias SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157581
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Belém FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Belém FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157582
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Belém HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Belém HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157583
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Belém SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Belém SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157584
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Manaus FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157585
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Manaus HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157586
+#EXTINF:-1 tvg-id="" tvg-name="Record TV Manaus SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/record.png" group-title="Canais Record",Record TV Manaus SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157587
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/redetv.png" group-title="Canais Religiosos",RedeTV! FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157588
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/redetv.png" group-title="Canais Religiosos",RedeTV! HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157589
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/redetv.png" group-title="Canais Religiosos",RedeTV! SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157590
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sbt.png" group-title="Canais SBT",SBT FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157591
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sbt.png" group-title="Canais SBT",SBT HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157592
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sbt.png" group-title="Canais SBT",SBT SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157593
+#EXTINF:-1 tvg-id="" tvg-name="TV Diario" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-diario-hd_m.png" group-title="Canais Aberto",TV Diario
+http://cdn.canais.cc:80/salomao2022/2022salomao/157594
+#EXTINF:-1 tvg-id="" tvg-name="RBTV - Rede Brasil" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="Canais Aberto",RBTV - Rede Brasil
+http://cdn.canais.cc:80/salomao2022/2022salomao/157595
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Campinas FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157596
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Campinas HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157597
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Campinas SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Campinas SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157598
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Central FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Central FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157599
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Central HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Central HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157600
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Central SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Central SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157601
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Ribeirão FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157602
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Ribeirão HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157603
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Ribeirão SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Ribeirão SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157604
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Sul de Minas FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157605
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Sul de Minas HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157606
+#EXTINF:-1 tvg-id="" tvg-name="EPTV Sul de Minas SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",EPTV Sul de Minas SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157607
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="Globo Brasília FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Brasília FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157608
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="Globo Brasília HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Brasília HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157609
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="Globo Brasília SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Brasília SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157610
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Minas FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157611
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Minas HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157612
+#EXTINF:-1 tvg-id="" tvg-name="Globo Minas SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Minas SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157613
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Nordeste FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157614
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="Globo Nordeste HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Nordeste HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157615
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="Globo Nordeste SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Nordeste SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157616
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Rio FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157617
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Rio HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157618
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="Globo Rio SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo Rio SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157619
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo São Paulo FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157620
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo São Paulo HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157621
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Globo São Paulo SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Globo São Paulo SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157622
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Alto Litoral FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157623
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Alto Litoral HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157624
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Alto Litoral SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Alto Litoral SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157625
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Cabugi FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157626
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Cabugi HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157627
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Cabugi SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Cabugi SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157628
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Costa Branca FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Costa Branca FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157629
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Costa Branca HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Costa Branca HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157630
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Costa Branca SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Costa Branca SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157631
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV dos Vales FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157632
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV dos Vales HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157633
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV dos Vales SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV dos Vales SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157634
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Grande Minas FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157635
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Grande Minas HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157636
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Grande Minas SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Grande Minas SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157637
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Planície FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157638
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Planície HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157639
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Planície SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Planície SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157640
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Serra Mar FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157641
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Serra Mar HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157642
+#EXTINF:-1 tvg-id="" tvg-name="Inter TV Serra Mar SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Inter TV Serra Mar SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157643
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Caxias do Sul FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Caxias do Sul FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157644
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Caxias do Sul HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Caxias do Sul HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157645
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Caxias do Sul SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Caxias do Sul SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157646
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Centro-Oeste FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Centro-Oeste FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157647
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Centro-Oeste HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Centro-Oeste HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157648
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Centro-Oeste SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Centro-Oeste SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157649
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Chapecó FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Chapecó FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157650
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Chapecó HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Chapecó HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157651
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Chapecó SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Chapecó SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157652
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Criciúma FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Criciúma FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157653
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Criciúma HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Criciúma HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157654
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Criciúma SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Criciúma SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157655
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Florianópolis FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157656
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Florianópolis HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157657
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Florianópolis SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Florianópolis SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157658
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Joinville FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Joinville FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157659
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Joinville HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Joinville HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157660
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Joinville SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Joinville SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157661
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="RBS TV Porto Alegre FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Porto Alegre FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157662
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="RBS TV Porto Alegre HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Porto Alegre HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157663
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-name="RBS TV Porto Alegre SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Porto Alegre SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157664
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Rede Amazônica Macapá FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Macapá FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157665
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Rede Amazônica Macapá HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Macapá HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157666
+#EXTINF:-1 tvg-id="TVGloboSaoPaulo.br" tvg-name="Rede Amazônica Macapá SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Macapá SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157667
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Manaus FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157668
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Manaus HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157669
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Manaus SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Manaus SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157670
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Parintins FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Parintins FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157671
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Parintins HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Parintins HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157672
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Parintins SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Parintins SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157673
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Porto Velho FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157674
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Porto Velho HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157675
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Porto Velho SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Porto Velho SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157676
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Boa Vista FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157677
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Boa Vista HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157678
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Boa Vista SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Boa Vista SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157679
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Rio Branco FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157680
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Rio Branco HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157681
+#EXTINF:-1 tvg-id="" tvg-name="Rede Amazônica Rio Branco SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Rede Amazônica Rio Branco SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157682
+#EXTINF:-1 tvg-id="" tvg-name="RPC Cascavel FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Cascavel FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157683
+#EXTINF:-1 tvg-id="" tvg-name="RPC Cascavel HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Cascavel HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157684
+#EXTINF:-1 tvg-id="" tvg-name="RPC Cascavel SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Cascavel SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157685
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Curitiba FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157686
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Curitiba HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157687
+#EXTINF:-1 tvg-id="" tvg-name="RPC Curitiba SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Curitiba SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157688
+#EXTINF:-1 tvg-id="" tvg-name="RPC Foz do Iguaçu FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Foz do Iguaçu FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157689
+#EXTINF:-1 tvg-id="" tvg-name="RPC Foz do Iguaçu HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Foz do Iguaçu HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157690
+#EXTINF:-1 tvg-id="" tvg-name="RPC Foz do Iguaçu SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Foz do Iguaçu SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157691
+#EXTINF:-1 tvg-id="" tvg-name="RPC Guarapuava FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Guarapuava FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157692
+#EXTINF:-1 tvg-id="" tvg-name="RPC Guarapuava HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Guarapuava HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157693
+#EXTINF:-1 tvg-id="" tvg-name="RPC Guarapuava SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Guarapuava SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157694
+#EXTINF:-1 tvg-id="" tvg-name="RPC Londrina FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Londrina FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157695
+#EXTINF:-1 tvg-id="" tvg-name="RPC Londrina HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Londrina HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157696
+#EXTINF:-1 tvg-id="" tvg-name="RPC Londrina SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Londrina SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157697
+#EXTINF:-1 tvg-id="" tvg-name="RPC Maringá FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Maringá FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157698
+#EXTINF:-1 tvg-id="" tvg-name="RPC Maringá HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Maringá HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157699
+#EXTINF:-1 tvg-id="" tvg-name="RPC Maringá SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Maringá SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157700
+#EXTINF:-1 tvg-id="" tvg-name="RPC Paranavaí FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Paranavaí FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157701
+#EXTINF:-1 tvg-id="" tvg-name="RPC Paranavaí HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Paranavaí HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157702
+#EXTINF:-1 tvg-id="" tvg-name="RPC Paranavaí SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Paranavaí SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157703
+#EXTINF:-1 tvg-id="" tvg-name="RPC Ponta Grossa FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Ponta Grossa FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157704
+#EXTINF:-1 tvg-id="" tvg-name="RPC Ponta Grossa HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Ponta Grossa HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157705
+#EXTINF:-1 tvg-id="" tvg-name="RPC Ponta Grossa SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RPC Ponta Grossa SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157706
+#EXTINF:-1 tvg-id="" tvg-name="TV Alvorada do Sul FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Alvorada do Sul FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157707
+#EXTINF:-1 tvg-id="" tvg-name="TV Alvorada do Sul HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Alvorada do Sul HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157708
+#EXTINF:-1 tvg-id="" tvg-name="TV Alvorada do Sul SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Alvorada do Sul SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157709
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Anhanguera Goiânia FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157710
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Anhanguera Goiânia HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157711
+#EXTINF:-1 tvg-id="" tvg-name="TV Anhanguera Goiânia SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Anhanguera Goiânia SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157712
+#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Asa Branca FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157713
+#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Asa Branca HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157714
+#EXTINF:-1 tvg-id="" tvg-name="TV Asa Branca SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Asa Branca SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157715
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Bahia FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157716
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Bahia HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157717
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Bahia SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157718
+#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Branco FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Cabo Branco FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157719
+#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Branco HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Cabo Branco HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157720
+#EXTINF:-1 tvg-id="" tvg-name="TV Cabo Branco SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Cabo Branco SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157721
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Centro-américa Cuiabá FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157722
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Centro-américa Cuiabá HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157723
+#EXTINF:-1 tvg-id="" tvg-name="TV Centro-américa Cuiabá SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Centro-américa Cuiabá SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157724
+#EXTINF:-1 tvg-id="" tvg-name="TV Clube FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Aberto",TV Clube FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157725
+#EXTINF:-1 tvg-id="" tvg-name="TV Clube HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Aberto",TV Clube HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157726
+#EXTINF:-1 tvg-id="" tvg-name="TV Clube SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Aberto",TV Clube SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157727
+#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Fronteira FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157728
+#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Fronteira HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157729
+#EXTINF:-1 tvg-id="" tvg-name="TV Fronteira SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Fronteira SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157730
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Aberto",TV Gazeta FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157731
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Aberto",TV Gazeta HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157732
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Aberto",TV Gazeta SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157733
+#EXTINF:-1 tvg-id="" tvg-name="TV Grande Rio FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Grande Rio FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157734
+#EXTINF:-1 tvg-id="" tvg-name="TV Grande Rio HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Grande Rio HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157735
+#EXTINF:-1 tvg-id="" tvg-name="TV Grande Rio SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Grande Rio SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157736
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Ituiutaba FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Integração Ituiutaba FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157737
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Ituiutaba HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Integração Ituiutaba HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157738
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Ituiutaba SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Integração Ituiutaba SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157739
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Integração Uberlândia FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157740
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Integração Uberlândia HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157741
+#EXTINF:-1 tvg-id="" tvg-name="TV Integração Uberlândia SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Integração Uberlândia SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157742
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Liberal Belém FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157743
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Liberal Belém HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157744
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal Belém SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Liberal Belém SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157745
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Balsas FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante Balsas FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157746
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Balsas HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante Balsas HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157747
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Balsas SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante Balsas SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157748
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante Cocais FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157749
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante Cocais HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157750
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Cocais SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante Cocais SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157751
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante Imperatriz FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157752
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante Imperatriz HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157753
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante Imperatriz SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante Imperatriz SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157754
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luís FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante São Luís FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157755
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luís HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante São Luís HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157756
+#EXTINF:-1 tvg-id="" tvg-name="TV Mirante São Luís SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Mirante São Luís SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157757
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Morena Campo Grande FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157758
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Morena Campo Grande HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157759
+#EXTINF:-1 tvg-id="" tvg-name="TV Morena Campo Grande SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Morena Campo Grande SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157760
+#EXTINF:-1 tvg-id="" tvg-name="TV Oeste FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Oeste FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157761
+#EXTINF:-1 tvg-id="" tvg-name="TV Oeste HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Oeste HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157762
+#EXTINF:-1 tvg-id="" tvg-name="TV Oeste SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Oeste SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157763
+#EXTINF:-1 tvg-id="" tvg-name="TV Paraíba FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Paraíba FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157764
+#EXTINF:-1 tvg-id="" tvg-name="TV Paraíba HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Paraíba HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157765
+#EXTINF:-1 tvg-id="" tvg-name="TV Paraíba SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Paraíba SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157766
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Rio Sul FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157767
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Rio Sul HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157768
+#EXTINF:-1 tvg-id="" tvg-name="TV Rio Sul SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Rio Sul SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157769
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Santa Cruz FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157770
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Santa Cruz HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157771
+#EXTINF:-1 tvg-id="" tvg-name="TV Santa Cruz SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Santa Cruz SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157772
+#EXTINF:-1 tvg-id="" tvg-name="TV São Francisco FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV São Francisco FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157773
+#EXTINF:-1 tvg-id="" tvg-name="TV São Francisco HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV São Francisco HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157774
+#EXTINF:-1 tvg-id="" tvg-name="TV São Francisco SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV São Francisco SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157775
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Sergipe FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157776
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Sergipe HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157777
+#EXTINF:-1 tvg-id="" tvg-name="TV Sergipe SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Sergipe SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157778
+#EXTINF:-1 tvg-id="" tvg-name="TV Subaé FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Subaé FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157779
+#EXTINF:-1 tvg-id="" tvg-name="TV Subaé HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Subaé HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157780
+#EXTINF:-1 tvg-id="" tvg-name="TV Subaé SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Subaé SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157781
+#EXTINF:-1 tvg-id="" tvg-name="TV Sudoeste FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Sudoeste FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157782
+#EXTINF:-1 tvg-id="" tvg-name="TV Sudoeste HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Sudoeste HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157783
+#EXTINF:-1 tvg-id="" tvg-name="TV Sudoeste SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Sudoeste SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157784
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM Bauru FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157785
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM Bauru HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157786
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Bauru SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM Bauru SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157787
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM Itapetininga FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157788
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM Itapetininga HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157789
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Itapetininga SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM Itapetininga SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157790
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM São José do Rio Preto FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157791
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM São José do Rio Preto HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157792
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM São José do Rio Preto SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM São José do Rio Preto SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157793
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba  FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM Sorocaba  FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157794
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba  HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM Sorocaba  HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157795
+#EXTINF:-1 tvg-id="" tvg-name="TV TEM Sorocaba  SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV TEM Sorocaba  SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157796
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Tribuna FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157797
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Tribuna HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157798
+#EXTINF:-1 tvg-id="" tvg-name="TV Tribuna SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Tribuna SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157799
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Verdes Mares Cariri FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157800
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Verdes Mares Cariri HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157801
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Cariri SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Verdes Mares Cariri SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157802
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Verdes Mares Fortaleza FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157803
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Verdes Mares Fortaleza HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157804
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares Fortaleza SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",TV Verdes Mares Fortaleza SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157805
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Vanguarda São José dos Campos FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157806
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Vanguarda São José dos Campos HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157807
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda São José dos Campos SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Vanguarda São José dos Campos SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157808
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Vanguarda Taubaté FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157809
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Vanguarda Taubaté HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157810
+#EXTINF:-1 tvg-id="" tvg-name="Vanguarda Taubaté SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",Vanguarda Taubaté SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157811
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Passo Fundo FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Passo Fundo FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157812
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Passo Fundo HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Passo Fundo HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157813
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Passo Fundo SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globo.png" group-title="Canais Globo",RBS TV Passo Fundo SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157814
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/bandsports.png" group-title="Canais  Esporte",Band Sports FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157815
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/bandsports.png" group-title="Canais  Esporte",Band Sports HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157816
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Band Sports SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/bandsports.png" group-title="Canais  Esporte",Band Sports SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157817
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Campeonato Carioca 01" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/campeonatocarioca.png" group-title="Canais  Esporte",Campeonato Carioca 01
+http://cdn.canais.cc:80/salomao2022/2022salomao/157818
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Campeonato Carioca 02" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/campeonatocarioca.png" group-title="Canais  Esporte",Campeonato Carioca 02
+http://cdn.canais.cc:80/salomao2022/2022salomao/157819
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="Campeonato Carioca 03" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/campeonatocarioca.png" group-title="Canais  Esporte",Campeonato Carioca 03
+http://cdn.canais.cc:80/salomao2022/2022salomao/157820
+#EXTINF:-1 tvg-id="" tvg-name="Combate FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/combate.png" group-title="Canais  Esporte",Combate FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157821
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/combate.png" group-title="Canais  Esporte",Combate HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157822
+#EXTINF:-1 tvg-id="" tvg-name="Combate SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/combate.png" group-title="Canais  Esporte",Combate SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157823
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 1 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157824
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 1 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157825
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 1 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 1 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157826
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 2 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157827
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 2 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157828
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 2 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 2 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157829
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 3 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157830
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 3 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157831
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 3 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 3 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157832
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 4 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157833
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 4 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157834
+#EXTINF:-1 tvg-id="" tvg-name="Conmebol TV 4 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/conmebol.png" group-title="Canais  Esporte",Conmebol TV 4 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157835
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Brasil 01" tvg-logo="" group-title="Canais  Esporte",Copa do Brasil 01
+http://cdn.canais.cc:80/salomao2022/2022salomao/157836
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Brasil 02" tvg-logo="" group-title="Canais  Esporte",Copa do Brasil 02
+http://cdn.canais.cc:80/salomao2022/2022salomao/157837
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Brasil 03" tvg-logo="" group-title="Canais  Esporte",Copa do Brasil 03
+http://cdn.canais.cc:80/salomao2022/2022salomao/157838
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 01" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/copanordeste.png" group-title="Canais  Esporte",Copa do Nordeste 01
+http://cdn.canais.cc:80/salomao2022/2022salomao/157839
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 02" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/copanordeste.png" group-title="Canais  Esporte",Copa do Nordeste 02
+http://cdn.canais.cc:80/salomao2022/2022salomao/157840
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste 03" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/copanordeste.png" group-title="Canais  Esporte",Copa do Nordeste 03
+http://cdn.canais.cc:80/salomao2022/2022salomao/157841
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/dazn.png" group-title="Canais  Esporte",DAZN 1 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157842
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/dazn.png" group-title="Canais  Esporte",DAZN 2 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157843
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/dazn.png" group-title="Canais  Esporte",DAZN 3 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157844
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/foxsports2.png" group-title="Canais  Esporte",Fox Sports 2 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157845
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/foxsports2.png" group-title="Canais  Esporte",Fox Sports 2 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157846
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/foxsports2.png" group-title="Canais  Esporte",Fox Sports 2 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157847
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 01" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbomax.png" group-title="Canais HBO",HBO MAX 01
+http://cdn.canais.cc:80/salomao2022/2022salomao/157848
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 02" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbomax.png" group-title="Canais HBO",HBO MAX 02
+http://cdn.canais.cc:80/salomao2022/2022salomao/157849
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 03" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbomax.png" group-title="Canais HBO",HBO MAX 03
+http://cdn.canais.cc:80/salomao2022/2022salomao/157850
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 04" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbomax.png" group-title="Canais HBO",HBO MAX 04
+http://cdn.canais.cc:80/salomao2022/2022salomao/157851
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 05" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hbomax.png" group-title="Canais HBO",HBO MAX 05
+http://cdn.canais.cc:80/salomao2022/2022salomao/157852
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01" tvg-logo="" group-title="Canais  Esporte",NBA 01
+http://cdn.canais.cc:80/salomao2022/2022salomao/157853
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02" tvg-logo="" group-title="Canais  Esporte",NBA 02
+http://cdn.canais.cc:80/salomao2022/2022salomao/157854
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03" tvg-logo="" group-title="Canais  Esporte",NBA 03
+http://cdn.canais.cc:80/salomao2022/2022salomao/157855
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/starplus.png" group-title="Canais  Esporte",STAR+ 1
+http://cdn.canais.cc:80/salomao2022/2022salomao/157856
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/starplus.png" group-title="Canais  Esporte",STAR+ 2
+http://cdn.canais.cc:80/salomao2022/2022salomao/157857
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/starplus.png" group-title="Canais  Esporte",STAR+ 3
+http://cdn.canais.cc:80/salomao2022/2022salomao/157858
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="﻿Premiere 1 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",﻿Premiere 1 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157859
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 1 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157860
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere 1 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 1 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157861
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 2 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157862
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 2 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157863
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 2 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157864
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 3 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157865
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 3 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157866
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 3 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157867
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 4 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157868
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 4 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157869
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 4 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157870
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 5 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157871
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 5 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157872
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 5 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157873
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 6 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157874
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 6 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157875
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 6 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157876
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 7 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157877
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 7 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157878
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 7 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157879
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 8 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157880
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 8 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157881
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/premiere.png" group-title="Canais Premiere",Premiere 8 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157882
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sportv.png" group-title="Canais  Esporte",SporTV FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157883
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sportv.png" group-title="Canais  Esporte",SporTV HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157884
+#EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sportv.png" group-title="Canais  Esporte",SporTV SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157885
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sportv2.png" group-title="Canais  Esporte",SporTV 2 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157886
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sportv2.png" group-title="Canais  Esporte",SporTV 2 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157887
+#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="SporTV 2 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sportv2.png" group-title="Canais  Esporte",SporTV 2 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157888
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sportv3.png" group-title="Canais  Esporte",SporTV 3 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157889
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sportv3.png" group-title="Canais  Esporte",SporTV 3 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157890
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="SporTV 3 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/sportv3.png" group-title="Canais  Esporte",SporTV 3 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157891
+#EXTINF:-1 tvg-id="ESPNBrazil.br" tvg-name="ESPN FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn.png" group-title="Canais  Esporte",ESPN FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157892
+#EXTINF:-1 tvg-id="ESPNBrazil.br" tvg-name="ESPN HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn.png" group-title="Canais  Esporte",ESPN HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157893
+#EXTINF:-1 tvg-id="ESPNBrazil.br" tvg-name="ESPN SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn.png" group-title="Canais  Esporte",ESPN SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157894
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn2.png" group-title="Canais  Esporte",ESPN 2 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157895
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn2.png" group-title="Canais  Esporte",ESPN 2 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157896
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn2.png" group-title="Canais  Esporte",ESPN 2 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157897
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn3.png" group-title="Canais  Esporte",ESPN 3 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157898
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn3.png" group-title="Canais  Esporte",ESPN 3 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157899
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn3.png" group-title="Canais  Esporte",ESPN 3 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157900
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn4.png" group-title="Canais  Esporte",ESPN 4 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157901
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn4.png" group-title="Canais  Esporte",ESPN 4 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157902
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn4.png" group-title="Canais  Esporte",ESPN 4 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157903
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn4.png" group-title="Canais  Esporte",ESPN Extra FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157904
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn4.png" group-title="Canais  Esporte",ESPN Extra HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157905
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/espn4.png" group-title="Canais  Esporte",ESPN Extra SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157906
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="Animal Planet FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/animalplanet.png" group-title="Canais Documentários ",Animal Planet FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157907
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="Animal Planet HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/animalplanet.png" group-title="Canais Documentários ",Animal Planet HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157908
+#EXTINF:-1 tvg-id="AnimalPlanetBrazil.br" tvg-name="Animal Planet SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/animalplanet.png" group-title="Canais Documentários ",Animal Planet SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157909
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte1 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/arte1.png" group-title="Canais Variedades e Musicas ",Arte1 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157910
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte1 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/arte1.png" group-title="Canais Variedades e Musicas ",Arte1 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157911
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte1 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/arte1.png" group-title="Canais Variedades e Musicas ",Arte1 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157912
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/curta.png" group-title="Canais Variedades e Musicas ",Curta! FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157913
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/curta.png" group-title="Canais Variedades e Musicas ",Curta! HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157914
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/curta.png" group-title="Canais Variedades e Musicas ",Curta! SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157915
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="Discovery Channel FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoverychannel.png" group-title="Canais Documentários ",Discovery Channel FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157916
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="Discovery Channel HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoverychannel.png" group-title="Canais Documentários ",Discovery Channel HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157917
+#EXTINF:-1 tvg-id="DiscoveryChannelBrazil.br" tvg-name="Discovery Channel SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoverychannel.png" group-title="Canais Documentários ",Discovery Channel SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157918
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="Discovery Science FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryscience.png" group-title="Canais Documentários ",Discovery Science FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157919
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="Discovery Science HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryscience.png" group-title="Canais Documentários ",Discovery Science HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157920
+#EXTINF:-1 tvg-id="DiscoveryScienceBrazil.br" tvg-name="Discovery Science SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryscience.png" group-title="Canais Documentários ",Discovery Science SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157921
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="Discovery Theater FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoverytheater.png" group-title="Canais Documentários ",Discovery Theater FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157922
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="Discovery Theater HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoverytheater.png" group-title="Canais Documentários ",Discovery Theater HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157923
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="Discovery Theater SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoverytheater.png" group-title="Canais Documentários ",Discovery Theater SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157924
+#EXTINF:-1 tvg-id="DiscoveryWorldHDBrazil.br" tvg-name="Discovery World FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryworld.png" group-title="Canais Documentários ",Discovery World FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157925
+#EXTINF:-1 tvg-id="DiscoveryWorldHDBrazil.br" tvg-name="Discovery World HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryworld.png" group-title="Canais Documentários ",Discovery World HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157926
+#EXTINF:-1 tvg-id="DiscoveryWorldHDBrazil.br" tvg-name="Discovery World SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoveryworld.png" group-title="Canais Documentários ",Discovery World SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157927
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-name="H2 FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/h2.png" group-title="Canais Documentários ",H2 FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157928
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-name="H2 HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/h2.png" group-title="Canais Documentários ",H2 HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157929
+#EXTINF:-1 tvg-id="History2Brazil.br" tvg-name="H2 SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/h2.png" group-title="Canais Documentários ",H2 SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157930
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-name="HGTV FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hgtv.png" group-title="Canais Variedades e Musicas ",HGTV FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157931
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-name="HGTV HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hgtv.png" group-title="Canais Variedades e Musicas ",HGTV HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157932
+#EXTINF:-1 tvg-id="HGTVBrazil.br" tvg-name="HGTV SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/hgtv.png" group-title="Canais Variedades e Musicas ",HGTV SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157933
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-name="History FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/history.png" group-title="Canais Documentários ",History FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157934
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-name="History HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/history.png" group-title="Canais Documentários ",History HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157935
+#EXTINF:-1 tvg-id="HistoryBrazil.br" tvg-name="History SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/history.png" group-title="Canais Documentários ",History SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157936
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-name="ID: Investigação Discovery FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/id.png" group-title="Canais Documentários ",ID: Investigação Discovery FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157937
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-name="ID: Investigação Discovery HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/id.png" group-title="Canais Documentários ",ID: Investigação Discovery HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157938
+#EXTINF:-1 tvg-id="InvestigationDiscoveryBrazil.br" tvg-name="ID: Investigação Discovery SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/id.png" group-title="Canais Documentários ",ID: Investigação Discovery SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157939
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-name="National Geographic FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/nationalgeographic.png" group-title="Canais Documentários ",National Geographic FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157940
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-name="National Geographic HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/nationalgeographic.png" group-title="Canais Documentários ",National Geographic HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157941
+#EXTINF:-1 tvg-id="NationalGeographicBrazil.br" tvg-name="National Geographic SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/nationalgeographic.png" group-title="Canais Documentários ",National Geographic SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157942
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/smithsonianchannel.png" group-title="Canais  Esporte",Smithsonian Channel FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157943
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/smithsonianchannel.png" group-title="Canais  Esporte",Smithsonian Channel HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157944
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/smithsonianchannel.png" group-title="Canais  Esporte",Smithsonian Channel SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157945
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/babytv.png" group-title="Canais Infantis ",BabyTV FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157946
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/babytv.png" group-title="Canais Infantis ",BabyTV HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157947
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/babytv.png" group-title="Canais Infantis ",BabyTV SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157948
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon Network FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cartoonnetwork.png" group-title="Canais Infantis ",Cartoon Network FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157949
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon Network HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cartoonnetwork.png" group-title="Canais Infantis ",Cartoon Network HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157950
+#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="Cartoon Network SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cartoonnetwork.png" group-title="Canais Infantis ",Cartoon Network SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157951
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cartoonito.png" group-title="Canais Infantis ",Cartoonito FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157952
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cartoonito.png" group-title="Canais Infantis ",Cartoonito HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157953
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cartoonito.png" group-title="Canais Infantis ",Cartoonito SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157954
+#EXTINF:-1 tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoverykids.png" group-title="Canais Infantis ",Discovery Kids FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157955
+#EXTINF:-1 tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoverykids.png" group-title="Canais Infantis ",Discovery Kids HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157956
+#EXTINF:-1 tvg-id="DiscoveryKidsBrazil.br" tvg-name="Discovery Kids SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/discoverykids.png" group-title="Canais Infantis ",Discovery Kids SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157957
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-name="Disney Channel FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/disneychannel.png" group-title="Canais Infantis ",Disney Channel FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157958
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-name="Disney Channel HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/disneychannel.png" group-title="Canais Infantis ",Disney Channel HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157959
+#EXTINF:-1 tvg-id="DisneyChannelBrazil.br" tvg-name="Disney Channel SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/disneychannel.png" group-title="Canais Infantis ",Disney Channel SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157960
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/gloob.png" group-title="Canais Infantis ",Gloob FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157961
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/gloob.png" group-title="Canais Infantis ",Gloob HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157962
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/gloob.png" group-title="Canais Infantis ",Gloob SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157963
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/gloobinho.png" group-title="Canais Infantis ",Gloobinho FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157964
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/gloobinho.png" group-title="Canais Infantis ",Gloobinho HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157965
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Gloobinho SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/gloobinho.png" group-title="Canais Infantis ",Gloobinho SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157966
+#EXTINF:-1 tvg-id="NickJrBrazil.br" tvg-name="Nick Jr FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/nickjr.png" group-title="Canais Infantis ",Nick Jr FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157967
+#EXTINF:-1 tvg-id="NickJrBrazil.br" tvg-name="Nick Jr HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/nickjr.png" group-title="Canais Infantis ",Nick Jr HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157968
+#EXTINF:-1 tvg-id="NickJrBrazil.br" tvg-name="Nick Jr SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/nickjr.png" group-title="Canais Infantis ",Nick Jr SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157969
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" tvg-name="Nickelodeon FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/nickelodeon.png" group-title="Canais Infantis ",Nickelodeon FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157970
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" tvg-name="Nickelodeon HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/nickelodeon.png" group-title="Canais Infantis ",Nickelodeon HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157971
+#EXTINF:-1 tvg-id="NickelodeonBrazil.br" tvg-name="Nickelodeon SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/nickelodeon.png" group-title="Canais Infantis ",Nickelodeon SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157972
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tooncast.png" group-title="Canais Infantis ",Tooncast FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157973
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tooncast.png" group-title="Canais Infantis ",Tooncast HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157974
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tooncast.png" group-title="Canais Infantis ",Tooncast SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157975
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/zoomoo.png" group-title="Canais Infantis ",ZooMoo FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157976
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/zoomoo.png" group-title="Canais Infantis ",ZooMoo HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157977
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/zoomoo.png" group-title="Canais Infantis ",ZooMoo SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157978
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/bandnews.png" group-title="Canais Noticias ",Band News FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157979
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/bandnews.png" group-title="Canais Noticias ",Band News HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157980
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="Band News SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/bandnews.png" group-title="Canais Noticias ",Band News SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157981
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cnnbrasil.png" group-title="Canais Noticias ",CNN Brasil FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157982
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cnnbrasil.png" group-title="Canais Noticias ",CNN Brasil HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157983
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cnnbrasil.png" group-title="Canais Noticias ",CNN Brasil SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157984
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globonews.png" group-title="Canais Noticias ",Globo News FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157985
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globonews.png" group-title="Canais Noticias ",Globo News HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157986
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="Globo News SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/globonews.png" group-title="Canais Noticias ",Globo News SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157987
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/jpnews.png" group-title="Canais Noticias ",Jovem Pan News FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157988
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/jpnews.png" group-title="Canais Noticias ",Jovem Pan News HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157989
+#EXTINF:-1 tvg-id="JPNews.br" tvg-name="Jovem Pan News SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/jpnews.png" group-title="Canais Noticias ",Jovem Pan News SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157990
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News FHD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/recordnews.png" group-title="Canais Noticias ",Record News FHD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157991
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News HD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/recordnews.png" group-title="Canais Noticias ",Record News HD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157992
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News SD" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/recordnews.png" group-title="Canais Noticias ",Record News SD
+http://cdn.canais.cc:80/salomao2022/2022salomao/157993
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/cancaonova.png" group-title="Canais Religiosos",Canção Nova
+http://cdn.canais.cc:80/salomao2022/2022salomao/157994
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/novotempo.png" group-title="Canais Religiosos",Novo Tempo
+http://cdn.canais.cc:80/salomao2022/2022salomao/157995
+#EXTINF:-1 tvg-id="" tvg-name="Rede Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/98/Rede_Família.png/200px-Rede_Família.png" group-title="Canais Religiosos",Rede Familia
+http://cdn.canais.cc:80/salomao2022/2022salomao/157996
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/redegospel.png" group-title="Canais Religiosos",Rede Gospel
+http://cdn.canais.cc:80/salomao2022/2022salomao/157997
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/redevida.png" group-title="Canais Religiosos",Rede Vida
+http://cdn.canais.cc:80/salomao2022/2022salomao/157998
+#EXTINF:-1 tvg-id="" tvg-name="Rede CNT" tvg-logo="http://a5.vc/4Ve" group-title="Canais Religiosos",Rede CNT
+http://cdn.canais.cc:80/salomao2022/2022salomao/157999
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/tvaparecida.png" group-title="Canais Religiosos",TV Aparecida
+http://cdn.canais.cc:80/salomao2022/2022salomao/158000
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno" tvg-logo="https://i.imgur.com/splHiMq.png" group-title="Canais Religiosos",TV Pai Eterno
+http://cdn.canais.cc:80/salomao2022/2022salomao/158001
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="http://i.imgur.com/ZGmaGcC.png" group-title="Canais Religiosos",TV Evangelizar
+http://cdn.canais.cc:80/salomao2022/2022salomao/158002
+#EXTINF:-1 tvg-id="" tvg-name="24H Os Simpsons" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Os Simpsons
+http://cdn.canais.cc:80/salomao2022/2022salomao/158003
+#EXTINF:-1 tvg-id="" tvg-name="24H Chaves" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Chaves
+http://cdn.canais.cc:80/salomao2022/2022salomao/158004
+#EXTINF:-1 tvg-id="" tvg-name="24H Chapolin Colorado" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Chapolin Colorado
+http://cdn.canais.cc:80/salomao2022/2022salomao/158005
+#EXTINF:-1 tvg-id="" tvg-name="24H Eu, a Patroa e as Crianças" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Eu, a Patroa e as Crianças
+http://cdn.canais.cc:80/salomao2022/2022salomao/158006
+#EXTINF:-1 tvg-id="" tvg-name="24H Dois Homens e Meio" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Dois Homens e Meio
+http://cdn.canais.cc:80/salomao2022/2022salomao/158007
+#EXTINF:-1 tvg-id="" tvg-name="24H Friends" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Friends
+http://cdn.canais.cc:80/salomao2022/2022salomao/158008
+#EXTINF:-1 tvg-id="" tvg-name="24H Naruto Uzumaki" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Naruto Uzumaki
+http://cdn.canais.cc:80/salomao2022/2022salomao/158009
+#EXTINF:-1 tvg-id="" tvg-name="24H Naruto Shippuden" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Naruto Shippuden
+http://cdn.canais.cc:80/salomao2022/2022salomao/158010
+#EXTINF:-1 tvg-id="" tvg-name="24H Um Maluco no Pedaço" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Um Maluco no Pedaço
+http://cdn.canais.cc:80/salomao2022/2022salomao/158011
+#EXTINF:-1 tvg-id="" tvg-name="24H iCarly Revival" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H iCarly Revival
+http://cdn.canais.cc:80/salomao2022/2022salomao/158012
+#EXTINF:-1 tvg-id="" tvg-name="24H South Park" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H South Park
+http://cdn.canais.cc:80/salomao2022/2022salomao/158013
+#EXTINF:-1 tvg-id="" tvg-name="24H Steven Universo" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Steven Universo
+http://cdn.canais.cc:80/salomao2022/2022salomao/158014
+#EXTINF:-1 tvg-id="" tvg-name="24H Truques da Mente" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Truques da Mente
+http://cdn.canais.cc:80/salomao2022/2022salomao/158015
+#EXTINF:-1 tvg-id="" tvg-name="24H Largados e Pelados A Tribo" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Largados e Pelados A Tribo
+http://cdn.canais.cc:80/salomao2022/2022salomao/158016
+#EXTINF:-1 tvg-id="" tvg-name="24H Todo Mundo Odeia o Chris" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Todo Mundo Odeia o Chris
+http://cdn.canais.cc:80/salomao2022/2022salomao/158017
+#EXTINF:-1 tvg-id="" tvg-name="24H Dragon Ball Z" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Dragon Ball Z
+http://cdn.canais.cc:80/salomao2022/2022salomao/158018
+#EXTINF:-1 tvg-id="" tvg-name="24H Digimon Adventure" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Digimon Adventure
+http://cdn.canais.cc:80/salomao2022/2022salomao/158019
+#EXTINF:-1 tvg-id="" tvg-name="24H Snoopy" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24H Snoopy
+http://cdn.canais.cc:80/salomao2022/2022salomao/158020
+#EXTINF:-1 tvg-id="" tvg-name="24h Big Bang: A Teoria" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24h Big Bang: A Teoria
+http://cdn.canais.cc:80/salomao2022/2022salomao/158021
+#EXTINF:-1 tvg-id="" tvg-name="24h Boku no Hero Academia" tvg-logo="http://www.fontedoscanais.xyz/logos/canais/24h.png" group-title="Cortesia 24 Horas",24h Boku no Hero Academia
+http://cdn.canais.cc:80/salomao2022/2022salomao/158022
