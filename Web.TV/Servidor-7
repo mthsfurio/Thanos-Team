@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://186.209.160.37:8080/icones/ae.png" group-title="FILMES&SERIES",A&E
-http://dmnet.distv.net:8080/live/matheus/123456/630.ts
+http://dmnet.distv.net:8080/matheus/123456/630
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://186.209.160.37:8080/icones/agrobrasil.png" group-title="PARABOLICA",AGRO BRASIL
 http://dmnet.distv.net:8080/live/matheus/123456/427.ts
 #EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://186.209.160.37:8080/icones/agrocanal.png" group-title="PARABOLICA",AGRO CANAL
