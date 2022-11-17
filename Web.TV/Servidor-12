@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 type="video" tvg-id="A Day to Die (2022)" tvg-name="A Day to Die (2022)" tvg-logo="https://www.themoviedb.org/t/p/original/8Kce1utfytAG5m1PbtVoDzmDZJH.jpg" group-title="VOD | FILMES",A Day to Die (2022)
+http://server.bip7plus.xyz/video.m3u8?acesso=917cb4ca8a892e354e15cbb68dd4472a&usuario=4dc97c22fb8277ec2fd1a13f8e02e44d
+#EXTINF:-1 type="video" tvg-id="Clean (2022)" tvg-name="Clean (2022)" tvg-logo="https://www.themoviedb.org/t/p/original/kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg" group-title="VOD | FILMES",Clean (2022)
+http://server.bip7plus.xyz/video.m3u8?acesso=d4c2d8202f284e291bb53447886a3864&usuario=4dc97c22fb8277ec2fd1a13f8e02e44d
+#EXTINF:-1 type="video" tvg-id="Kimi (2022)" tvg-name="Kimi (2022)" tvg-logo="https://www.themoviedb.org/t/p/original/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg" group-title="VOD | FILMES",Kimi (2022)
+http://server.bip7plus.xyz/video.m3u8?acesso=74aca0dc0a6f0ed27e46888cf0cdba6e&usuario=4dc97c22fb8277ec2fd1a13f8e02e44d
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHD" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHD
 http://elitex.me:80/emanuelcarlos/88389753/6283
 #EXTINF:-1 tvg-id="Globosp.br" tvg-name="GB SP FHDᴮᴿ" tvg-logo="https://i.imgur.com/OEKddLl.png" group-title="GLOBOS",GB SP FHDᴮᴿ
