@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name=""FILMES LANÇAMENTOS"" tvg-logo="https://i.imgur.com/sKfyAwS.png" group-title="AREA DO CLIENTE ","FILMES LANÇAMENTOS"
-http://gpfibra.fun:80/654321/123456/2493481
 #EXTINF:-1 tvg-id="" tvg-name="24: A CASA DO MICKEY MOUSE" tvg-logo="" group-title="DESENHOS 24 HORAS ",24: A CASA DO MICKEY MOUSE
 http://gpfibra.fun:80/654321/123456/2803309
 #EXTINF:-1 tvg-id="" tvg-name="24: A PANTERA COR DE ROSA" tvg-logo="" group-title="DESENHOS 24 HORAS ",24: A PANTERA COR DE ROSA
