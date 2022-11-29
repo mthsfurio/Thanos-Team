@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-logo="http://acsa.ws:80/images/44c50887f33c19d84112fe0b55dcc769.jpg" group-title="Canais | A Fazenda",A Fazenda 1 FHD
 http://acsb.sh:80/maysa123/Maysa321/128349
 #EXTINF:-1 tvg-logo="http://acsa.ws:80/images/44c50887f33c19d84112fe0b55dcc769.jpg" group-title="Canais | A Fazenda",A Fazenda 2 FHD
