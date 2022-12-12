@@ -1,0 +1,26 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1,A Fazenda 1 FHD
+http://acsa.ws:80/894537/S1rd9Q/128349.ts
+#EXTINF:-1,A Fazenda 2 FHD
+http://acsa.ws:80/894537/S1rd9Q/172552.ts
+#EXTINF:-1,A Fazenda 3 FHD
+http://acsa.ws:80/894537/S1rd9Q/172553.ts
+#EXTINF:-1,A Fazenda 4 FHD
+http://acsa.ws:80/894537/S1rd9Q/172554.ts
+#EXTINF:-1,A Fazenda 5 FHD
+http://acsa.ws:80/894537/S1rd9Q/172555.ts
+#EXTINF:-1,A Fazenda 6 FHD
+http://acsa.ws:80/894537/S1rd9Q/172556.ts
+#EXTINF:-1,A Fazenda 7 FHD
+http://acsa.ws:80/894537/S1rd9Q/172557.ts
+#EXTINF:-1,A Fazenda 8 FHD
+http://acsa.ws:80/894537/S1rd9Q/172558.ts
+#EXTINF:-1,A Fazenda 9 FHD
+http://acsa.ws:80/894537/S1rd9Q/172559.ts
+#EXTINF:-1,A&E 4K FHDR
+http://acsa.ws:80/894537/S1rd9Q/90647.ts
+#EXTINF:-1,A&E FHD
+http://acsa.ws:80/894537/S1rd9Q/71760.ts
+#EXTINF:-1,A&E FHD [H265]
+http://acsa.ws:80/894537/S1rd9Q/71761
